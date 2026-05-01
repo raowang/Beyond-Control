@@ -8,6 +8,16 @@
 
 ## 目录
 
+- [PART I · 时代背景](#part-i--时代背景)
+- [PART II · 思维重构](#part-ii--思维重构)
+- [PART III · 流程重构](#part-iii--流程重构)
+- [PART IV · 组织重构](#part-iv--组织重构)
+- [PART V · 技能重构](#part-v--技能重构)
+- [PART VI · 阻力维度](#part-vi--阻力维度)
+- [PART VII · 面向未来](#part-vii--面向未来)
+
+---
+
 ### PART I · 时代背景
 
 - [第一章：AI不是风口，是文明级转折](第一章-AI不是风口是文明级转折.md)
