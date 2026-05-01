@@ -26,6 +26,10 @@ def md_to_latex(md_content):
             result.append(line)
             continue
 
+        if line.startswith('# PART'):
+            text = line[1:].strip()
+            result.append(f'\\part{{{text}}}\n')
+            continue
         if line.startswith('# '):
             text = line[2:].strip()
             result.append(f'\\chapter{{{text}}}\n')
