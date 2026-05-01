@@ -17,23 +17,17 @@ jobs:
           python-version: '3.11'
 
       - name: Install Python dependencies
-        run: |
-          pip install markdown
+        run: pip install markdown
 
       - name: Convert Markdown to LaTeX
-        run: |
-          python3 convert_to_latex.py
+        run: python3 convert_to_latex.py
 
-      - name: Install LaTeX
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y texlive-xetex texlive-lang-chinese texlive-latex-extra
-
-      - name: Build PDF
-        run: |
-          cd latex
-          xelatex -interaction=nonstopmode book.tex
-          xelatex -interaction=nonstopmode book.tex
+      - name: Compile LaTeX
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: latex/book.tex
+          latexmk_use_xelatex: true
+          latexmk_shell_escape: true
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
