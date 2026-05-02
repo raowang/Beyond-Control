@@ -34,7 +34,7 @@ jobs:
       - name: Convert Markdown to LaTeX
         run: |
           if [ -n "${{ steps.changed.outputs.files }}" ]; then
-            python3 convert_to_latex.py ${{ steps.changed.outputs.files }}
+            python3 .github/scripts/convert_to_latex.py ${{ steps.changed.outputs.files }}
           else
             echo "No markdown files changed, skipping conversion"
           fi
