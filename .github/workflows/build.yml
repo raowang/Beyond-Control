@@ -14,8 +14,26 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Build PDF
-        run: make build
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install markdown
+
+      - name: Convert Markdown to LaTeX
+        run: |
+          mkdir -p latex
+          python3 .github/scripts/convert_to_latex.py
+
+      - name: Compile LaTeX
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: latex/book.tex
+          latexmk_use_xelatex: true
+          latexmk_shell_escape: true
+          work_in_root_file_dir: true
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v6
