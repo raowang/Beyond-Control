@@ -31,22 +31,22 @@ def md_to_latex(md_content):
                 text = line[1:].strip()
                 result.append(f'\\part{{{text}}}\n')
             continue
-        if line.startswith('# '):
-            text = line[2:].strip()
+        if line.startswith('## '):
+            text = line[3:].strip()
             if '前言' in text:
                 result.append(f'\\chapter*{{{text}}}\n')
             else:
                 text = re.sub(r'^第[一二三四五六七八九十百零〇\d]+章[：:]*', '', text)
                 result.append(f'\\chapter{{{text}}}\n')
             continue
-        if line.startswith('## '):
-            text = line[3:].strip()
+        if line.startswith('### '):
+            text = line[4:].strip()
             text = re.sub(r'^第[一二三四五六七八九十百零〇\d]+节[：:]*', '', text)
             text = re.sub(r'^[一二三四五六七八九十百零〇]+、', '', text)
             result.append(f'\\section{{{text}}}\n')
             continue
-        if line.startswith('### '):
-            text = line[4:].strip()
+        if line.startswith('#### '):
+            text = line[5:].strip()
             text = re.sub(r'^第[一二三四五六七八九十百零〇\d]+节[：:]*', '', text)
             text = re.sub(r'^[一二三四五六七八九十百零〇]+、', '', text)
             result.append(f'\\subsection{{{text}}}\n')

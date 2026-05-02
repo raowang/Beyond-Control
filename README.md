@@ -1,4 +1,4 @@
-# 重塑组织逻辑
+## 重塑组织逻辑
 
 **英文名：Beyond Control: A New Logical Organism in the AI Era**
 
@@ -6,7 +6,7 @@
 
 - [前言](前言.md)
 
-## 目录
+### 目录
 
 
 ### [PART I · 时代背景](PART-I-时代背景.md)
