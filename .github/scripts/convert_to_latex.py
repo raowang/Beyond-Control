@@ -28,7 +28,7 @@ def md_to_latex(md_content):
 
         if line.startswith('# PART'):
             if 'chapter' not in output_path:
-                text = line[1:].strip()
+                text = line[7:].strip()
                 result.append(f'\\part{{{text}}}\n')
             continue
         if line.startswith('## '):
@@ -152,7 +152,7 @@ files = [
 
 import os
 import sys
-base_dir = os.path.dirname(os.path.abspath(__file__))
+base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # If specific files are passed, only convert those
 target_files = set()
