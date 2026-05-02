@@ -149,10 +149,23 @@ files = [
 ]
 
 import os
+import sys
 base_dir = os.path.dirname(os.path.abspath(__file__))
+
+# If specific files are passed, only convert those
+target_files = set()
+if len(sys.argv) > 1:
+    for arg in sys.argv[1:]:
+        target_files.add(arg)
+    print(f"Selective mode: {len(target_files)} files specified")
+
 for md_file, tex_file in files:
     input_path = os.path.join(base_dir, md_file)
     output_path = os.path.join(base_dir, tex_file)
+    # In selective mode, skip if not in target
+    if target_files and md_file not in target_files:
+        print(f"Skipped (not targeted): {md_file}")
+        continue
     if os.path.exists(input_path):
         convert_file(input_path, output_path)
     else:
