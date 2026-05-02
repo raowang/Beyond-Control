@@ -60,6 +60,8 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags/') && github.repository_owner == 'raowang'
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v6
         with:
@@ -81,6 +83,6 @@ jobs:
           draft: false
           prerelease: false
           files: ./dist/book.pdf
-          generate_release_notes: true
+          generate_release_notes: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
