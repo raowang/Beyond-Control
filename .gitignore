@@ -1,3 +1,7 @@
 latex/
 build/
 release/
+.DS_Store
+openspec/
+
+*tmp*
