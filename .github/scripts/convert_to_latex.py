@@ -45,6 +45,16 @@ def md_to_latex(md_content):
                 result.append(f'\\part*{{{text}}}\n')
                 result.append(f'\\addcontentsline{{toc}}{{part}}{{{text}}}\n')
             continue
+        if line.startswith('# ') and not line.startswith('## '):
+            # 处理一级标题（如章节标题 # 第一章：xxx）
+            text = line[2:].strip()
+            if '前言' in text:
+                result.append(f'\\chapter*{{{text}}}\n')
+            else:
+                # 去掉章节号，保留标题
+                text = re.sub(r'^第[一二三四五六七八九十百零〇\d]+章[：:]*', '', text)
+                result.append(f'\\chapter{{{text}}}\n')
+            continue
         if line.startswith('## '):
             text = line[3:].strip()
             if '前言' in text:
