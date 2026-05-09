@@ -117,13 +117,13 @@ def md_to_latex(md_content):
 
         img_match = re.match(r'!\[(.*?)\]\((.+?)\)', line)
         if img_match:
-            _, path = img_match.groups()
+            alt, path = img_match.groups()
             path = path.strip()
             for ext in ('.svg', '.png', '.pdf', '.jpg', '.jpeg'):
                 if path.lower().endswith(ext):
                     path = path[:-len(ext)]
                     break
-            result.append(f'\\includegraphics{{{path}}}')
+            result.append(f'\\begin{{figure}}[htbp]\\centering\\includegraphics[width=\\linewidth]{{{path}}}\\caption{{{alt}}}\\end{{figure}}')
             continue
 
         # Regular text
