@@ -115,6 +115,17 @@ def md_to_latex(md_content):
         if line.strip().startswith('>'):
             continue
 
+        img_match = re.match(r'!\[(.*?)\]\((.+?)\)', line)
+        if img_match:
+            _, path = img_match.groups()
+            path = path.strip()
+            for ext in ('.svg', '.png', '.pdf', '.jpg', '.jpeg'):
+                if path.lower().endswith(ext):
+                    path = path[:-len(ext)]
+                    break
+            result.append(f'\\includegraphics{{{path}}}')
+            continue
+
         # Regular text
         if line.strip() and not in_list:
             result.append(line)
