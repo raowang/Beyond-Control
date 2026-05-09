@@ -19,8 +19,20 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Python dependencies
-        run: pip install markdown
+      - name: Install dependencies
+        run: |
+          pip install markdown
+          sudo apt-get update && sudo apt-get install -y inkscape librsvg2-bin
+
+      - name: Convert SVG to PDF
+        run: |
+          for f in illustrations/*.svg; do
+            if [ -f "$f" ]; then
+              pdf="${f%.svg}.pdf"
+              echo "Converting $f -> $pdf"
+              inkscape "$f" -o "$pdf" 2>/dev/null || rsvg-convert -f pdf -o "$pdf" "$f"
+            fi
+          done
 
       - name: Convert Markdown to LaTeX
         run: |
