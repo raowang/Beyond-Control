@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" style="font-family: 'Noto Serif CJK SC', serif;">
   <title>德鲁克框架：效果优先于效率（手绘风格）</title>
   <defs>
     <filter id="rough" x="-3%" y="-3%" width="106%" height="106%">
