@@ -3,95 +3,95 @@
 
   <rect width="800" height="480" fill="white"/>
 
-  <text x="400" y="34" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a1a1a">德鲁克框架：效果优先于效率</text>
+  <text x="400" y="34" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a1a1a">德鲁克框架：效果优先于效率</text>
 
   <!-- 左侧: 效率 -->
   <rect x="40" y="52" width="290" height="200" rx="9" fill="#FFF3E0" stroke="#E65100" stroke-width="2"/>
-  <text x="185" y="78" text-anchor="middle" font-size="14" font-weight="bold" fill="#E65100">效率 (Efficiency)</text>
-  <text x="185" y="96" text-anchor="middle" font-size="10" fill="#888">把事情做对</text>
+  <text x="185" y="78" text-anchor="middle" font-size="11" font-weight="bold" fill="#E65100">效率 (Efficiency)</text>
+  <text x="185" y="96" text-anchor="middle" font-size="8" fill="#888">把事情做对</text>
 
   <ellipse cx="65" cy="120" rx="5" ry="5" fill="#E65100"/>
-  <text x="78" y="124" font-size="11" fill="#333">快速执行</text>
+  <text x="78" y="124" font-size="9" fill="#333">快速执行</text>
   <ellipse cx="65" cy="144" rx="5" ry="5" fill="#E65100"/>
-  <text x="78" y="148" font-size="11" fill="#333">流程优化</text>
+  <text x="78" y="148" font-size="9" fill="#333">流程优化</text>
   <ellipse cx="65" cy="168" rx="5" ry="5" fill="#E65100"/>
-  <text x="78" y="172" font-size="11" fill="#333">成本削减</text>
+  <text x="78" y="172" font-size="9" fill="#333">成本削减</text>
   <ellipse cx="65" cy="192" rx="5" ry="5" fill="#E65100"/>
-  <text x="78" y="196" font-size="11" fill="#333">标准化操作</text>
+  <text x="78" y="196" font-size="9" fill="#333">标准化操作</text>
   <ellipse cx="65" cy="216" rx="5" ry="5" fill="#E65100"/>
-  <text x="78" y="220" font-size="11" fill="#333">产出最大化</text>
+  <text x="78" y="220" font-size="9" fill="#333">产出最大化</text>
 
   <rect x="60" y="232" width="250" height="28" rx="5" fill="#FFECB3" stroke="#FFB300" stroke-width="1.2"/>
-  <text x="185" y="250" text-anchor="middle" font-size="10" fill="#E65100">AI天然是效率神器：几天的事，AI几秒搞定</text>
+  <text x="185" y="250" text-anchor="middle" font-size="8" fill="#E65100">AI天然是效率神器：几天的事，AI几秒搞定</text>
 
   <!-- 中间 VS -->
   <text x="400" y="157" text-anchor="middle" font-size="26" font-weight="bold" fill="#bbb">VS</text>
 
   <!-- 右侧: 效果 -->
   <rect x="470" y="52" width="290" height="200" rx="9" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
-  <text x="615" y="78" text-anchor="middle" font-size="14" font-weight="bold" fill="#2E7D32">效果 (Effectiveness)</text>
-  <text x="615" y="96" text-anchor="middle" font-size="10" fill="#888">做对的事情</text>
+  <text x="615" y="78" text-anchor="middle" font-size="11" font-weight="bold" fill="#2E7D32">效果 (Effectiveness)</text>
+  <text x="615" y="96" text-anchor="middle" font-size="8" fill="#888">做对的事情</text>
 
   <ellipse cx="495" cy="120" rx="5" ry="5" fill="#2E7D32"/>
-  <text x="508" y="124" font-size="11" fill="#333">做正确的事</text>
+  <text x="508" y="124" font-size="9" fill="#333">做正确的事</text>
   <ellipse cx="495" cy="144" rx="5" ry="5" fill="#2E7D32"/>
-  <text x="508" y="148" font-size="11" fill="#333">创造独特价值</text>
+  <text x="508" y="148" font-size="9" fill="#333">创造独特价值</text>
   <ellipse cx="495" cy="168" rx="5" ry="5" fill="#2E7D32"/>
-  <text x="508" y="172" font-size="11" fill="#333">洞见与判断</text>
+  <text x="508" y="172" font-size="9" fill="#333">洞见与判断</text>
   <ellipse cx="495" cy="192" rx="5" ry="5" fill="#2E7D32"/>
-  <text x="508" y="196" font-size="11" fill="#333">关系与意义</text>
+  <text x="508" y="196" font-size="9" fill="#333">关系与意义</text>
   <ellipse cx="495" cy="216" rx="5" ry="5" fill="#2E7D32"/>
-  <text x="508" y="220" font-size="11" fill="#333">人尽其才</text>
+  <text x="508" y="220" font-size="9" fill="#333">人尽其才</text>
 
   <rect x="495" y="232" width="250" height="28" rx="5" fill="#C8E6C9" stroke="#388E3C" stroke-width="1.2"/>
-  <text x="620" y="250" text-anchor="middle" font-size="10" fill="#2E7D32">效率越高，埋的雷越大（没想清楚时）</text>
+  <text x="620" y="250" text-anchor="middle" font-size="8" fill="#2E7D32">效率越高，埋的雷越大（没想清楚时）</text>
 
   <!-- 底部核心观点 -->
   <rect x="90" y="276" width="620" height="46" rx="7" fill="#FFFDE7" stroke="#F9A825" stroke-width="2"/>
-  <text x="400" y="296" text-anchor="middle" font-size="13" font-weight="bold" fill="#E65100">德鲁克：效果第一，效率第二</text>
-  <text x="400" y="313" text-anchor="middle" font-size="11" fill="#666">往墙上钉钉子，效率再高，钉歪了有什么用？</text>
+  <text x="400" y="296" text-anchor="middle" font-size="11" font-weight="bold" fill="#E65100">德鲁克：效果第一，效率第二</text>
+  <text x="400" y="313" text-anchor="middle" font-size="9" fill="#666">往墙上钉钉子，效率再高，钉歪了有什么用？</text>
 
   <line x1="50" y1="340" x2="750" y2="340" stroke="#ddd" stroke-width="1.5" stroke-dasharray="5,4"/>
 
-  <text x="50" y="360" font-size="13" font-weight="bold" fill="#333">德鲁克的 timeless 原则（技术变，这些不变）</text>
+  <text x="50" y="360" font-size="11" font-weight="bold" fill="#333">德鲁克的 timeless 原则（技术变，这些不变）</text>
 
   <!-- 5个原则卡片 -->
   <g transform="translate(50, 375)">
     <rect x="0" y="0" width="132" height="55" rx="6" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.5"/>
-    <text x="66" y="17" text-anchor="middle" font-size="10" font-weight="bold" fill="#0D47A1">组织目的</text>
-    <text x="66" y="32" text-anchor="middle" font-size="9" fill="#1565C0">让平凡人做出不平凡事</text>
+    <text x="66" y="17" text-anchor="middle" font-size="8" font-weight="bold" fill="#0D47A1">组织目的</text>
+    <text x="66" y="32" text-anchor="middle" font-size="7" fill="#1565C0">让平凡人做出不平凡事</text>
     <text x="66" y="46" text-anchor="middle" font-size="8" fill="#aaa">1973《管理》</text>
   </g>
 
   <g transform="translate(192, 375)">
     <rect x="0" y="0" width="132" height="55" rx="6" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.5"/>
-    <text x="66" y="17" text-anchor="middle" font-size="10" font-weight="bold" fill="#1B5E20">知识工作者</text>
-    <text x="66" y="32" text-anchor="middle" font-size="9" fill="#2E7D32">意义 > 工资</text>
+    <text x="66" y="17" text-anchor="middle" font-size="8" font-weight="bold" fill="#1B5E20">知识工作者</text>
+    <text x="66" y="32" text-anchor="middle" font-size="7" fill="#2E7D32">意义 > 工资</text>
     <text x="66" y="46" text-anchor="middle" font-size="8" fill="#aaa">1994《管理挑战21世纪》</text>
   </g>
 
   <g transform="translate(334, 375)">
     <rect x="0" y="0" width="132" height="55" rx="6" fill="#FFF3E0" stroke="#E65100" stroke-width="1.5"/>
-    <text x="66" y="17" text-anchor="middle" font-size="10" font-weight="bold" fill="#E65100">动荡是常态</text>
-    <text x="66" y="32" text-anchor="middle" font-size="9" fill="#E65100">在不确定中生存</text>
+    <text x="66" y="17" text-anchor="middle" font-size="8" font-weight="bold" fill="#E65100">动荡是常态</text>
+    <text x="66" y="32" text-anchor="middle" font-size="7" fill="#E65100">在不确定中生存</text>
     <text x="66" y="46" text-anchor="middle" font-size="8" fill="#aaa">1980《动荡时代》</text>
   </g>
 
   <g transform="translate(476, 375)">
     <rect x="0" y="0" width="132" height="55" rx="6" fill="#F3E5F5" stroke="#7B1FA2" stroke-width="1.5"/>
-    <text x="66" y="17" text-anchor="middle" font-size="10" font-weight="bold" fill="#6A1B9A">发挥优势</text>
-    <text x="66" y="32" text-anchor="middle" font-size="9" fill="#7B1FA2">管理是让人发挥优势</text>
+    <text x="66" y="17" text-anchor="middle" font-size="8" font-weight="bold" fill="#6A1B9A">发挥优势</text>
+    <text x="66" y="32" text-anchor="middle" font-size="7" fill="#7B1FA2">管理是让人发挥优势</text>
     <text x="66" y="46" text-anchor="middle" font-size="8" fill="#aaa">《有效的管理者》</text>
   </g>
 
   <g transform="translate(618, 375)">
     <rect x="0" y="0" width="132" height="55" rx="6" fill="#FFEBEE" stroke="#C62828" stroke-width="1.5"/>
-    <text x="66" y="17" text-anchor="middle" font-size="10" font-weight="bold" fill="#B71C1C">效果 > 效率</text>
-    <text x="66" y="32" text-anchor="middle" font-size="9" fill="#C62828">先做对的事，再求对</text>
+    <text x="66" y="17" text-anchor="middle" font-size="8" font-weight="bold" fill="#B71C1C">效果 > 效率</text>
+    <text x="66" y="32" text-anchor="middle" font-size="7" fill="#C62828">先做对的事，再求对</text>
     <text x="66" y="46" text-anchor="middle" font-size="8" fill="#aaa">《有效的管理者》</text>
   </g>
 
   <line x1="50" y1="448" x2="750" y2="448" stroke="#ddd" stroke-width="1.5" stroke-dasharray="5,4"/>
-  <text x="50" y="466" font-size="10" fill="#888">技术会过时（KPI, OKR, ERP都成过眼云烟），但人性的理解永不过时</text>
+  <text x="50" y="466" font-size="8" fill="#888">技术会过时（KPI, OKR, ERP都成过眼云烟），但人性的理解永不过时</text>
 
 </svg>

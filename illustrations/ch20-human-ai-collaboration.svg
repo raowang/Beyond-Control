@@ -4,8 +4,8 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold" fill="#333">人机协作的四个核心技能</text>
-  <text x="400" y="62" text-anchor="middle" font-size="12" fill="#777">用同样的AI工具，不同人产生的结果质量差异巨大</text>
+  <text x="400" y="40" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">人机协作的四个核心技能</text>
+  <text x="400" y="62" text-anchor="middle" font-size="10" fill="#777">用同样的AI工具，不同人产生的结果质量差异巨大</text>
 
   <!-- ============================================================ -->
   <!-- 四个技能 -->
@@ -14,38 +14,38 @@
   <!-- 技能1：任务定义 -->
   <rect x="60" y="100" width="170" height="150" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
   <circle cx="145" cy="135" r="30" fill="#1864ab"/>
-  <text x="145" y="142" text-anchor="middle" font-size="22" font-weight="bold" fill="white">1</text>
-  <text x="145" y="185" text-anchor="middle" font-size="14" font-weight="bold" fill="#1864ab">任务定义</text>
-  <text x="145" y="210" text-anchor="middle" font-size="10" fill="#333">知道什么任务</text>
-  <text x="145" y="228" text-anchor="middle" font-size="10" fill="#333">适合交给AI</text>
-  <text x="145" y="246" text-anchor="middle" font-size="10" fill="#666">什么应该自己做</text>
+  <text x="145" y="142" text-anchor="middle" font-size="18" font-weight="bold" fill="white">1</text>
+  <text x="145" y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#1864ab">任务定义</text>
+  <text x="145" y="210" text-anchor="middle" font-size="8" fill="#333">知道什么任务</text>
+  <text x="145" y="228" text-anchor="middle" font-size="8" fill="#333">适合交给AI</text>
+  <text x="145" y="246" text-anchor="middle" font-size="8" fill="#666">什么应该自己做</text>
 
   <!-- 技能2：提示工程 -->
   <rect x="250" y="100" width="170" height="150" rx="10" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
   <circle cx="335" cy="135" r="30" fill="#862e9c"/>
-  <text x="335" y="142" text-anchor="middle" font-size="22" font-weight="bold" fill="white">2</text>
-  <text x="335" y="185" text-anchor="middle" font-size="14" font-weight="bold" fill="#862e9c">提示工程</text>
-  <text x="335" y="210" text-anchor="middle" font-size="10" fill="#333">给AI清晰的指令</text>
-  <text x="335" y="228" text-anchor="middle" font-size="10" fill="#333">引导AI产生</text>
-  <text x="335" y="246" text-anchor="middle" font-size="10" fill="#666">更好的输出</text>
+  <text x="335" y="142" text-anchor="middle" font-size="18" font-weight="bold" fill="white">2</text>
+  <text x="335" y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#862e9c">提示工程</text>
+  <text x="335" y="210" text-anchor="middle" font-size="8" fill="#333">给AI清晰的指令</text>
+  <text x="335" y="228" text-anchor="middle" font-size="8" fill="#333">引导AI产生</text>
+  <text x="335" y="246" text-anchor="middle" font-size="8" fill="#666">更好的输出</text>
 
   <!-- 技能3：输出评估 -->
   <rect x="440" y="100" width="170" height="150" rx="10" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
   <circle cx="525" cy="135" r="30" fill="#d77a00"/>
-  <text x="525" y="142" text-anchor="middle" font-size="22" font-weight="bold" fill="white">3</text>
-  <text x="525" y="185" text-anchor="middle" font-size="14" font-weight="bold" fill="#d77a00">输出评估</text>
-  <text x="525" y="210" text-anchor="middle" font-size="10" fill="#333">判断AI输出</text>
-  <text x="525" y="228" text-anchor="middle" font-size="10" fill="#333">是否正确、合理</text>
-  <text x="525" y="246" text-anchor="middle" font-size="10" fill="#666">有价值</text>
+  <text x="525" y="142" text-anchor="middle" font-size="18" font-weight="bold" fill="white">3</text>
+  <text x="525" y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#d77a00">输出评估</text>
+  <text x="525" y="210" text-anchor="middle" font-size="8" fill="#333">判断AI输出</text>
+  <text x="525" y="228" text-anchor="middle" font-size="8" fill="#333">是否正确、合理</text>
+  <text x="525" y="246" text-anchor="middle" font-size="8" fill="#666">有价值</text>
 
   <!-- 技能4：迭代优化 -->
   <rect x="630" y="100" width="140" height="150" rx="10" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
   <circle cx="700" cy="135" r="30" fill="#e64980"/>
-  <text x="700" y="142" text-anchor="middle" font-size="22" font-weight="bold" fill="white">4</text>
-  <text x="700" y="185" text-anchor="middle" font-size="14" font-weight="bold" fill="#e64980">迭代优化</text>
-  <text x="700" y="210" text-anchor="middle" font-size="10" fill="#333">基于AI输出</text>
-  <text x="700" y="228" text-anchor="middle" font-size="10" fill="#333">进行修改</text>
-  <text x="700" y="246" text-anchor="middle" font-size="10" fill="#666">和改进</text>
+  <text x="700" y="142" text-anchor="middle" font-size="18" font-weight="bold" fill="white">4</text>
+  <text x="700" y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">迭代优化</text>
+  <text x="700" y="210" text-anchor="middle" font-size="8" fill="#333">基于AI输出</text>
+  <text x="700" y="228" text-anchor="middle" font-size="8" fill="#333">进行修改</text>
+  <text x="700" y="246" text-anchor="middle" font-size="8" fill="#666">和改进</text>
 
   <!-- 连接箭头 -->
   <path d="M230 175 L245 175" fill="none" stroke="#868e96" stroke-width="2"/>
@@ -62,9 +62,9 @@
   <line x1="50" y1="290" x2="750" y2="290" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="100" y="305" width="600" height="100" rx="10" fill="#fff5f5" stroke="#c92a2a" stroke-width="2"/>
-  <text x="400" y="330" text-anchor="middle" font-size="14" font-weight="bold" fill="#c92a2a">⚠️ 自动化依赖效应</text>
-  <text x="400" y="355" text-anchor="middle" font-size="11" fill="#333">当人类长期依赖AI系统完成某些任务后，一旦AI系统不可用，</text>
-  <text x="400" y="375" text-anchor="middle" font-size="12" font-weight="bold" fill="#c92a2a">人类的表现往往比从未使用过AI的对照组更差</text>
-  <text x="400" y="395" text-anchor="middle" font-size="11" fill="#666">与AI协作的技能，需要被刻意培养</text>
+  <text x="400" y="330" text-anchor="middle" font-size="11" font-weight="bold" fill="#c92a2a">⚠️ 自动化依赖效应</text>
+  <text x="400" y="355" text-anchor="middle" font-size="9" fill="#333">当人类长期依赖AI系统完成某些任务后，一旦AI系统不可用，</text>
+  <text x="400" y="375" text-anchor="middle" font-size="10" font-weight="bold" fill="#c92a2a">人类的表现往往比从未使用过AI的对照组更差</text>
+  <text x="400" y="395" text-anchor="middle" font-size="9" fill="#666">与AI协作的技能，需要被刻意培养</text>
 
 </svg>

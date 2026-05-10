@@ -4,12 +4,12 @@
   <rect width="800" height="500" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="35" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">五个信号背后的共同逻辑</text>
+  <text x="400" y="35" text-anchor="middle" font-size="12" font-weight="bold" fill="#333">五个信号背后的共同逻辑</text>
 
   <!-- 中央大圆 - 旧逻辑 -->
   <circle cx="400" cy="220" r="65" fill="#fff5f5" stroke="#c92a2a" stroke-width="3"/>
-  <text x="400" y="212" text-anchor="middle" font-size="15" font-weight="bold" fill="#c92a2a">旧逻辑</text>
-  <text x="400" y="232" text-anchor="middle" font-size="15" font-weight="bold" fill="#c92a2a">失灵</text>
+  <text x="400" y="212" text-anchor="middle" font-size="12" font-weight="bold" fill="#c92a2a">旧逻辑</text>
+  <text x="400" y="232" text-anchor="middle" font-size="12" font-weight="bold" fill="#c92a2a">失灵</text>
 
   <!-- 闪电裂痕 -->
   <path d="M400 155 L410 180 L395 180 L405 205" fill="none" stroke="#c92a2a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -17,47 +17,47 @@
 
   <!-- 信号1：战略规划赶不上变化 (左上) -->
   <rect x="60" y="80" width="190" height="90" rx="8" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="155" y="105" text-anchor="middle" font-size="13" font-weight="bold" fill="#1864ab">信号一</text>
-  <text x="155" y="128" text-anchor="middle" font-size="11" fill="#333">战略规划</text>
-  <text x="155" y="148" text-anchor="middle" font-size="11" fill="#333">赶不上变化</text>
+  <text x="155" y="105" text-anchor="middle" font-size="11" font-weight="bold" fill="#1864ab">信号一</text>
+  <text x="155" y="128" text-anchor="middle" font-size="9" fill="#333">战略规划</text>
+  <text x="155" y="148" text-anchor="middle" font-size="9" fill="#333">赶不上变化</text>
   <path d="M195 175 Q280 175 345 200" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="5,4"/>
   <polygon points="345,200 340,196 342,204" fill="#868e96"/>
 
   <!-- 信号2：最佳实践变成最佳诅咒 (右上) -->
   <rect x="550" y="80" width="190" height="90" rx="8" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
-  <text x="645" y="105" text-anchor="middle" font-size="13" font-weight="bold" fill="#862e9c">信号二</text>
-  <text x="645" y="128" text-anchor="middle" font-size="11" fill="#333">最佳实践</text>
-  <text x="645" y="148" text-anchor="middle" font-size="11" fill="#333">变成最佳诅咒</text>
+  <text x="645" y="105" text-anchor="middle" font-size="11" font-weight="bold" fill="#862e9c">信号二</text>
+  <text x="645" y="128" text-anchor="middle" font-size="9" fill="#333">最佳实践</text>
+  <text x="645" y="148" text-anchor="middle" font-size="9" fill="#333">变成最佳诅咒</text>
   <path d="M605 175 Q520 175 455 200" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="5,4"/>
   <polygon points="455,200 460,196 458,204" fill="#868e96"/>
 
   <!-- 信号3：绩效考核越来越难 (左下) -->
   <rect x="60" y="270" width="190" height="90" rx="8" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
-  <text x="155" y="295" text-anchor="middle" font-size="13" font-weight="bold" fill="#e64980">信号三</text>
-  <text x="155" y="318" text-anchor="middle" font-size="11" fill="#333">绩效考核</text>
-  <text x="155" y="338" text-anchor="middle" font-size="11" fill="#333">越来越难反映真实贡献</text>
+  <text x="155" y="295" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">信号三</text>
+  <text x="155" y="318" text-anchor="middle" font-size="9" fill="#333">绩效考核</text>
+  <text x="155" y="338" text-anchor="middle" font-size="9" fill="#333">越来越难反映真实贡献</text>
   <path d="M195 270 Q280 270 345 245" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="5,4"/>
   <polygon points="345,245 340,249 348,249" fill="#868e96"/>
 
   <!-- 信号4：组织边界模糊 (右中) -->
   <rect x="550" y="270" width="190" height="90" rx="8" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
-  <text x="645" y="295" text-anchor="middle" font-size="13" font-weight="bold" fill="#d77a00">信号四</text>
-  <text x="645" y="318" text-anchor="middle" font-size="11" fill="#333">组织边界模糊</text>
-  <text x="645" y="338" text-anchor="middle" font-size="11" fill="#333">内部摩擦却越来越大</text>
+  <text x="645" y="295" text-anchor="middle" font-size="11" font-weight="bold" fill="#d77a00">信号四</text>
+  <text x="645" y="318" text-anchor="middle" font-size="9" fill="#333">组织边界模糊</text>
+  <text x="645" y="338" text-anchor="middle" font-size="9" fill="#333">内部摩擦却越来越大</text>
   <path d="M605 270 Q520 270 455 245" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="5,4"/>
   <polygon points="455,245 460,249 458,241" fill="#868e96"/>
 
   <!-- 信号5：人才培养跟不上 (底部中间) -->
   <rect x="280" y="390" width="240" height="85" rx="8" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="400" y="418" text-anchor="middle" font-size="13" font-weight="bold" fill="#2b8a3e">信号五</text>
-  <text x="400" y="442" text-anchor="middle" font-size="11" fill="#333">人才培养速度</text>
-  <text x="400" y="462" text-anchor="middle" font-size="11" fill="#333">跟不上能力折旧速度</text>
+  <text x="400" y="418" text-anchor="middle" font-size="11" font-weight="bold" fill="#2b8a3e">信号五</text>
+  <text x="400" y="442" text-anchor="middle" font-size="9" fill="#333">人才培养速度</text>
+  <text x="400" y="462" text-anchor="middle" font-size="9" fill="#333">跟不上能力折旧速度</text>
   <path d="M400 300 Q400 350 400 385" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="5,4"/>
   <polygon points="400,385 396,379 404,379" fill="#868e96"/>
 
   <!-- 底部总结 -->
   <rect x="150" y="55" width="500" height="35" rx="6" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
-  <text x="400" y="78" text-anchor="middle" font-size="12" fill="#666">
+  <text x="400" y="78" text-anchor="middle" font-size="10" fill="#666">
     工业时代和知识经济时代的管理逻辑建立在
     <tspan fill="#c92a2a" font-weight="bold">"环境稳定"</tspan>
     假设之上

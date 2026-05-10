@@ -4,15 +4,15 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold" fill="#333">关系技能：管理的本质</text>
-  <text x="400" y="62" text-anchor="middle" font-size="12" fill="#777">AI时代，关系技能正在变得更稀缺</text>
+  <text x="400" y="40" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">关系技能：管理的本质</text>
+  <text x="400" y="62" text-anchor="middle" font-size="10" fill="#777">AI时代，关系技能正在变得更稀缺</text>
 
   <!-- ============================================================ -->
   <!-- 中央：管理的本质是关系 -->
   <!-- ============================================================ -->
 
   <circle cx="400" cy="200" r="100" fill="#ebfbee" stroke="#2b8a3e" stroke-width="3"/>
-  <text x="400" y="180" text-anchor="middle" font-size="16" font-weight="bold" fill="#2b8a3e">管理的本质</text>
+  <text x="400" y="180" text-anchor="middle" font-size="13" font-weight="bold" fill="#2b8a3e">管理的本质</text>
   <text x="400" y="210" text-anchor="middle" font-size="24" font-weight="bold" fill="#2b8a3e">是关系</text>
 
   <!-- ============================================================ -->
@@ -20,38 +20,38 @@
   <!-- ============================================================ -->
 
   <rect x="50" y="90" width="250" height="200" rx="10" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
-  <text x="175" y="120" text-anchor="middle" font-size="14" font-weight="bold" fill="#e64980">关系技能变稀缺的原因</text>
+  <text x="175" y="120" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">关系技能变稀缺的原因</text>
 
   <circle cx="80" cy="160" r="6" fill="#e64980"/>
-  <text x="95" y="165" font-size="11" fill="#333">AI让信息交换变得太容易</text>
+  <text x="95" y="165" font-size="9" fill="#333">AI让信息交换变得太容易</text>
 
   <circle cx="80" cy="190" r="6" fill="#e64980"/>
-  <text x="95" y="195" font-size="11" fill="#333">远程工作削弱了日常连接</text>
+  <text x="95" y="195" font-size="9" fill="#333">远程工作削弱了日常连接</text>
 
   <circle cx="80" cy="220" r="6" fill="#e64980"/>
-  <text x="95" y="225" font-size="11" fill="#333">效率优先挤压了关系建设时间</text>
+  <text x="95" y="225" font-size="9" fill="#333">效率优先挤压了关系建设时间</text>
 
   <circle cx="80" cy="250" r="6" fill="#e64980"/>
-  <text x="95" y="255" font-size="11" fill="#333">AI加剧职场孤独感</text>
+  <text x="95" y="255" font-size="9" fill="#333">AI加剧职场孤独感</text>
 
   <!-- ============================================================ -->
   <!-- 右侧：关系技能的核心 -->
   <!-- ============================================================ -->
 
   <rect x="500" y="90" width="250" height="200" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="625" y="120" text-anchor="middle" font-size="14" font-weight="bold" fill="#1864ab">关系技能的核心</text>
+  <text x="625" y="120" text-anchor="middle" font-size="11" font-weight="bold" fill="#1864ab">关系技能的核心</text>
 
   <circle cx="530" cy="160" r="6" fill="#1864ab"/>
-  <text x="545" y="165" font-size="11" fill="#333">建立信任</text>
+  <text x="545" y="165" font-size="9" fill="#333">建立信任</text>
 
   <circle cx="530" cy="190" r="6" fill="#1864ab"/>
-  <text x="545" y="195" font-size="11" fill="#333">理解情感</text>
+  <text x="545" y="195" font-size="9" fill="#333">理解情感</text>
 
   <circle cx="530" cy="220" r="6" fill="#1864ab"/>
-  <text x="545" y="225" font-size="11" fill="#333">有效沟通</text>
+  <text x="545" y="225" font-size="9" fill="#333">有效沟通</text>
 
   <circle cx="530" cy="250" r="6" fill="#1864ab"/>
-  <text x="545" y="255" font-size="11" fill="#333">冲突调解</text>
+  <text x="545" y="255" font-size="9" fill="#333">冲突调解</text>
 
   <!-- 连接线 -->
   <path d="M300 200 L300 170" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="4,3"/>
@@ -64,9 +64,9 @@
   <line x1="50" y1="330" x2="750" y2="330" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="100" y="345" width="600" height="70" rx="10" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
-  <text x="400" y="370" text-anchor="middle" font-size="14" font-weight="bold" fill="#d77a00">孤独是组织绩效的隐形杀手</text>
-  <text x="400" y="392" text-anchor="middle" font-size="11" fill="#333">孤独员工的离职率是正常员工的</text>
-  <text x="400" y="410" text-anchor="middle" font-size="14" font-weight="bold" fill="#e64980">2.3倍</text>
-  <text x="450" y="410" text-anchor="start" font-size="11" fill="#333">，绩效低15%</text>
+  <text x="400" y="370" text-anchor="middle" font-size="11" font-weight="bold" fill="#d77a00">孤独是组织绩效的隐形杀手</text>
+  <text x="400" y="392" text-anchor="middle" font-size="9" fill="#333">孤独员工的离职率是正常员工的</text>
+  <text x="400" y="410" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">2.3倍</text>
+  <text x="450" y="410" text-anchor="start" font-size="9" fill="#333">，绩效低15%</text>
 
 </svg>
