@@ -19,38 +19,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install TeX Live
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y texlive texlive-latex-extra texlive-xetex
-          pip install cairosvg
-          mkdir -p inkscape_bin
-          cat > inkscape_bin/inkscape << 'WRAPPER'
-#!/bin/bash
-python3 -c "
-import cairosvg
-import sys
-import re
-args = sys.argv[1:]
-input_svg = None
-output_pdf = None
-for i, arg in enumerate(args):
-    if arg.endswith('.svg'):
-        input_svg = arg
-    elif arg == '-o' and i+1 < len(args):
-        output_pdf = args[i+1]
-    elif '--export-filename' in arg and i+1 < len(args):
-        output_pdf = args[i+1]
-    elif arg == '-D':
-        pass
-if input_svg and output_pdf:
-    output_pdf = re.sub(r'_svg-tex\.pdf.*', '.pdf', output_pdf)
-    cairosvg.svg2pdf(url=input_svg, write_to=output_pdf)
-    print(f'Converted {input_svg} -> {output_pdf}', file=sys.stderr)
-"
-WRAPPER
-          chmod +x inkscape_bin/inkscape
-          echo "$(pwd)/inkscape_bin" >> $GITHUB_PATH
+      - name: Install dependencies
+        run: pip install markdown cairosvg
+
+      - name: Convert SVG to PDF
+        run: python3 .github/scripts/svg2pdf.py
 
       - name: Convert Markdown to LaTeX
         run: |
@@ -58,11 +31,12 @@ WRAPPER
           python3 .github/scripts/convert_to_latex.py
 
       - name: Compile LaTeX
-        run: |
-          export PATH="/usr/local/bin:/usr/bin:/bin:$PATH"
-          mkdir -p build
-          xelatex -interaction=nonstopmode -shell-escape -output-directory=./build book.tex
-          xelatex -interaction=nonstopmode -output-directory=./build book.tex
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: book.tex
+          latexmk_use_xelatex: true
+          latexmk_shell_escape: true
+          work_in_root_file_dir: true
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v6
