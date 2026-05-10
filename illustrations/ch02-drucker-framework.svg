@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <title>德鲁克框架：效果优先于效率</title>
+  <rect width="800" height="480" fill="white"/>
+
+  <text x="400" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a1a1a">德鲁克框架：效果优先于效率</text>
+
+  <!-- ===== 左右对比：效率 vs 效果 ===== -->
+  <!-- 左侧: 效率 -->
+  <rect x="40" y="55" width="290" height="200" rx="8" fill="#FFF3E0" stroke="#E65100" stroke-width="2"/>
+  <text x="185" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#E65100">效率 (Efficiency)</text>
+  <text x="185" y="98" text-anchor="middle" font-size="10" fill="#888">把事情做对 (Do things right)</text>
+
+  <!-- 效率特征 -->
+  <circle cx="65" cy="120" r="5" fill="#E65100"/>
+  <text x="78" y="124" font-size="11" fill="#333">快速执行</text>
+  <circle cx="65" cy="145" r="5" fill="#E65100"/>
+  <text x="78" y="149" font-size="11" fill="#333">流程优化</text>
+  <circle cx="65" cy="170" r="5" fill="#E65100"/>
+  <text x="78" y="174" font-size="11" fill="#333">成本削减</text>
+  <circle cx="65" cy="195" r="5" fill="#E65100"/>
+  <text x="78" y="199" font-size="11" fill="#333">标准化操作</text>
+  <circle cx="65" cy="220" r="5" fill="#E65100"/>
+  <text x="78" y="224" font-size="11" fill="#333">产出最大化</text>
+
+  <!-- 效率的反面 -->
+  <rect x="65" y="238" width="240" height="26" rx="4" fill="#FFECB3" stroke="#FFB300" stroke-width="1"/>
+  <text x="185" y="255" text-anchor="middle" font-size="10" fill="#E65100">AI天然是效率神器：几天的事，AI几秒搞定</text>
+
+  <!-- 中间: VS -->
+  <text x="400" y="155" text-anchor="middle" font-size="28" font-weight="bold" fill="#ccc">VS</text>
+
+  <!-- 右侧: 效果 -->
+  <rect x="470" y="55" width="290" height="200" rx="8" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+  <text x="615" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#2E7D32">效果 (Effectiveness)</text>
+  <text x="615" y="98" text-anchor="middle" font-size="10" fill="#888">做对的事情 (Do the right things)</text>
+
+  <!-- 效果特征 -->
+  <circle cx="495" cy="120" r="5" fill="#2E7D32"/>
+  <text x="508" y="124" font-size="11" fill="#333">做正确的事</text>
+  <circle cx="495" cy="145" r="5" fill="#2E7D32"/>
+  <text x="508" y="149" font-size="11" fill="#333">创造独特价值</text>
+  <circle cx="495" cy="170" r="5" fill="#2E7D32"/>
+  <text x="508" y="174" font-size="11" fill="#333">洞见与判断</text>
+  <circle cx="495" cy="195" r="5" fill="#2E7D32"/>
+  <text x="508" y="199" font-size="11" fill="#333">关系与意义</text>
+  <circle cx="495" cy="220" r="5" fill="#2E7D32"/>
+  <text x="508" y="224" font-size="11" fill="#333">人尽其才</text>
+
+  <!-- 效果的反面警告 -->
+  <rect x="495" y="238" width="240" height="26" rx="4" fill="#C8E6C9" stroke="#388E3C" stroke-width="1"/>
+  <text x="615" y="255" text-anchor="middle" font-size="10" fill="#2E7D32">效率越高，埋的雷越大（没想清楚做什么时）</text>
+
+  <!-- ===== 底部: 德鲁克的核心观点 ===== -->
+  <rect x="100" y="278" width="600" height="44" rx="6" fill="#FFFDE7" stroke="#F9A825" stroke-width="2"/>
+  <text x="400" y="297" text-anchor="middle" font-size="13" font-weight="bold" fill="#E65100">德鲁克：效果第一，效率第二</text>
+  <text x="400" y="313" text-anchor="middle" font-size="11" fill="#666">往墙上钉钉子，效率再高，钉歪了有什么用？</text>
+
+  <!-- ===== 分隔线 ===== -->
+  <line x1="50" y1="340" x2="750" y2="340" stroke="#eee" stroke-width="1"/>
+
+  <!-- ===== 德鲁克的五大 timeless 原则 ===== -->
+  <text x="50" y="362" font-size="13" font-weight="bold" fill="#333">德鲁克的 timeless 原则（技术变，这些不变）</text>
+
+  <!-- 5 principles in a row -->
+  <g transform="translate(50, 375)">
+    <rect x="0" y="0" width="135" height="55" rx="5" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.5"/>
+    <text x="67" y="18" text-anchor="middle" font-size="10" font-weight="bold" fill="#0D47A1">组织目的</text>
+    <text x="67" y="32" text-anchor="middle" font-size="9" fill="#1565C0">让平凡人做出不平凡事</text>
+    <text x="67" y="46" text-anchor="middle" font-size="8" fill="#aaa">1973《管理》</text>
+  </g>
+
+  <g transform="translate(195, 375)">
+    <rect x="0" y="0" width="135" height="55" rx="5" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.5"/>
+    <text x="67" y="18" text-anchor="middle" font-size="10" font-weight="bold" fill="#1B5E20">知识工作者</text>
+    <text x="67" y="32" text-anchor="middle" font-size="9" fill="#2E7D32">意义 > 工资</text>
+    <text x="67" y="46" text-anchor="middle" font-size="8" fill="#aaa">1994《管理挑战21世纪》</text>
+  </g>
+
+  <g transform="translate(340, 375)">
+    <rect x="0" y="0" width="135" height="55" rx="5" fill="#FFF3E0" stroke="#E65100" stroke-width="1.5"/>
+    <text x="67" y="18" text-anchor="middle" font-size="10" font-weight="bold" fill="#E65100">动荡是常态</text>
+    <text x="67" y="32" text-anchor="middle" font-size="9" fill="#E65100">在不确定中生存</text>
+    <text x="67" y="46" text-anchor="middle" font-size="8" fill="#aaa">1980《动荡时代》</text>
+  </g>
+
+  <g transform="translate(485, 375)">
+    <rect x="0" y="0" width="135" height="55" rx="5" fill="#F3E5F5" stroke="#7B1FA2" stroke-width="1.5"/>
+    <text x="67" y="18" text-anchor="middle" font-size="10" font-weight="bold" fill="#6A1B9A">发挥优势</text>
+    <text x="67" y="32" text-anchor="middle" font-size="9" fill="#7B1FA2">管理是让人发挥优势</text>
+    <text x="67" y="46" text-anchor="middle" font-size="8" fill="#aaa">《有效的管理者》</text>
+  </g>
+
+  <g transform="translate(630, 375)">
+    <rect x="0" y="0" width="135" height="55" rx="5" fill="#FFEBEE" stroke="#C62828" stroke-width="1.5"/>
+    <text x="67" y="18" text-anchor="middle" font-size="10" font-weight="bold" fill="#B71C1C">效果 > 效率</text>
+    <text x="67" y="32" text-anchor="middle" font-size="9" fill="#C62828">先做对的事，再求对</text>
+    <text x="67" y="46" text-anchor="middle" font-size="8" fill="#aaa">《有效的管理者》</text>
+  </g>
+
+  <!-- ===== 底部注脚 ===== -->
+  <line x1="50" y1="448" x2="750" y2="448" stroke="#eee" stroke-width="1"/>
+  <text x="50" y="466" font-size="10" fill="#888">技术会过时（KPI, OKR, ERP都成过眼云烟），但人性的理解永不过时</text>
+
+</svg>
