@@ -1,108 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" style="font-family: 'Noto Serif CJK SC', serif; background: #fefefe;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
   <title>AI：认知外包的临界点</title>
+  <rect width="800" height="480" fill="white"/>
 
-  <!-- 背景 -->
-  <rect width="800" height="500" fill="white"/>
+  <text x="400" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a1a1a">认知外包的演进：从农业革命到AI时代</text>
 
-  <!-- 标题 -->
-  <text x="400" y="36" text-anchor="middle" font-size="17" font-weight="bold" fill="#1a1a1a">认知外包的演进：从农业革命到AI时代</text>
+  <line x1="70" y1="155" x2="730" y2="155" stroke="#ccc" stroke-width="3"/>
+  <polygon points="730,155 718,149 718,161" fill="#ccc"/>
 
-  <!-- 时间线主轴 -->
-  <line x1="80" y1="160" x2="720" y2="160" stroke="#ddd" stroke-width="3"/>
-  <polygon points="720,160 710,154 710,166" fill="#ddd"/>
-
-  <!-- 阶段1: 农业革命 -->
-  <g transform="translate(80, 160)">
-    <circle cx="0" cy="0" r="12" fill="#8B7355" stroke="#5D4E37" stroke-width="2"/>
-    <text x="0" y="5" text-anchor="middle" font-size="9" fill="white" font-weight="bold">农</text>
-    <!-- 上方标签 -->
-    <rect x="-45" y="-65" width="90" height="42" rx="4" fill="#F5F0E8" stroke="#8B7355" stroke-width="1.5"/>
-    <text x="0" y="-50" text-anchor="middle" font-size="11" font-weight="bold" fill="#5D4E37">农业革命</text>
-    <text x="0" y="-36" text-anchor="middle" font-size="10" fill="#7A6B5A">外包：食物生产</text>
-    <text x="0" y="-24" text-anchor="middle" font-size="9" fill="#999">土地 + 牲畜</text>
-    <!-- 向下虚线 -->
-    <line x1="0" y1="12" x2="0" y2="55" stroke="#ccc" stroke-width="1" stroke-dasharray="3,3"/>
+  <g transform="translate(110, 155)">
+    <circle cx="0" cy="0" r="14" fill="#8B7355"/>
+    <text x="0" y="5" text-anchor="middle" font-size="10" fill="white" font-weight="bold">农</text>
+    <rect x="-50" y="-58" width="100" height="44" rx="5" fill="#F5F0E8" stroke="#8B7355" stroke-width="1.5"/>
+    <text x="0" y="-42" text-anchor="middle" font-size="11" font-weight="bold" fill="#5D4E37">农业革命</text>
+    <text x="0" y="-27" text-anchor="middle" font-size="10" fill="#7A6B5A">外包：食物生产</text>
+    <text x="0" y="-14" text-anchor="middle" font-size="9" fill="#aaa">土地 + 牲畜</text>
   </g>
 
-  <!-- 阶段2: 工业革命 -->
-  <g transform="translate(270, 160)">
-    <circle cx="0" cy="0" r="12" fill="#607D8B" stroke="#37474F" stroke-width="2"/>
-    <text x="0" y="5" text-anchor="middle" font-size="8" fill="white" font-weight="bold">工</text>
-    <rect x="-45" y="-65" width="90" height="42" rx="4" fill="#ECEFF1" stroke="#607D8B" stroke-width="1.5"/>
-    <text x="0" y="-50" text-anchor="middle" font-size="11" font-weight="bold" fill="#37474F">工业革命</text>
-    <text x="0" y="-36" text-anchor="middle" font-size="10" fill="#546E7A">外包：体力劳动</text>
-    <text x="0" y="-24" text-anchor="middle" font-size="9" fill="#999">机器 + 工厂</text>
-    <line x1="0" y1="12" x2="0" y2="55" stroke="#ccc" stroke-width="1" stroke-dasharray="3,3"/>
+  <g transform="translate(290, 155)">
+    <circle cx="0" cy="0" r="14" fill="#607D8B"/>
+    <text x="0" y="5" text-anchor="middle" font-size="10" fill="white" font-weight="bold">工</text>
+    <rect x="-50" y="-58" width="100" height="44" rx="5" fill="#ECEFF1" stroke="#607D8B" stroke-width="1.5"/>
+    <text x="0" y="-42" text-anchor="middle" font-size="11" font-weight="bold" fill="#37474F">工业革命</text>
+    <text x="0" y="-27" text-anchor="middle" font-size="10" fill="#546E7A">外包：体力劳动</text>
+    <text x="0" y="-14" text-anchor="middle" font-size="9" fill="#aaa">机器 + 工厂</text>
   </g>
 
-  <!-- 阶段3: 信息技术 -->
-  <g transform="translate(460, 160)">
-    <circle cx="0" cy="0" r="12" fill="#1565C0" stroke="#0D47A1" stroke-width="2"/>
-    <text x="0" y="5" text-anchor="middle" font-size="8" fill="white" font-weight="bold">信</text>
-    <rect x="-45" y="-65" width="90" height="42" rx="4" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.5"/>
-    <text x="0" y="-50" text-anchor="middle" font-size="11" font-weight="bold" fill="#0D47A1">信息技术</text>
-    <text x="0" y="-36" text-anchor="middle" font-size="10" fill="#1565C0">外包：信息处理</text>
-    <text x="0" y="-24" text-anchor="middle" font-size="9" fill="#999">计算 + 通信</text>
-    <line x1="0" y1="12" x2="0" y2="55" stroke="#ccc" stroke-width="1" stroke-dasharray="3,3"/>
+  <g transform="translate(470, 155)">
+    <circle cx="0" cy="0" r="14" fill="#1565C0"/>
+    <text x="0" y="5" text-anchor="middle" font-size="10" fill="white" font-weight="bold">信</text>
+    <rect x="-50" y="-58" width="100" height="44" rx="5" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.5"/>
+    <text x="0" y="-42" text-anchor="middle" font-size="11" font-weight="bold" fill="#0D47A1">信息技术</text>
+    <text x="0" y="-27" text-anchor="middle" font-size="10" fill="#1565C0">外包：信息处理</text>
+    <text x="0" y="-14" text-anchor="middle" font-size="9" fill="#aaa">计算 + 通信</text>
   </g>
 
-  <!-- 阶段4: AI时代 -->
-  <g transform="translate(650, 160)">
-    <circle cx="0" cy="0" r="16" fill="#C62828" stroke="#B71C1C" stroke-width="2.5"/>
-    <text x="0" y="5" text-anchor="middle" font-size="9" fill="white" font-weight="bold">AI</text>
-    <!-- 高亮框 -->
-    <rect x="-58" y="-82" width="116" height="62" rx="5" fill="#FFEBEE" stroke="#C62828" stroke-width="2"/>
-    <text x="0" y="-64" text-anchor="middle" font-size="12" font-weight="bold" fill="#B71C1C">AI 时代</text>
-    <text x="0" y="-48" text-anchor="middle" font-size="10" fill="#C62828">外包：判断力</text>
-    <text x="0" y="-34" text-anchor="middle" font-size="10" fill="#C62828">+ 决策力</text>
-    <text x="0" y="-20" text-anchor="middle" font-size="9" fill="#E53935">临界点被跨越！</text>
-    <!-- 向下实线 -->
-    <line x1="0" y1="16" x2="0" y2="70" stroke="#C62828" stroke-width="1.5"/>
+  <g transform="translate(650, 155)">
+    <circle cx="0" cy="0" r="18" fill="#C62828"/>
+    <text x="0" y="5" text-anchor="middle" font-size="10" fill="white" font-weight="bold">AI</text>
+    <rect x="-62" y="-75" width="124" height="60" rx="5" fill="#FFEBEE" stroke="#C62828" stroke-width="2"/>
+    <text x="0" y="-58" text-anchor="middle" font-size="12" font-weight="bold" fill="#B71C1C">AI 时代</text>
+    <text x="0" y="-42" text-anchor="middle" font-size="10" fill="#C62828">外包：判断力 + 决策力</text>
+    <text x="0" y="-26" text-anchor="middle" font-size="10" fill="#E53935">临界点被跨越！</text>
   </g>
 
-  <!-- 底部: 人类独特价值 -->
-  <g transform="translate(400, 270)">
-    <rect x="-180" y="0" width="360" height="50" rx="6" fill="#FFFDE7" stroke="#F9A825" stroke-width="2"/>
-    <text x="0" y="18" text-anchor="middle" font-size="12" font-weight="bold" fill="#E65100">认知外包史上首次：机器追平并超越人类</text>
-    <text x="0" y="36" text-anchor="middle" font-size="11" fill="#555">临界点之后：人类独特的价值是什么？</text>
+  <rect x="100" y="260" width="600" height="44" rx="6" fill="#FFFDE7" stroke="#F9A825" stroke-width="1.5"/>
+  <text x="400" y="278" text-anchor="middle" font-size="12" font-weight="bold" fill="#E65100">认知外包史上首次：机器在"做擅长之事"上追平并超越人类</text>
+  <text x="400" y="296" text-anchor="middle" font-size="11" fill="#666">临界点之后：人类独特的价值是什么？</text>
+
+  <line x1="50" y1="325" x2="750" y2="325" stroke="#eee" stroke-width="1"/>
+
+  <text x="60" y="350" font-size="13" font-weight="bold" fill="#333">AI 不是风口：三个本质特征</text>
+
+  <g transform="translate(60, 375)">
+    <circle cx="6" cy="-5" r="5" fill="#1565C0"/>
+    <text x="18" y="0" font-size="11" font-weight="bold" fill="#333">时效性</text>
+    <text x="18" y="14" font-size="10" fill="#666">连续多年年度关键词，非热点轮换</text>
   </g>
 
-  <!-- 分隔线 -->
-  <line x1="40" y1="340" x2="760" y2="340" stroke="#eee" stroke-width="1"/>
-
-  <!-- 右下角: AI的三个本质特征 -->
-  <text x="40" y="362" font-size="13" font-weight="bold" fill="#333">AI 不是风口：三个本质特征</text>
-
-  <!-- 特征1: 时效性 -->
-  <g transform="translate(40, 380)">
-    <circle cx="8" cy="-6" r="5" fill="#1565C0"/>
-    <text x="20" y="0" font-size="11" font-weight="bold" fill="#333">时效性</text>
-    <text x="20" y="14" font-size="10" fill="#666">持续多年年度关键词，不是热点轮换</text>
+  <g transform="translate(310, 375)">
+    <circle cx="6" cy="-5" r="5" fill="#1565C0"/>
+    <text x="18" y="0" font-size="11" font-weight="bold" fill="#333">不可替代性</text>
+    <text x="18" y="14" font-size="10" fill="#666">底层能力持续提升，无替代技术</text>
   </g>
 
-  <!-- 特征2: 不可替代性 -->
-  <g transform="translate(280, 380)">
-    <circle cx="8" cy="-6" r="5" fill="#1565C0"/>
-    <text x="20" y="0" font-size="11" font-weight="bold" fill="#333">不可替代性</text>
-    <text x="20" y="14" font-size="10" fill="#666">底层能力持续提升，无替代技术</text>
+  <g transform="translate(560, 375)">
+    <circle cx="6" cy="-5" r="5" fill="#1565C0"/>
+    <text x="18" y="0" font-size="11" font-weight="bold" fill="#333">代际跨越</text>
+    <text x="18" y="14" font-size="10" fill="#666">GPT-5 vs GPT-4 是代际跃升，非线性</text>
   </g>
 
-  <!-- 特征3: 非边际效应 -->
-  <g transform="translate(520, 380)">
-    <circle cx="8" cy="-6" r="5" fill="#1565C0"/>
-    <text x="20" y="0" font-size="11" font-weight="bold" fill="#333">非边际跃升</text>
-    <text x="20" y="14" font-size="10" fill="#666">GPT-5 vs GPT-4 是代际跨越，非线性提升</text>
-  </g>
-
-  <!-- 底部: 柯达的教训 -->
-  <g transform="translate(400, 440)">
-    <rect x="-330" y="-16" width="660" height="46" rx="5" fill="#FFF8E1" stroke="#FFB300" stroke-width="1.5"/>
-    <text x="-315" y="5" font-size="14" fill="#E65100">📰</text>
-    <text x="-295" y="8" font-size="11" font-weight="bold" fill="#E65100">柯达教训</text>
-    <text x="-220" y="8" font-size="11" fill="#555">趋势来时，最大阻力往往不是技术，是</text>
-    <text x="-90" y="8" font-size="11" font-weight="bold" fill="#C62828">既得利益</text>
-    <text x="0" y="8" font-size="11" fill="#555">。</text>
-    <text x="-315" y="24" font-size="10" fill="#888">1991年数码技术发明 → 管理层拒绝推广 → 2012年柯达破产</text>
-  </g>
+  <rect x="60" y="430" width="680" height="40" rx="5" fill="#FFF8E1" stroke="#FFB300" stroke-width="1.5"/>
+  <text x="80" y="448" font-size="12" font-weight="bold" fill="#E65100">柯达的教训</text>
+  <text x="175" y="448" font-size="11" fill="#555">趋势来时，最大阻力往往不是技术，是</text>
+  <text x="380" y="448" font-size="11" font-weight="bold" fill="#C62828">既得利益</text>
+  <text x="440" y="448" font-size="11" fill="#555">。</text>
+  <text x="80" y="462" font-size="9" fill="#999">1991年数码相机发明 → 管理层拒绝推广 → 2012年柯达破产</text>
 
 </svg>
