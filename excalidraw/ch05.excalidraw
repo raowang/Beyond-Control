@@ -1,0 +1,322 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "excalidraw-cli",
+  "elements": [
+    {
+      "type": "rectangle",
+      "id": "trap",
+      "x": 300,
+      "y": 240,
+      "width": 200,
+      "height": 120,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fff5f5",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "boundElements": [
+        {
+          "id": "trap_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "trap_label",
+      "x": 310,
+      "y": 250,
+      "width": 180,
+      "height": 100,
+      "text": "效率陷阱",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "trap",
+      "strokeColor": "#c92a2a"
+    },
+    {
+      "type": "ellipse",
+      "id": "eff",
+      "x": 60,
+      "y": 180,
+      "width": 160,
+      "height": 100,
+      "roughness": 2,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "eff_label",
+          "type": "text"
+        }
+      ],
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "type": "text",
+      "id": "eff_label",
+      "x": 70,
+      "y": 190,
+      "width": 140,
+      "height": 80,
+      "text": "效率思维",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "eff",
+      "strokeColor": "#1864ab"
+    },
+    {
+      "type": "text",
+      "id": "effsub",
+      "x": 80,
+      "y": 225,
+      "roughness": 2,
+      "strokeColor": "#1864ab",
+      "groupIds": [],
+      "fontSize": 13,
+      "fontFamily": 1,
+      "text": "把事做对"
+    },
+    {
+      "type": "ellipse",
+      "id": "effec",
+      "x": 580,
+      "y": 180,
+      "width": 160,
+      "height": 100,
+      "roughness": 2,
+      "strokeColor": "#2b8a3e",
+      "backgroundColor": "#ebfbee",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "effec_label",
+          "type": "text"
+        }
+      ],
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "type": "text",
+      "id": "effec_label",
+      "x": 590,
+      "y": 190,
+      "width": 140,
+      "height": 80,
+      "text": "效果思维",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "effec",
+      "strokeColor": "#2b8a3e"
+    },
+    {
+      "type": "text",
+      "id": "effecsub",
+      "x": 600,
+      "y": 225,
+      "roughness": 2,
+      "strokeColor": "#2b8a3e",
+      "groupIds": [],
+      "fontSize": 13,
+      "fontFamily": 1,
+      "text": "做对的事"
+    },
+    {
+      "type": "line",
+      "id": "arr1",
+      "x": 220,
+      "y": 230,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          60
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 2
+    },
+    {
+      "type": "line",
+      "id": "arr2",
+      "x": 500,
+      "y": 300,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          -60
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 2,
+      "lastCommittedPoint": null
+    },
+    {
+      "type": "rectangle",
+      "id": "top",
+      "x": 280,
+      "y": 60,
+      "width": 240,
+      "height": 60,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#862e9c",
+      "backgroundColor": "#f3f0ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "top_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "top_label",
+      "x": 290,
+      "y": 70,
+      "width": 220,
+      "height": 40,
+      "text": "AI时代",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "top",
+      "strokeColor": "#862e9c"
+    },
+    {
+      "type": "text",
+      "id": "topsub",
+      "x": 295,
+      "y": 95,
+      "roughness": 2,
+      "strokeColor": "#862e9c",
+      "groupIds": [],
+      "fontSize": 13,
+      "fontFamily": 1,
+      "text": "对的事定义快速变化"
+    },
+    {
+      "type": "rectangle",
+      "id": "bottom",
+      "x": 200,
+      "y": 420,
+      "width": 400,
+      "height": 80,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#e64980",
+      "backgroundColor": "#fff5f7",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "bottom_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "bottom_label",
+      "x": 210,
+      "y": 430,
+      "width": 380,
+      "height": 60,
+      "text": "效率提升300倍",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "bottom",
+      "strokeColor": "#e64980"
+    },
+    {
+      "type": "text",
+      "id": "bottomsub",
+      "x": 230,
+      "y": 465,
+      "roughness": 2,
+      "strokeColor": "#e64980",
+      "groupIds": [],
+      "fontSize": 14,
+      "fontFamily": 1,
+      "text": "不等于效果提升，而是风险被放大"
+    },
+    {
+      "type": "line",
+      "id": "l1",
+      "x": 400,
+      "y": 120,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          120
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    },
+    {
+      "type": "line",
+      "id": "l2",
+      "x": 400,
+      "y": 360,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          60
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": null
+  },
+  "files": {}
+}
