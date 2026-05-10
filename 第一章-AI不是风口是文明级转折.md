@@ -79,7 +79,7 @@ AI不一样。它正在外包我们最引以为傲的东西：分析、推理、
 
 这个临界点被跨越之后，我们不得不重新回答一个问题：**人类独特的价值是什么？**
 
-![AI认知外包演进](illustrations/ch01-cognitive-outsourcing.pdf)
+![AI认知外包演进](illustrations/ch01-cognitive-outsourcing.svg)
 
 ---
 

@@ -5,7 +5,7 @@ XELATEX := /Library/TeX/texbin/xelatex
 svg-pdf:
 	@python3 .github/scripts/svg2pdf.py
 
-build: svg-pdf
+build:
 	@mkdir -p latex build release
 	@python3 .github/scripts/convert_to_latex.py
 	@$(XELATEX) -interaction=nonstopmode -output-directory=./build book.tex
