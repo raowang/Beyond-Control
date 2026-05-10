@@ -4,7 +4,7 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="40" text-anchor="middle" font-size="10" font-weight="bold" fill="#862e9c">两种创新的本质区别</text>
+  <text x="400" y="40" text-anchor="middle" font-size="6" font-weight="bold" fill="#862e9c">两种创新的本质区别</text>
 
   <!-- ============================================================ -->
   <!-- 表格 -->
@@ -12,13 +12,13 @@
 
   <!-- 表头 -->
   <rect x="100" y="65" width="150" height="40" rx="4" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
-  <text x="175" y="90" text-anchor="middle" font-size="7" font-weight="bold" fill="#333">维度</text>
+  <text x="175" y="90" text-anchor="middle" font-size="4" font-weight="bold" fill="#333">维度</text>
 
   <rect x="250" y="65" width="250" height="40" rx="4" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="375" y="90" text-anchor="middle" font-size="7" font-weight="bold" fill="#1864ab">维护性创新</text>
+  <text x="375" y="90" text-anchor="middle" font-size="4" font-weight="bold" fill="#1864ab">维护性创新</text>
 
   <rect x="500" y="65" width="250" height="40" rx="4" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="625" y="90" text-anchor="middle" font-size="7" font-weight="bold" fill="#2b8a3e">适应性创新</text>
+  <text x="625" y="90" text-anchor="middle" font-size="4" font-weight="bold" fill="#2b8a3e">适应性创新</text>
 
   <!-- 分隔线 -->
   <line x1="100" y1="105" x2="750" y2="105" stroke="#ddd" stroke-width="1"/>
@@ -27,61 +27,61 @@
 
   <!-- 行1：目标 -->
   <rect x="100" y="105" width="150" height="50" rx="0" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
-  <text x="175" y="135" text-anchor="middle" font-size="7" font-weight="bold" fill="#333">目标</text>
+  <text x="175" y="135" text-anchor="middle" font-size="4" font-weight="bold" fill="#333">目标</text>
 
   <rect x="250" y="105" width="250" height="50" rx="0" fill="#fff" stroke="#ddd" stroke-width="1"/>
-  <text x="375" y="128" text-anchor="middle" font-size="7" font-weight="bold" fill="#1864ab">更好</text>
-  <text x="375" y="148" text-anchor="middle" font-size="6" fill="#666">效率/质量/成本</text>
+  <text x="375" y="128" text-anchor="middle" font-size="4" font-weight="bold" fill="#1864ab">更好</text>
+  <text x="375" y="148" text-anchor="middle" font-size="3" fill="#666">效率/质量/成本</text>
 
   <rect x="500" y="105" width="250" height="50" rx="0" fill="#fff" stroke="#ddd" stroke-width="1"/>
-  <text x="625" y="128" text-anchor="middle" font-size="7" font-weight="bold" fill="#2b8a3e">不同</text>
-  <text x="625" y="148" text-anchor="middle" font-size="6" fill="#666">新价值/新市场</text>
+  <text x="625" y="128" text-anchor="middle" font-size="4" font-weight="bold" fill="#2b8a3e">不同</text>
+  <text x="625" y="148" text-anchor="middle" font-size="3" fill="#666">新价值/新市场</text>
 
   <!-- 行2：可预测性 -->
   <rect x="100" y="155" width="150" height="50" rx="0" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
-  <text x="175" y="185" text-anchor="middle" font-size="7" font-weight="bold" fill="#333">可预测性</text>
+  <text x="175" y="185" text-anchor="middle" font-size="4" font-weight="bold" fill="#333">可预测性</text>
 
   <rect x="250" y="155" width="250" height="50" rx="0" fill="#fff" stroke="#ddd" stroke-width="1"/>
-  <text x="375" y="178" text-anchor="middle" font-size="7" font-weight="bold" fill="#1864ab">高</text>
-  <text x="375" y="198" text-anchor="middle" font-size="6" fill="#666">方向已知</text>
+  <text x="375" y="178" text-anchor="middle" font-size="4" font-weight="bold" fill="#1864ab">高</text>
+  <text x="375" y="198" text-anchor="middle" font-size="3" fill="#666">方向已知</text>
 
   <rect x="500" y="155" width="250" height="50" rx="0" fill="#fff" stroke="#ddd" stroke-width="1"/>
-  <text x="625" y="178" text-anchor="middle" font-size="7" font-weight="bold" fill="#2b8a3e">低</text>
-  <text x="625" y="198" text-anchor="middle" font-size="6" fill="#666">结果未知</text>
+  <text x="625" y="178" text-anchor="middle" font-size="4" font-weight="bold" fill="#2b8a3e">低</text>
+  <text x="625" y="198" text-anchor="middle" font-size="3" fill="#666">结果未知</text>
 
   <!-- 行3：失败模式 -->
   <rect x="100" y="205" width="150" height="50" rx="0" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
-  <text x="175" y="235" text-anchor="middle" font-size="7" font-weight="bold" fill="#333">失败模式</text>
+  <text x="175" y="235" text-anchor="middle" font-size="4" font-weight="bold" fill="#333">失败模式</text>
 
   <rect x="250" y="205" width="250" height="50" rx="0" fill="#fff" stroke="#ddd" stroke-width="1"/>
-  <text x="375" y="228" text-anchor="middle" font-size="7" font-weight="bold" fill="#1864ab">执行失败</text>
-  <text x="375" y="248" text-anchor="middle" font-size="6" fill="#666">想法对，执行差</text>
+  <text x="375" y="228" text-anchor="middle" font-size="4" font-weight="bold" fill="#1864ab">执行失败</text>
+  <text x="375" y="248" text-anchor="middle" font-size="3" fill="#666">想法对，执行差</text>
 
   <rect x="500" y="205" width="250" height="50" rx="0" fill="#fff" stroke="#ddd" stroke-width="1"/>
-  <text x="625" y="228" text-anchor="middle" font-size="7" font-weight="bold" fill="#2b8a3e">市场失败</text>
-  <text x="625" y="248" text-anchor="middle" font-size="6" fill="#666">执行好，市场不接受</text>
+  <text x="625" y="228" text-anchor="middle" font-size="4" font-weight="bold" fill="#2b8a3e">市场失败</text>
+  <text x="625" y="248" text-anchor="middle" font-size="3" fill="#666">执行好，市场不接受</text>
 
   <!-- 行4：组织要求 -->
   <rect x="100" y="255" width="150" height="50" rx="0" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
-  <text x="175" y="285" text-anchor="middle" font-size="7" font-weight="bold" fill="#333">组织要求</text>
+  <text x="175" y="285" text-anchor="middle" font-size="4" font-weight="bold" fill="#333">组织要求</text>
 
   <rect x="250" y="255" width="250" height="50" rx="0" fill="#fff" stroke="#ddd" stroke-width="1"/>
-  <text x="375" y="278" text-anchor="middle" font-size="7" font-weight="bold" fill="#1864ab">现有架构内</text>
-  <text x="375" y="298" text-anchor="middle" font-size="6" fill="#666">流程+标准</text>
+  <text x="375" y="278" text-anchor="middle" font-size="4" font-weight="bold" fill="#1864ab">现有架构内</text>
+  <text x="375" y="298" text-anchor="middle" font-size="3" fill="#666">流程+标准</text>
 
   <rect x="500" y="255" width="250" height="50" rx="0" fill="#fff" stroke="#ddd" stroke-width="1"/>
-  <text x="625" y="278" text-anchor="middle" font-size="7" font-weight="bold" fill="#2b8a3e">不同形式</text>
-  <text x="625" y="298" text-anchor="middle" font-size="6" fill="#666">不同激励+成功标准</text>
+  <text x="625" y="278" text-anchor="middle" font-size="4" font-weight="bold" fill="#2b8a3e">不同形式</text>
+  <text x="625" y="298" text-anchor="middle" font-size="3" fill="#666">不同激励+成功标准</text>
 
   <!-- 行5：管理方式 -->
   <rect x="100" y="305" width="150" height="50" rx="0" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
-  <text x="175" y="335" text-anchor="middle" font-size="7" font-weight="bold" fill="#333">管理方式</text>
+  <text x="175" y="335" text-anchor="middle" font-size="4" font-weight="bold" fill="#333">管理方式</text>
 
   <rect x="250" y="305" width="250" height="50" rx="0" fill="#e7f5ff" stroke="#1864ab" stroke-width="1"/>
-  <text x="375" y="335" text-anchor="middle" font-size="7" fill="#1864ab">项目管理 / KPI</text>
+  <text x="375" y="335" text-anchor="middle" font-size="4" fill="#1864ab">项目管理 / KPI</text>
 
   <rect x="500" y="305" width="250" height="50" rx="0" fill="#ebfbee" stroke="#2b8a3e" stroke-width="1"/>
-  <text x="625" y="335" text-anchor="middle" font-size="7" fill="#2b8a3e">独立团队 / 迭代实验</text>
+  <text x="625" y="335" text-anchor="middle" font-size="4" fill="#2b8a3e">独立团队 / 迭代实验</text>
 
   <!-- ============================================================ -->
   <!-- 底部引言 -->
@@ -90,6 +90,6 @@
   <line x1="50" y1="375" x2="750" y2="375" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="180" y="385" width="440" height="35" rx="6" fill="#fff5f5" stroke="#c92a2a" stroke-width="2"/>
-  <text x="400" y="408" text-anchor="middle" font-size="7" font-weight="bold" fill="#c92a2a">不能用养金鱼的方法养鲨鱼</text>
+  <text x="400" y="408" text-anchor="middle" font-size="4" font-weight="bold" fill="#c92a2a">不能用养金鱼的方法养鲨鱼</text>
 
 </svg>

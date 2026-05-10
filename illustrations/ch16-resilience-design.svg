@@ -4,8 +4,8 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="35" text-anchor="middle" font-size="8" font-weight="bold" fill="#333">韧性设计的四个维度</text>
-  <text x="400" y="55" text-anchor="middle" font-size="6" fill="#777">当AI成为核心基础设施，韧性比效率更重要</text>
+  <text x="400" y="35" text-anchor="middle" font-size="5" font-weight="bold" fill="#333">韧性设计的四个维度</text>
+  <text x="400" y="55" text-anchor="middle" font-size="3" fill="#777">当AI成为核心基础设施，韧性比效率更重要</text>
 
   <!-- ============================================================ -->
   <!-- 四个维度 -->
@@ -13,43 +13,43 @@
 
   <!-- 维度1：冗余 (左上) -->
   <rect x="60" y="75" width="180" height="115" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="150" y="102" text-anchor="middle" font-size="7" font-weight="bold" fill="#1864ab">维度一：冗余</text>
-  <text x="150" y="128" text-anchor="middle" font-size="5" fill="#333">备用组件</text>
-  <text x="150" y="145" text-anchor="middle" font-size="5" fill="#333">主组件失效时</text>
-  <text x="150" y="162" text-anchor="middle" font-size="5" fill="#333">备用接管</text>
-  <text x="150" y="182" text-anchor="middle" font-size="5" fill="#666">系统持续运转</text>
+  <text x="150" y="102" text-anchor="middle" font-size="4" font-weight="bold" fill="#1864ab">维度一：冗余</text>
+  <text x="150" y="128" text-anchor="middle" font-size="3" fill="#333">备用组件</text>
+  <text x="150" y="145" text-anchor="middle" font-size="3" fill="#333">主组件失效时</text>
+  <text x="150" y="162" text-anchor="middle" font-size="3" fill="#333">备用接管</text>
+  <text x="150" y="182" text-anchor="middle" font-size="3" fill="#666">系统持续运转</text>
 
   <!-- 维度2：监控 (右上) -->
   <rect x="560" y="75" width="180" height="115" rx="10" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
-  <text x="650" y="102" text-anchor="middle" font-size="7" font-weight="bold" fill="#862e9c">维度二：监控</text>
-  <text x="650" y="128" text-anchor="middle" font-size="5" fill="#333">实时监测</text>
-  <text x="650" y="145" text-anchor="middle" font-size="5" fill="#333">性能波动</text>
-  <text x="650" y="162" text-anchor="middle" font-size="5" fill="#333">异常预警</text>
-  <text x="650" y="182" text-anchor="middle" font-size="5" fill="#666">早期发现</text>
+  <text x="650" y="102" text-anchor="middle" font-size="4" font-weight="bold" fill="#862e9c">维度二：监控</text>
+  <text x="650" y="128" text-anchor="middle" font-size="3" fill="#333">实时监测</text>
+  <text x="650" y="145" text-anchor="middle" font-size="3" fill="#333">性能波动</text>
+  <text x="650" y="162" text-anchor="middle" font-size="3" fill="#333">异常预警</text>
+  <text x="650" y="182" text-anchor="middle" font-size="3" fill="#666">早期发现</text>
 
   <!-- 维度3：优雅降级 (左下) -->
   <rect x="60" y="220" width="180" height="115" rx="10" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
-  <text x="150" y="247" text-anchor="middle" font-size="7" font-weight="bold" fill="#d77a00">维度三：优雅降级</text>
-  <text x="150" y="273" text-anchor="middle" font-size="5" fill="#333">部分失效时</text>
-  <text x="150" y="290" text-anchor="middle" font-size="5" fill="#333">保持核心功能</text>
-  <text x="150" y="307" text-anchor="middle" font-size="5" fill="#333">而非全部崩溃</text>
-  <text x="150" y="327" text-anchor="middle" font-size="5" fill="#666">功能分级</text>
+  <text x="150" y="247" text-anchor="middle" font-size="4" font-weight="bold" fill="#d77a00">维度三：优雅降级</text>
+  <text x="150" y="273" text-anchor="middle" font-size="3" fill="#333">部分失效时</text>
+  <text x="150" y="290" text-anchor="middle" font-size="3" fill="#333">保持核心功能</text>
+  <text x="150" y="307" text-anchor="middle" font-size="3" fill="#333">而非全部崩溃</text>
+  <text x="150" y="327" text-anchor="middle" font-size="3" fill="#666">功能分级</text>
 
   <!-- 维度4：快速恢复 (右下) -->
   <rect x="560" y="220" width="180" height="115" rx="10" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
-  <text x="650" y="247" text-anchor="middle" font-size="7" font-weight="bold" fill="#e64980">维度四：快速恢复</text>
-  <text x="650" y="273" text-anchor="middle" font-size="5" fill="#333">失效后的</text>
-  <text x="650" y="290" text-anchor="middle" font-size="5" fill="#333">快速恢复能力</text>
-  <text x="650" y="307" text-anchor="middle" font-size="5" fill="#333">最小化停机时间</text>
-  <text x="650" y="327" text-anchor="middle" font-size="5" fill="#666">备份与演练</text>
+  <text x="650" y="247" text-anchor="middle" font-size="4" font-weight="bold" fill="#e64980">维度四：快速恢复</text>
+  <text x="650" y="273" text-anchor="middle" font-size="3" fill="#333">失效后的</text>
+  <text x="650" y="290" text-anchor="middle" font-size="3" fill="#333">快速恢复能力</text>
+  <text x="650" y="307" text-anchor="middle" font-size="3" fill="#333">最小化停机时间</text>
+  <text x="650" y="327" text-anchor="middle" font-size="3" fill="#666">备份与演练</text>
 
   <!-- ============================================================ -->
   <!-- 中央连接 -->
   <!-- ============================================================ -->
 
   <circle cx="400" cy="200" r="28" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="400" y="196" text-anchor="middle" font-size="5" font-weight="bold" fill="#2b8a3e">韧性</text>
-  <text x="400" y="210" text-anchor="middle" font-size="5" fill="#2b8a3e">设计</text>
+  <text x="400" y="196" text-anchor="middle" font-size="3" font-weight="bold" fill="#2b8a3e">韧性</text>
+  <text x="400" y="210" text-anchor="middle" font-size="3" fill="#2b8a3e">设计</text>
 
   <!-- 连接线 -->
   <path d="M240 130 L372 185" fill="none" stroke="#868e96" stroke-width="1" stroke-dasharray="4,3"/>
@@ -64,7 +64,7 @@
   <line x1="50" y1="360" x2="750" y2="360" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="150" y="375" width="500" height="40" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="2"/>
-  <text x="400" y="395" text-anchor="middle" font-size="6" font-weight="bold" fill="#c92a2a">反脆弱性</text>
-  <text x="400" y="410" text-anchor="middle" font-size="5" fill="#333">坚韧者抵抗冲击保持不变；反脆弱者在冲击中变得更好</text>
+  <text x="400" y="395" text-anchor="middle" font-size="3" font-weight="bold" fill="#c92a2a">反脆弱性</text>
+  <text x="400" y="410" text-anchor="middle" font-size="3" fill="#333">坚韧者抵抗冲击保持不变；反脆弱者在冲击中变得更好</text>
 
 </svg>
