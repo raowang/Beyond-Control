@@ -1,16 +1,56 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 535" width="570" height="535">
-  <!-- svg-source:excalidraw -->
-  
-  <defs>
-    <style>
-      @font-face {
-        font-family: "Virgil";
-        src: url("https://excalidraw.com/Virgil.woff2");
-      }
-      @font-face {
-        font-family: "Cascadia";
-        src: url("https://excalidraw.com/Cascadia.woff2");
-      }
-    </style>
-  </defs>
-  <rect x="0" y="0" width="570" height="535" fill="#ffffff"></rect><g transform="translate(180 10) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="22px" fill="#c92a2a" text-anchor="start" style="white-space: pre;" direction="ltr">最佳实践的半衰期</text></g><g stroke-linecap="round" transform="translate(10 150) rotate(0 50 150)"><path d="M-3.2 -1.16 L102.09 3.62 L100.51 296.47 L1.85 303.06" stroke="none" stroke-width="0" fill="#e7f5ff"></path><path d="M1.71 1.93 C19.36 1.92, 38.88 -3.87, 98.41 0.78 M-1.3 0.53 C23.01 0.76, 44.44 -0.38, 98.84 1.51 M102.25 -2.57 C99.58 67.05, 100.59 128.1, 102.04 298.73 M100.44 -1.17 C101.74 79.26, 100.31 161.08, 100.6 300.52 M102.11 299.57 C80.49 301.59, 53.5 300.51, 3.67 299.19 M98.11 299.71 C62.23 300.76, 26.41 300.21, 1.88 300.08 M-1.06 299.59 C-1.34 211.72, -3.88 128.18, 0.87 -1.77 M0.32 301.46 C-3.84 189.91, -3.1 80.42, 0.65 1.45" stroke="#1864ab" stroke-width="2" fill="none"></path></g><g transform="translate(20 160) rotate(0 40 140)"><text x="40" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#1864ab" text-anchor="middle" style="white-space: pre;" direction="ltr">泰勒</text></g><g transform="translate(25 460) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#1864ab" text-anchor="start" style="white-space: pre;" direction="ltr">100年</text></g><g stroke-linecap="round" transform="translate(160 290) rotate(0 50 80)"><path d="M-3.2 -1.16 L102.09 3.62 L100.51 156.47 L1.85 163.06" stroke="none" stroke-width="0" fill="#ebfbee"></path><path d="M1.71 1.93 C19.36 1.92, 38.88 -3.87, 98.41 0.78 M-1.3 0.53 C23.01 0.76, 44.44 -0.38, 98.84 1.51 M103.07 -3.5 C100.72 37.26, 102.1 66.32, 102.78 158.26 M100.6 -1.6 C101.49 41.22, 99.54 85.94, 100.81 160.7 M102.11 159.57 C80.49 161.59, 53.5 160.51, 3.67 159.19 M98.11 159.71 C62.23 160.76, 26.41 160.21, 1.88 160.08 M-1.44 159.44 C0.2 111.05, -3.27 68.58, 1.18 -2.41 M0.44 162 C-3.52 100.49, -2.51 41.79, 0.88 1.98" stroke="#2b8a3e" stroke-width="2" fill="none"></path></g><g transform="translate(170 300) rotate(0 40 70)"><text x="40" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="12px" fill="#2b8a3e" text-anchor="middle" style="white-space: pre;" direction="ltr">平衡计分卡</text></g><g transform="translate(180 460) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#2b8a3e" text-anchor="start" style="white-space: pre;" direction="ltr">20年</text></g><g stroke-linecap="round" transform="translate(310 320) rotate(0 50 65)"><path d="M-3.2 -1.16 L102.09 3.62 L100.51 126.47 L1.85 133.06" stroke="none" stroke-width="0" fill="#f3f0ff"></path><path d="M1.71 1.93 C19.36 1.92, 38.88 -3.87, 98.41 0.78 M-1.3 0.53 C23.01 0.76, 44.44 -0.38, 98.84 1.51 M103.07 -3.5 C101 30.74, 102.38 53.27, 102.78 128.26 M100.6 -1.6 C101.3 33.17, 99.35 69.84, 100.81 130.7 M102.11 129.57 C80.49 131.59, 53.5 130.51, 3.67 129.19 M98.11 129.71 C62.23 130.76, 26.41 130.21, 1.88 130.08 M-1.44 129.44 C0.63 89.66, -2.83 55.79, 1.18 -2.41 M0.44 132 C-3.15 81.4, -2.14 33.62, 0.88 1.98" stroke="#862e9c" stroke-width="2" fill="none"></path></g><g transform="translate(320 330) rotate(0 40 55)"><text x="40" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="12px" fill="#862e9c" text-anchor="middle" style="white-space: pre;" direction="ltr">敏捷开发</text></g><g transform="translate(330 460) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#862e9c" text-anchor="start" style="white-space: pre;" direction="ltr">15年</text></g><g stroke-linecap="round" transform="translate(460 370) rotate(0 50 40)"><path d="M-3.2 -1.16 L102.09 3.62 L100.51 76.47 L1.85 83.06" stroke="none" stroke-width="0" fill="#fff5f7"></path><path d="M1.71 1.93 C19.36 1.92, 38.88 -3.87, 98.41 0.78 M-1.3 0.53 C23.01 0.76, 44.44 -0.38, 98.84 1.51 M103.07 -3.5 C101.46 19.86, 102.84 31.52, 102.78 78.26 M100.6 -1.6 C100.99 19.75, 99.03 43, 100.81 80.7 M102.11 79.57 C80.49 81.59, 53.5 80.51, 3.67 79.19 M98.11 79.71 C62.23 80.76, 26.41 80.21, 1.88 80.08 M-1.44 79.44 C1.36 54, -2.1 34.47, 1.18 -2.41 M0.44 82 C-2.54 49.59, -1.52 20, 0.88 1.98" stroke="#e64980" stroke-width="2" fill="none"></path></g><g transform="translate(470 380) rotate(0 40 30)"><text x="40" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="11px" fill="#e64980" text-anchor="middle" style="white-space: pre;" direction="ltr">AI最佳实践</text></g><g transform="translate(475 460) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#e64980" text-anchor="start" style="white-space: pre;" direction="ltr">?</text></g><g stroke-linecap="round"><g transform="translate(60 120) rotate(0 225 125)"><path d="M0.57 1.2 C76.26 43.18, 376.17 208.22, 451.35 249.55 M-2.57 -0.62 C73.12 42.01, 374.3 210.85, 449.84 252.94" stroke="#e64980" stroke-width="2" fill="none"></path></g></g><g transform="translate(10 520) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#495057" text-anchor="start" style="white-space: pre;" direction="ltr">工业时代</text></g><g transform="translate(430 520) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#e64980" text-anchor="start" style="white-space: pre;" direction="ltr">AI时代</text></g><g stroke-linecap="round"><g transform="translate(130 525) rotate(0 140 0)"><path d="M0.57 1.2 C47.93 1.51, 234.51 -0.12, 281.35 -0.45 M-2.57 -0.62 C44.79 0.35, 232.63 2.52, 279.84 2.94" stroke="#868e96" stroke-width="1.5" fill="none"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" style="font-family: 'Noto Serif CJK SC', serif; background: #fefefe;">
+  <title>最佳实践的半衰期</title>
+
+  <rect width="800" height="420" fill="white"/>
+
+  <!-- 标题 -->
+  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold" fill="#333">最佳实践的半衰期</text>
+  <text x="400" y="65" text-anchor="middle" font-size="12" fill="#777">从发现到被取代的时间，正在急剧缩短</text>
+
+  <!-- ============================================================ -->
+  <!-- 四个柱状图 -->
+  <!-- ============================================================ -->
+
+  <!-- 泰勒科学管理 - 100年 (最高) -->
+  <rect x="80" y="180" width="140" height="180" rx="6" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
+  <text x="150" y="210" text-anchor="middle" font-size="14" font-weight="bold" fill="#1864ab">泰勒</text>
+  <text x="150" y="230" text-anchor="middle" font-size="11" fill="#666">科学管理原理</text>
+  <text x="150" y="320" text-anchor="middle" font-size="28" font-weight="bold" fill="#1864ab">100</text>
+  <text x="150" y="345" text-anchor="middle" font-size="14" fill="#1864ab">年</text>
+
+  <!-- 平衡计分卡 - 20年 -->
+  <rect x="250" y="280" width="140" height="80" rx="6" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
+  <text x="320" y="300" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b8a3e">平衡计分卡</text>
+  <text x="320" y="320" text-anchor="middle" font-size="11" fill="#666">1992年提出</text>
+  <text x="320" y="350" text-anchor="middle" font-size="28" font-weight="bold" fill="#2b8a3e">20</text>
+  <text x="320" y="375" text-anchor="middle" font-size="14" fill="#2b8a3e">年</text>
+
+  <!-- 敏捷开发 - 15年 -->
+  <rect x="420" y="310" width="140" height="50" rx="6" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
+  <text x="490" y="330" text-anchor="middle" font-size="14" font-weight="bold" fill="#862e9c">敏捷开发</text>
+  <text x="490" y="350" text-anchor="middle" font-size="11" fill="#666">2001年宣言</text>
+  <text x="490" y="380" text-anchor="middle" font-size="22" font-weight="bold" fill="#862e9c">15</text>
+  <text x="490" y="400" text-anchor="middle" font-size="12" fill="#862e9c">年</text>
+
+  <!-- AI最佳实践 - ? (最短) -->
+  <rect x="590" y="350" width="140" height="10" rx="3" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
+  <text x="660" y="335" text-anchor="middle" font-size="14" font-weight="bold" fill="#e64980">AI最佳实践</text>
+  <text x="660" y="355" text-anchor="middle" font-size="11" fill="#666">GPT-4: 2023.3</text>
+  <text x="660" y="395" text-anchor="middle" font-size="22" font-weight="bold" fill="#e64980">?</text>
+
+  <!-- 递减箭头 -->
+  <path d="M150 160 Q250 140 320 240" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="5,4"/>
+  <path d="M320 240 Q420 270 490 280" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="5,4"/>
+  <path d="M490 280 Q540 310 660 320" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="5,4"/>
+
+  <!-- ============================================================ -->
+  <!-- 底部结论 -->
+  <!-- ============================================================ -->
+
+  <line x1="50" y1="410" x2="750" y2="410" stroke="#e0e0e0" stroke-width="1"/>
+
+  <rect x="120" y="85" width="560" height="45" rx="8" fill="#fff5f5" stroke="#e64980" stroke-width="2"/>
+  <text x="400" y="105" text-anchor="middle" font-size="13" fill="#333">当所有人都能快速复制最佳实践时</text>
+  <text x="400" y="122" text-anchor="middle" font-size="14" font-weight="bold" fill="#e64980">最佳实践就不再是竞争优势的来源</text>
+
+</svg>

@@ -1,16 +1,81 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 445" width="700" height="445">
-  <!-- svg-source:excalidraw -->
-  
-  <defs>
-    <style>
-      @font-face {
-        font-family: "Virgil";
-        src: url("https://excalidraw.com/Virgil.woff2");
-      }
-      @font-face {
-        font-family: "Cascadia";
-        src: url("https://excalidraw.com/Cascadia.woff2");
-      }
-    </style>
-  </defs>
-  <rect x="0" y="0" width="700" height="445" fill="#ffffff"></rect><g transform="translate(230 10) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="22px" fill="#1864ab" text-anchor="start" style="white-space: pre;" direction="ltr">人机分工决策框架</text></g><g stroke-linecap="round" transform="translate(10 65) rotate(0 160 140)"><path d="M-3.2 -1.16 L322.09 3.62 L320.51 276.47 L1.85 283.06" stroke="none" stroke-width="0" fill="#e7f5ff"></path><path d="M1.2 1.35 C63.55 0.72, 127.22 -3.33, 318.89 0.55 M-0.91 0.37 C71.45 -0.79, 141.79 -1.59, 319.19 1.05 M322.36 -2.68 C319.7 62.79, 320.76 119.29, 322.13 278.67 M320.46 -1.23 C321.72 73.83, 320.23 150.34, 320.62 280.54 M321.47 279.7 C252.43 284.16, 179.61 283.4, 2.57 279.44 M318.68 279.8 C199.58 280.88, 80.53 280.5, 1.31 280.06 M-1.1 279.57 C-1.18 197.35, -3.84 119.66, 0.91 -1.85 M0.33 281.53 C-3.83 177.14, -3.05 74.91, 0.68 1.51" stroke="#1864ab" stroke-width="2" fill="none"></path></g><g transform="translate(20 75) rotate(0 150 130)"><text x="150" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="18px" fill="#1864ab" text-anchor="middle" style="white-space: pre;" direction="ltr">AI 擅长</text></g><g transform="translate(30 115) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#1864ab" text-anchor="start" style="white-space: pre;" direction="ltr">模式识别</text></g><g transform="translate(30 140) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="12px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr">海量数据中找规律</text></g><g transform="translate(30 175) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#1864ab" text-anchor="start" style="white-space: pre;" direction="ltr">速度与规模</text></g><g transform="translate(30 200) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="12px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr">快速处理大量重复决策</text></g><g transform="translate(30 235) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#1864ab" text-anchor="start" style="white-space: pre;" direction="ltr">一致性</text></g><g transform="translate(30 260) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="12px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr">不受情绪影响</text></g><g transform="translate(30 295) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#1864ab" text-anchor="start" style="white-space: pre;" direction="ltr">已知标准</text></g><g transform="translate(30 320) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="12px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr">清晰指标的重复性决策</text></g><g stroke-linecap="round" transform="translate(370 65) rotate(0 160 140)"><path d="M-3.2 -1.16 L322.09 3.62 L320.51 276.47 L1.85 283.06" stroke="none" stroke-width="0" fill="#ebfbee"></path><path d="M1.2 1.35 C63.55 0.72, 127.22 -3.33, 318.89 0.55 M-0.91 0.37 C71.45 -0.79, 141.79 -1.59, 319.19 1.05 M322.36 -2.68 C319.7 62.79, 320.76 119.29, 322.13 278.67 M320.46 -1.23 C321.72 73.83, 320.23 150.34, 320.62 280.54 M321.47 279.7 C252.43 284.16, 179.61 283.4, 2.57 279.44 M318.68 279.8 C199.58 280.88, 80.53 280.5, 1.31 280.06 M-1.1 279.57 C-1.18 197.35, -3.84 119.66, 0.91 -1.85 M0.33 281.53 C-3.83 177.14, -3.05 74.91, 0.68 1.51" stroke="#2b8a3e" stroke-width="2" fill="none"></path></g><g transform="translate(380 75) rotate(0 150 130)"><text x="150" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="18px" fill="#2b8a3e" text-anchor="middle" style="white-space: pre;" direction="ltr">人类 擅长</text></g><g transform="translate(390 115) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#2b8a3e" text-anchor="start" style="white-space: pre;" direction="ltr">意义建构</text></g><g transform="translate(390 140) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="12px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr">理解上下文和意图</text></g><g transform="translate(390 175) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#2b8a3e" text-anchor="start" style="white-space: pre;" direction="ltr">问出好问题</text></g><g transform="translate(390 200) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="12px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr">AI没想过的问题</text></g><g transform="translate(390 235) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#2b8a3e" text-anchor="start" style="white-space: pre;" direction="ltr">价值判断</text></g><g transform="translate(390 260) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="12px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr">不确定性中做决策</text></g><g transform="translate(390 295) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#2b8a3e" text-anchor="start" style="white-space: pre;" direction="ltr">判断AI何时靠谱</text></g><g transform="translate(390 320) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="12px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr">监督和评估AI</text></g><g transform="translate(130 405) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="14px" fill="#c92a2a" text-anchor="start" style="white-space: pre;" direction="ltr">核心问题：谁来判断AI何时靠谱？</text></g><g transform="translate(130 435) rotate(0 0 0)"><text x="0" y="NaN" font-family="Virgil, Segoe UI Emoji" font-size="13px" fill="#495057" text-anchor="start" style="white-space: pre;" direction="ltr">答案：还是人。所以人的判断力变得更重要，不是更不重要</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" style="font-family: 'Noto Serif CJK SC', serif; background: #fefefe;">
+  <title>人机分工决策框架</title>
+
+  <rect width="800" height="450" fill="white"/>
+
+  <!-- 标题 -->
+  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold" fill="#333">人机分工决策框架</text>
+
+  <!-- ============================================================ -->
+  <!-- 左侧：AI擅长 -->
+  <!-- ============================================================ -->
+
+  <rect x="30" y="70" width="340" height="250" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
+  <text x="200" y="100" text-anchor="middle" font-size="18" font-weight="bold" fill="#1864ab">AI 擅长</text>
+
+  <!-- 模式识别 -->
+  <circle cx="60" cy="140" r="8" fill="#1864ab"/>
+  <text x="78" y="145" font-size="14" font-weight="bold" fill="#1864ab">模式识别</text>
+  <text x="78" y="165" font-size="12" fill="#666">海量数据中找规律</text>
+
+  <!-- 速度与规模 -->
+  <circle cx="60" cy="195" r="8" fill="#1864ab"/>
+  <text x="78" y="200" font-size="14" font-weight="bold" fill="#1864ab">速度与规模</text>
+  <text x="78" y="220" font-size="12" fill="#666">快速处理大量重复决策</text>
+
+  <!-- 一致性 -->
+  <circle cx="60" cy="250" r="8" fill="#1864ab"/>
+  <text x="78" y="255" font-size="14" font-weight="bold" fill="#1864ab">一致性</text>
+  <text x="78" y="275" font-size="12" fill="#666">不受情绪影响</text>
+
+  <!-- 已知标准 -->
+  <circle cx="60" cy="305" r="8" fill="#1864ab"/>
+  <text x="78" y="310" font-size="14" font-weight="bold" fill="#1864ab">已知标准</text>
+  <text x="78" y="330" font-size="12" fill="#666">清晰指标的重复性决策</text>
+
+  <!-- ============================================================ -->
+  <!-- 中间VS -->
+  <!-- ============================================================ -->
+
+  <circle cx="400" cy="200" r="35" fill="#f5f5f5" stroke="#ddd" stroke-width="2"/>
+  <text x="400" y="205" text-anchor="middle" font-size="20" font-weight="bold" fill="#666">VS</text>
+
+  <!-- ============================================================ -->
+  <!-- 右侧：人类擅长 -->
+  <!-- ============================================================ -->
+
+  <rect x="430" y="70" width="340" height="250" rx="10" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
+  <text x="600" y="100" text-anchor="middle" font-size="18" font-weight="bold" fill="#2b8a3e">人类 擅长</text>
+
+  <!-- 意义建构 -->
+  <circle cx="460" cy="140" r="8" fill="#2b8a3e"/>
+  <text x="478" y="145" font-size="14" font-weight="bold" fill="#2b8a3e">意义建构</text>
+  <text x="478" y="165" font-size="12" fill="#666">理解上下文和深层意图</text>
+
+  <!-- 问出好问题 -->
+  <circle cx="460" cy="195" r="8" fill="#2b8a3e"/>
+  <text x="478" y="200" font-size="14" font-weight="bold" fill="#2b8a3e">问出好问题</text>
+  <text x="478" y="220" font-size="12" fill="#666">AI没想过的问题</text>
+
+  <!-- 价值判断 -->
+  <circle cx="460" cy="250" r="8" fill="#2b8a3e"/>
+  <text x="478" y="255" font-size="14" font-weight="bold" fill="#2b8a3e">价值判断</text>
+  <text x="478" y="275" font-size="12" fill="#666">不确定性中做决策</text>
+
+  <!-- 判断AI何时靠谱 -->
+  <circle cx="460" cy="305" r="8" fill="#2b8a3e"/>
+  <text x="478" y="310" font-size="14" font-weight="bold" fill="#2b8a3e">判断AI何时靠谱</text>
+  <text x="478" y="330" font-size="12" fill="#666">监督和评估AI</text>
+
+  <!-- ============================================================ -->
+  <!-- 底部核心问题 -->
+  <!-- ============================================================ -->
+
+  <line x1="30" y1="360" x2="770" y2="360" stroke="#e0e0e0" stroke-width="1"/>
+
+  <rect x="150" y="375" width="500" height="70" rx="10" fill="#fff5f5" stroke="#c92a2a" stroke-width="2"/>
+  <text x="400" y="400" text-anchor="middle" font-size="14" font-weight="bold" fill="#c92a2a">核心问题：谁来判断AI何时靠谱？</text>
+  <text x="400" y="425" text-anchor="middle" font-size="13" fill="#666">答案：还是人。所以人的判断力变得</text>
+  <text x="400" y="443" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b8a3e">更重要，不是更不重要</text>
+
+</svg>
