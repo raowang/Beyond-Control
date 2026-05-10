@@ -4,46 +4,46 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="35" text-anchor="middle" font-size="13" font-weight="bold" fill="#333">T型能力的进化</text>
-  <text x="400" y="55" text-anchor="middle" font-size="9" fill="#777">从T型到車字型，整合深度成为核心竞争力</text>
+  <text x="400" y="35" text-anchor="middle" font-size="8" font-weight="bold" fill="#333">T型能力的进化</text>
+  <text x="400" y="55" text-anchor="middle" font-size="6" fill="#777">从T型到車字型，整合深度成为核心竞争力</text>
 
   <!-- ============================================================ -->
   <!-- T型人 (左侧) -->
   <!-- ============================================================ -->
 
   <rect x="50" y="75" width="280" height="200" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="190" y="105" text-anchor="middle" font-size="12" font-weight="bold" fill="#1864ab">T型人</text>
-  <text x="190" y="127" text-anchor="middle" font-size="8" fill="#666">知识经济时代的理想模型</text>
+  <text x="190" y="105" text-anchor="middle" font-size="8" font-weight="bold" fill="#1864ab">T型人</text>
+  <text x="190" y="127" text-anchor="middle" font-size="5" fill="#666">知识经济时代的理想模型</text>
 
   <!-- T形图 -->
   <rect x="170" y="155" width="40" height="95" rx="4" fill="#1864ab"/>
-  <text x="190" y="195" text-anchor="middle" font-size="8" fill="white">深度</text>
+  <text x="190" y="195" text-anchor="middle" font-size="5" fill="white">深度</text>
 
   <rect x="80" y="155" width="220" height="25" rx="4" fill="#a5d8ff"/>
-  <text x="190" y="172" text-anchor="middle" font-size="8" fill="#1864ab">广度</text>
+  <text x="190" y="172" text-anchor="middle" font-size="5" fill="#1864ab">广度</text>
 
-  <text x="190" y="265" text-anchor="middle" font-size="9" fill="#666">某领域专精</text>
-  <text x="190" y="280" text-anchor="middle" font-size="9" fill="#666">+ 跨领域了解</text>
+  <text x="190" y="265" text-anchor="middle" font-size="6" fill="#666">某领域专精</text>
+  <text x="190" y="280" text-anchor="middle" font-size="6" fill="#666">+ 跨领域了解</text>
 
   <!-- 贬值箭头 -->
   <path d="M100 235 L60 235" fill="none" stroke="#c92a2a" stroke-width="2"/>
   <polygon points="60,235 75,230 75,240" fill="#c92a2a"/>
-  <text x="80" y="225" font-size="7" fill="#c92a2a">贬值</text>
+  <text x="80" y="225" font-size="5" fill="#c92a2a">贬值</text>
 
   <!-- ============================================================ -->
   <!-- 中间箭头 -->
   <!-- ============================================================ -->
 
   <text x="400" y="175" text-anchor="middle" font-size="35" fill="#862e9c">→</text>
-  <text x="400" y="200" text-anchor="middle" font-size="9" fill="#862e9c">AI时代</text>
+  <text x="400" y="200" text-anchor="middle" font-size="6" fill="#862e9c">AI时代</text>
 
   <!-- ============================================================ -->
   <!-- 車字型人才 (右侧) -->
   <!-- ============================================================ -->
 
   <rect x="470" y="75" width="280" height="200" rx="10" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="610" y="105" text-anchor="middle" font-size="12" font-weight="bold" fill="#2b8a3e">車字型人才</text>
-  <text x="610" y="127" text-anchor="middle" font-size="8" fill="#666">整合深度 = 核心竞争力</text>
+  <text x="610" y="105" text-anchor="middle" font-size="8" font-weight="bold" fill="#2b8a3e">車字型人才</text>
+  <text x="610" y="127" text-anchor="middle" font-size="5" fill="#666">整合深度 = 核心竞争力</text>
 
   <!-- 車字图示 - 使用文字描画 -->
   <!-- 車的结构：上横、下横、中间框、中心竖线 -->
@@ -64,13 +64,13 @@
     <line x1="45" y1="15" x2="45" y2="35" stroke="#2b8a3e" stroke-width="2"/>
   </g>
 
-  <text x="610" y="260" text-anchor="middle" font-size="9" fill="#666">多领域深度</text>
-  <text x="610" y="275" text-anchor="middle" font-size="9" fill="#666">+ 系统性整合</text>
+  <text x="610" y="260" text-anchor="middle" font-size="6" fill="#666">多领域深度</text>
+  <text x="610" y="275" text-anchor="middle" font-size="6" fill="#666">+ 系统性整合</text>
 
   <!-- 升值箭头 -->
   <path d="M700 235 L740 235" fill="none" stroke="#2b8a3e" stroke-width="2"/>
   <polygon points="740,235 725,230 725,240" fill="#2b8a3e"/>
-  <text x="720" y="225" font-size="7" fill="#2b8a3e">升值</text>
+  <text x="720" y="225" font-size="5" fill="#2b8a3e">升值</text>
 
   <!-- ============================================================ -->
   <!-- 底部：关键洞察 -->
@@ -79,8 +79,8 @@
   <line x1="50" y1="320" x2="750" y2="320" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="100" y="335" width="600" height="70" rx="10" fill="#fff5f5" stroke="#e64980" stroke-width="2"/>
-  <text x="400" y="358" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">为什么？</text>
-  <text x="400" y="378" text-anchor="middle" font-size="9" fill="#333">当知识随手可得时，"什么都懂一点"的人在相对贬值</text>
-  <text x="400" y="398" text-anchor="middle" font-size="9" fill="#2b8a3e">只有深度，才能判断AI输出的质量，才能在AI基础上做出更好的决策</text>
+  <text x="400" y="358" text-anchor="middle" font-size="7" font-weight="bold" fill="#e64980">为什么？</text>
+  <text x="400" y="378" text-anchor="middle" font-size="6" fill="#333">当知识随手可得时，"什么都懂一点"的人在相对贬值</text>
+  <text x="400" y="398" text-anchor="middle" font-size="6" fill="#2b8a3e">只有深度，才能判断AI输出的质量，才能在AI基础上做出更好的决策</text>
 
 </svg>

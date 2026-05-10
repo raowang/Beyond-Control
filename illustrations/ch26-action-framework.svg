@@ -4,8 +4,8 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="40" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">管理者下一步：具体行动框架</text>
-  <text x="400" y="62" text-anchor="middle" font-size="10" fill="#777">知之真切笃实处即是行，行之明觉精察处即是知</text>
+  <text x="400" y="40" text-anchor="middle" font-size="10" font-weight="bold" fill="#333">管理者下一步：具体行动框架</text>
+  <text x="400" y="62" text-anchor="middle" font-size="6" fill="#777">知之真切笃实处即是行，行之明觉精察处即是知</text>
 
   <!-- ============================================================ -->
   <!-- 三个步骤 -->
@@ -14,12 +14,12 @@
   <!-- 步骤1：诊断 -->
   <rect x="60" y="100" width="210" height="180" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
   <circle cx="165" cy="135" r="30" fill="#1864ab"/>
-  <text x="165" y="142" text-anchor="middle" font-size="24" font-weight="bold" fill="white">1</text>
-  <text x="165" y="185" text-anchor="middle" font-size="13" font-weight="bold" fill="#1864ab">诊断</text>
-  <text x="165" y="210" text-anchor="middle" font-size="9" fill="#333">不要急于行动</text>
-  <text x="165" y="230" text-anchor="middle" font-size="8" fill="#666">• 人机分工现状</text>
-  <text x="165" y="250" text-anchor="middle" font-size="8" fill="#666">• 技能现状评估</text>
-  <text x="165" y="270" text-anchor="middle" font-size="8" fill="#666">• 文化成熟度评估</text>
+  <text x="165" y="142" text-anchor="middle" font-size="16" font-weight="bold" fill="white">1</text>
+  <text x="165" y="185" text-anchor="middle" font-size="8" font-weight="bold" fill="#1864ab">诊断</text>
+  <text x="165" y="210" text-anchor="middle" font-size="6" fill="#333">不要急于行动</text>
+  <text x="165" y="230" text-anchor="middle" font-size="5" fill="#666">• 人机分工现状</text>
+  <text x="165" y="250" text-anchor="middle" font-size="5" fill="#666">• 技能现状评估</text>
+  <text x="165" y="270" text-anchor="middle" font-size="5" fill="#666">• 文化成熟度评估</text>
 
   <!-- 箭头1 -->
   <path d="M275 190 L305 190" fill="none" stroke="#868e96" stroke-width="2"/>
@@ -28,12 +28,12 @@
   <!-- 步骤2：设计 -->
   <rect x="310" y="100" width="210" height="180" rx="10" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
   <circle cx="415" cy="135" r="30" fill="#862e9c"/>
-  <text x="415" y="142" text-anchor="middle" font-size="24" font-weight="bold" fill="white">2</text>
-  <text x="415" y="185" text-anchor="middle" font-size="13" font-weight="bold" fill="#862e9c">设计</text>
-  <text x="415" y="210" text-anchor="middle" font-size="9" fill="#333">基于诊断结果</text>
-  <text x="415" y="230" text-anchor="middle" font-size="8" fill="#666">• 制定转型愿景</text>
-  <text x="415" y="250" text-anchor="middle" font-size="8" fill="#666">• 建立变革联盟</text>
-  <text x="415" y="270" text-anchor="middle" font-size="8" fill="#666">• 选择试点领域</text>
+  <text x="415" y="142" text-anchor="middle" font-size="16" font-weight="bold" fill="white">2</text>
+  <text x="415" y="185" text-anchor="middle" font-size="8" font-weight="bold" fill="#862e9c">设计</text>
+  <text x="415" y="210" text-anchor="middle" font-size="6" fill="#333">基于诊断结果</text>
+  <text x="415" y="230" text-anchor="middle" font-size="5" fill="#666">• 制定转型愿景</text>
+  <text x="415" y="250" text-anchor="middle" font-size="5" fill="#666">• 建立变革联盟</text>
+  <text x="415" y="270" text-anchor="middle" font-size="5" fill="#666">• 选择试点领域</text>
 
   <!-- 箭头2 -->
   <path d="M525 190 L555 190" fill="none" stroke="#868e96" stroke-width="2"/>
@@ -42,12 +42,12 @@
   <!-- 步骤3：行动 -->
   <rect x="560" y="100" width="210" height="180" rx="10" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
   <circle cx="665" cy="135" r="30" fill="#2b8a3e"/>
-  <text x="665" y="142" text-anchor="middle" font-size="24" font-weight="bold" fill="white">3</text>
-  <text x="665" y="185" text-anchor="middle" font-size="13" font-weight="bold" fill="#2b8a3e">行动</text>
-  <text x="665" y="210" text-anchor="middle" font-size="9" fill="#333">小步快跑，快速迭代</text>
-  <text x="665" y="230" text-anchor="middle" font-size="8" fill="#666">• 赋能而非裁员</text>
-  <text x="665" y="250" text-anchor="middle" font-size="8" fill="#666">• 先试点后推广</text>
-  <text x="665" y="270" text-anchor="middle" font-size="8" fill="#666">• 持续学习和调整</text>
+  <text x="665" y="142" text-anchor="middle" font-size="16" font-weight="bold" fill="white">3</text>
+  <text x="665" y="185" text-anchor="middle" font-size="8" font-weight="bold" fill="#2b8a3e">行动</text>
+  <text x="665" y="210" text-anchor="middle" font-size="6" fill="#333">小步快跑，快速迭代</text>
+  <text x="665" y="230" text-anchor="middle" font-size="5" fill="#666">• 赋能而非裁员</text>
+  <text x="665" y="250" text-anchor="middle" font-size="5" fill="#666">• 先试点后推广</text>
+  <text x="665" y="270" text-anchor="middle" font-size="5" fill="#666">• 持续学习和调整</text>
 
   <!-- ============================================================ -->
   <!-- 底部：核心洞察 -->
@@ -56,8 +56,8 @@
   <line x1="50" y1="320" x2="750" y2="320" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="100" y="335" width="600" height="80" rx="10" fill="#fff5f5" stroke="#e64980" stroke-width="2"/>
-  <text x="400" y="365" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">知与行的鸿沟</text>
-  <text x="400" y="390" text-anchor="middle" font-size="9" fill="#333">知道和做到之间有一道鸿沟。行动才是最终目标。</text>
-  <text x="400" y="408" text-anchor="middle" font-size="10" font-weight="bold" fill="#2b8a3e">同样的技术，不同组织来做，效果能差好几倍</text>
+  <text x="400" y="365" text-anchor="middle" font-size="7" font-weight="bold" fill="#e64980">知与行的鸿沟</text>
+  <text x="400" y="390" text-anchor="middle" font-size="6" fill="#333">知道和做到之间有一道鸿沟。行动才是最终目标。</text>
+  <text x="400" y="408" text-anchor="middle" font-size="6" font-weight="bold" fill="#2b8a3e">同样的技术，不同组织来做，效果能差好几倍</text>
 
 </svg>

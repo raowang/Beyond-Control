@@ -4,53 +4,53 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="35" text-anchor="middle" font-size="13" font-weight="bold" fill="#333">技能经济学重构</text>
-  <text x="400" y="55" text-anchor="middle" font-size="9" fill="#777">可编码技能 vs 不可编码技能的价值变迁</text>
+  <text x="400" y="35" text-anchor="middle" font-size="8" font-weight="bold" fill="#333">技能经济学重构</text>
+  <text x="400" y="55" text-anchor="middle" font-size="6" fill="#777">可编码技能 vs 不可编码技能的价值变迁</text>
 
   <!-- ============================================================ -->
   <!-- 左侧：可编码技能 -->
   <!-- ============================================================ -->
 
   <rect x="50" y="75" width="300" height="230" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="200" y="105" text-anchor="middle" font-size="11" font-weight="bold" fill="#1864ab">可编码技能</text>
-  <text x="200" y="127" text-anchor="middle" font-size="8" fill="#666">可被规则化、流程化、标准化</text>
+  <text x="200" y="105" text-anchor="middle" font-size="7" font-weight="bold" fill="#1864ab">可编码技能</text>
+  <text x="200" y="127" text-anchor="middle" font-size="5" fill="#666">可被规则化、流程化、标准化</text>
 
   <!-- 示例 -->
-  <text x="85" y="160" font-size="9" fill="#333">• 数据分析</text>
-  <text x="85" y="183" font-size="9" fill="#333">• 报告撰写</text>
-  <text x="85" y="206" font-size="9" fill="#333">• 基础编程</text>
-  <text x="85" y="229" font-size="9" fill="#333">• 标准化客服</text>
+  <text x="85" y="160" font-size="6" fill="#333">• 数据分析</text>
+  <text x="85" y="183" font-size="6" fill="#333">• 报告撰写</text>
+  <text x="85" y="206" font-size="6" fill="#333">• 基础编程</text>
+  <text x="85" y="229" font-size="6" fill="#333">• 标准化客服</text>
 
   <!-- AI图标 -->
   <ellipse cx="260" cy="260" rx="55" ry="32" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
-  <text x="260" y="257" text-anchor="middle" font-size="11" font-weight="bold" fill="#862e9c">AI</text>
-  <text x="260" y="273" text-anchor="middle" font-size="7" fill="#666">大规模复制</text>
+  <text x="260" y="257" text-anchor="middle" font-size="7" font-weight="bold" fill="#862e9c">AI</text>
+  <text x="260" y="273" text-anchor="middle" font-size="5" fill="#666">大规模复制</text>
 
   <!-- 价值下降箭头 -->
   <path d="M160 260 L110 260" fill="none" stroke="#c92a2a" stroke-width="3"/>
   <polygon points="110,260 125,255 125,265" fill="#c92a2a"/>
-  <text x="135" y="250" font-size="7" fill="#c92a2a">价值</text>
-  <text x="135" y="262" font-size="7" fill="#c92a2a">下降</text>
+  <text x="135" y="250" font-size="5" fill="#c92a2a">价值</text>
+  <text x="135" y="262" font-size="5" fill="#c92a2a">下降</text>
 
   <!-- ============================================================ -->
   <!-- 右侧：不可编码技能 -->
   <!-- ============================================================ -->
 
   <rect x="450" y="75" width="300" height="230" rx="10" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="600" y="105" text-anchor="middle" font-size="11" font-weight="bold" fill="#2b8a3e">不可编码技能</text>
-  <text x="600" y="127" text-anchor="middle" font-size="8" fill="#666">需要判断力、创造力、人际技能</text>
+  <text x="600" y="105" text-anchor="middle" font-size="7" font-weight="bold" fill="#2b8a3e">不可编码技能</text>
+  <text x="600" y="127" text-anchor="middle" font-size="5" fill="#666">需要判断力、创造力、人际技能</text>
 
   <!-- 示例 -->
-  <text x="485" y="160" font-size="9" fill="#333">• 复杂问题判断</text>
-  <text x="485" y="183" font-size="9" fill="#333">• 创新思维</text>
-  <text x="485" y="206" font-size="9" fill="#333">• 人际关系建立</text>
-  <text x="485" y="229" font-size="9" fill="#333">• 跨领域整合</text>
+  <text x="485" y="160" font-size="6" fill="#333">• 复杂问题判断</text>
+  <text x="485" y="183" font-size="6" fill="#333">• 创新思维</text>
+  <text x="485" y="206" font-size="6" fill="#333">• 人际关系建立</text>
+  <text x="485" y="229" font-size="6" fill="#333">• 跨领域整合</text>
 
   <!-- 价值上升箭头 -->
   <path d="M660 260 L710 260" fill="none" stroke="#2b8a3e" stroke-width="3"/>
   <polygon points="710,260 695,255 695,265" fill="#2b8a3e"/>
-  <text x="685" y="250" font-size="7" fill="#2b8a3e">价值</text>
-  <text x="685" y="262" font-size="7" fill="#2b8a3e">上升</text>
+  <text x="685" y="250" font-size="5" fill="#2b8a3e">价值</text>
+  <text x="685" y="262" font-size="5" fill="#2b8a3e">上升</text>
 
   <!-- ============================================================ -->
   <!-- 中间：价值悖论 -->
@@ -65,7 +65,7 @@
   <line x1="50" y1="335" x2="750" y2="335" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="100" y="350" width="600" height="55" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="2"/>
-  <text x="400" y="373" text-anchor="middle" font-size="10" font-weight="bold" fill="#c92a2a">技能的价值悖论</text>
-  <text x="400" y="393" text-anchor="middle" font-size="9" fill="#333">当AI可以完成一项工作时，那项工作对人的价值就降低了</text>
+  <text x="400" y="373" text-anchor="middle" font-size="6" font-weight="bold" fill="#c92a2a">技能的价值悖论</text>
+  <text x="400" y="393" text-anchor="middle" font-size="6" fill="#333">当AI可以完成一项工作时，那项工作对人的价值就降低了</text>
 
 </svg>

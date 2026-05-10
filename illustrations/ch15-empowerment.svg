@@ -4,8 +4,8 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="35" text-anchor="middle" font-size="13" font-weight="bold" fill="#333">授权下沉的四个要素</text>
-  <text x="400" y="55" text-anchor="middle" font-size="9" fill="#777">当AI承担规划和标准化工作，一线判断力变得更有价值</text>
+  <text x="400" y="35" text-anchor="middle" font-size="8" font-weight="bold" fill="#333">授权下沉的四个要素</text>
+  <text x="400" y="55" text-anchor="middle" font-size="6" fill="#777">当AI承担规划和标准化工作，一线判断力变得更有价值</text>
 
   <!-- ============================================================ -->
   <!-- 四个要素 -->
@@ -14,10 +14,10 @@
   <!-- 要素1：权力 -->
   <rect x="80" y="75" width="155" height="130" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
   <circle cx="157" cy="105" r="22" fill="#1864ab"/>
-  <text x="157" y="112" text-anchor="middle" font-size="16" font-weight="bold" fill="white">1</text>
-  <text x="157" y="148" text-anchor="middle" font-size="11" font-weight="bold" fill="#1864ab">权力</text>
-  <text x="157" y="170" text-anchor="middle" font-size="8" fill="#333">决策权交给一线</text>
-  <text x="157" y="188" text-anchor="middle" font-size="8" fill="#666">让他们自己做决定</text>
+  <text x="157" y="112" text-anchor="middle" font-size="10" font-weight="bold" fill="white">1</text>
+  <text x="157" y="148" text-anchor="middle" font-size="7" font-weight="bold" fill="#1864ab">权力</text>
+  <text x="157" y="170" text-anchor="middle" font-size="5" fill="#333">决策权交给一线</text>
+  <text x="157" y="188" text-anchor="middle" font-size="5" fill="#666">让他们自己做决定</text>
 
   <!-- 连接箭头 -->
   <path d="M245 140 L280 140" fill="none" stroke="#868e96" stroke-width="2"/>
@@ -26,10 +26,10 @@
   <!-- 要素2：能力 -->
   <rect x="290" y="75" width="155" height="130" rx="10" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
   <circle cx="367" cy="105" r="22" fill="#862e9c"/>
-  <text x="367" y="112" text-anchor="middle" font-size="16" font-weight="bold" fill="white">2</text>
-  <text x="367" y="148" text-anchor="middle" font-size="11" font-weight="bold" fill="#862e9c">能力</text>
-  <text x="367" y="170" text-anchor="middle" font-size="8" fill="#333">培训和支持</text>
-  <text x="367" y="188" text-anchor="middle" font-size="8" fill="#666">让他们能做决定</text>
+  <text x="367" y="112" text-anchor="middle" font-size="10" font-weight="bold" fill="white">2</text>
+  <text x="367" y="148" text-anchor="middle" font-size="7" font-weight="bold" fill="#862e9c">能力</text>
+  <text x="367" y="170" text-anchor="middle" font-size="5" fill="#333">培训和支持</text>
+  <text x="367" y="188" text-anchor="middle" font-size="5" fill="#666">让他们能做决定</text>
 
   <!-- 连接箭头 -->
   <path d="M455 140 L490 140" fill="none" stroke="#868e96" stroke-width="2"/>
@@ -38,18 +38,18 @@
   <!-- 要素3：信息 -->
   <rect x="500" y="75" width="155" height="130" rx="10" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
   <circle cx="577" cy="105" r="22" fill="#d77a00"/>
-  <text x="577" y="112" text-anchor="middle" font-size="16" font-weight="bold" fill="white">3</text>
-  <text x="577" y="148" text-anchor="middle" font-size="11" font-weight="bold" fill="#d77a00">信息</text>
-  <text x="577" y="170" text-anchor="middle" font-size="8" fill="#333">实时数据和洞察</text>
-  <text x="577" y="188" text-anchor="middle" font-size="8" fill="#666">让决策有依据</text>
+  <text x="577" y="112" text-anchor="middle" font-size="10" font-weight="bold" fill="white">3</text>
+  <text x="577" y="148" text-anchor="middle" font-size="7" font-weight="bold" fill="#d77a00">信息</text>
+  <text x="577" y="170" text-anchor="middle" font-size="5" fill="#333">实时数据和洞察</text>
+  <text x="577" y="188" text-anchor="middle" font-size="5" fill="#666">让决策有依据</text>
 
   <!-- 第四要素在底部中央 -->
   <rect x="290" y="230" width="220" height="110" rx="10" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
   <circle cx="400" cy="260" r="22" fill="#e64980"/>
-  <text x="400" y="267" text-anchor="middle" font-size="16" font-weight="bold" fill="white">4</text>
-  <text x="400" y="300" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">问责</text>
-  <text x="400" y="322" text-anchor="middle" font-size="8" fill="#333">对结果负责</text>
-  <text x="400" y="338" text-anchor="middle" font-size="8" fill="#666">有权力就要承担后果</text>
+  <text x="400" y="267" text-anchor="middle" font-size="10" font-weight="bold" fill="white">4</text>
+  <text x="400" y="300" text-anchor="middle" font-size="7" font-weight="bold" fill="#e64980">问责</text>
+  <text x="400" y="322" text-anchor="middle" font-size="5" fill="#333">对结果负责</text>
+  <text x="400" y="338" text-anchor="middle" font-size="5" fill="#666">有权力就要承担后果</text>
 
   <!-- 连接线 -->
   <path d="M500 200 L440 220" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="4,3"/>
@@ -62,7 +62,7 @@
   <line x1="50" y1="370" x2="750" y2="370" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="120" y="385" width="560" height="45" rx="8" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="400" y="405" text-anchor="middle" font-size="10" font-weight="bold" fill="#2b8a3e">AI时代的新逻辑</text>
-  <text x="400" y="422" text-anchor="middle" font-size="8" fill="#333">当AI承担规划、计算、标准化工作 → 一线判断力变得更有价值 → 授权变得必要</text>
+  <text x="400" y="405" text-anchor="middle" font-size="6" font-weight="bold" fill="#2b8a3e">AI时代的新逻辑</text>
+  <text x="400" y="422" text-anchor="middle" font-size="5" fill="#333">当AI承担规划、计算、标准化工作 → 一线判断力变得更有价值 → 授权变得必要</text>
 
 </svg>

@@ -3,7 +3,7 @@
 
   <rect width="800" height="480" fill="white"/>
 
-  <text x="400" y="36" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a1a1a">认知外包的演进：从农业革命到AI时代</text>
+  <text x="400" y="36" text-anchor="middle" font-size="8" font-weight="bold" fill="#1a1a1a">认知外包的演进：从农业革命到AI时代</text>
 
   <!-- 主轴（手绘波浪线） -->
   <path d="M65 158 Q120 154 160 158 Q200 162 240 158 Q280 154 320 158 Q360 162 400 158 Q440 154 480 158 Q520 162 560 158 Q600 154 640 158 Q680 162 720 158 Q745 156 755 158" fill="none" stroke="#aaa" stroke-width="3" stroke-linecap="round"/>
@@ -12,75 +12,75 @@
   <!-- 农业革命 -->
   <g transform="translate(110, 158)">
     <ellipse cx="0" cy="0" rx="15" ry="14" fill="#8B7355" stroke="#5D4E37" stroke-width="2"/>
-    <text x="0" y="5" text-anchor="middle" font-size="8" fill="white" font-weight="bold">农</text>
+    <text x="0" y="5" text-anchor="middle" font-size="5" fill="white" font-weight="bold">农</text>
     <rect x="-52" y="-60" width="104" height="46" rx="6" fill="#F5F0E8" stroke="#8B7355" stroke-width="1.8"/>
-    <text x="0" y="-44" text-anchor="middle" font-size="9" font-weight="bold" fill="#5D4E37">农业革命</text>
-    <text x="0" y="-28" text-anchor="middle" font-size="8" fill="#7A6B5A">外包：食物生产</text>
-    <text x="0" y="-14" text-anchor="middle" font-size="7" fill="#aaa">土地 + 牲畜</text>
+    <text x="0" y="-44" text-anchor="middle" font-size="6" font-weight="bold" fill="#5D4E37">农业革命</text>
+    <text x="0" y="-28" text-anchor="middle" font-size="5" fill="#7A6B5A">外包：食物生产</text>
+    <text x="0" y="-14" text-anchor="middle" font-size="5" fill="#aaa">土地 + 牲畜</text>
   </g>
 
   <!-- 工业革命 -->
   <g transform="translate(295, 158)">
     <ellipse cx="0" cy="0" rx="15" ry="14" fill="#607D8B" stroke="#37474F" stroke-width="2"/>
-    <text x="0" y="5" text-anchor="middle" font-size="7" fill="white" font-weight="bold">工</text>
+    <text x="0" y="5" text-anchor="middle" font-size="5" fill="white" font-weight="bold">工</text>
     <rect x="-52" y="-60" width="104" height="46" rx="6" fill="#ECEFF1" stroke="#607D8B" stroke-width="1.8"/>
-    <text x="0" y="-44" text-anchor="middle" font-size="9" font-weight="bold" fill="#37474F">工业革命</text>
-    <text x="0" y="-28" text-anchor="middle" font-size="8" fill="#546E7A">外包：体力劳动</text>
-    <text x="0" y="-14" text-anchor="middle" font-size="7" fill="#aaa">机器 + 工厂</text>
+    <text x="0" y="-44" text-anchor="middle" font-size="6" font-weight="bold" fill="#37474F">工业革命</text>
+    <text x="0" y="-28" text-anchor="middle" font-size="5" fill="#546E7A">外包：体力劳动</text>
+    <text x="0" y="-14" text-anchor="middle" font-size="5" fill="#aaa">机器 + 工厂</text>
   </g>
 
   <!-- 信息技术 -->
   <g transform="translate(480, 158)">
     <ellipse cx="0" cy="0" rx="15" ry="14" fill="#1565C0" stroke="#0D47A1" stroke-width="2"/>
-    <text x="0" y="5" text-anchor="middle" font-size="7" fill="white" font-weight="bold">信</text>
+    <text x="0" y="5" text-anchor="middle" font-size="5" fill="white" font-weight="bold">信</text>
     <rect x="-52" y="-60" width="104" height="46" rx="6" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.8"/>
-    <text x="0" y="-44" text-anchor="middle" font-size="9" font-weight="bold" fill="#0D47A1">信息技术</text>
-    <text x="0" y="-28" text-anchor="middle" font-size="8" fill="#1565C0">外包：信息处理</text>
-    <text x="0" y="-14" text-anchor="middle" font-size="7" fill="#aaa">计算 + 通信</text>
+    <text x="0" y="-44" text-anchor="middle" font-size="6" font-weight="bold" fill="#0D47A1">信息技术</text>
+    <text x="0" y="-28" text-anchor="middle" font-size="5" fill="#1565C0">外包：信息处理</text>
+    <text x="0" y="-14" text-anchor="middle" font-size="5" fill="#aaa">计算 + 通信</text>
   </g>
 
   <!-- AI时代 -->
   <g transform="translate(665, 158)">
     <ellipse cx="0" cy="0" rx="19" ry="18" fill="#C62828" stroke="#B71C1C" stroke-width="2.5"/>
-    <text x="0" y="5" text-anchor="middle" font-size="8" fill="white" font-weight="bold">AI</text>
+    <text x="0" y="5" text-anchor="middle" font-size="5" fill="white" font-weight="bold">AI</text>
     <rect x="-64" y="-80" width="128" height="66" rx="7" fill="#FFEBEE" stroke="#C62828" stroke-width="2"/>
-    <text x="0" y="-62" text-anchor="middle" font-size="10" font-weight="bold" fill="#B71C1C">AI 时代</text>
-    <text x="0" y="-45" text-anchor="middle" font-size="8" fill="#C62828">外包：判断力 + 决策力</text>
-    <text x="0" y="-28" text-anchor="middle" font-size="9" fill="#E53935">临界点被跨越！</text>
+    <text x="0" y="-62" text-anchor="middle" font-size="6" font-weight="bold" fill="#B71C1C">AI 时代</text>
+    <text x="0" y="-45" text-anchor="middle" font-size="5" fill="#C62828">外包：判断力 + 决策力</text>
+    <text x="0" y="-28" text-anchor="middle" font-size="6" fill="#E53935">临界点被跨越！</text>
   </g>
 
   <!-- 核心问题 -->
   <rect x="90" y="262" width="620" height="46" rx="7" fill="#FFFDE7" stroke="#F9A825" stroke-width="1.8"/>
-  <text x="400" y="281" text-anchor="middle" font-size="10" font-weight="bold" fill="#E65100">认知外包史上首次：机器在"做擅长之事"上追平并超越人类</text>
-  <text x="400" y="299" text-anchor="middle" font-size="9" fill="#666">临界点之后：人类独特的价值是什么？</text>
+  <text x="400" y="281" text-anchor="middle" font-size="6" font-weight="bold" fill="#E65100">认知外包史上首次：机器在"做擅长之事"上追平并超越人类</text>
+  <text x="400" y="299" text-anchor="middle" font-size="6" fill="#666">临界点之后：人类独特的价值是什么？</text>
 
   <line x1="50" y1="328" x2="750" y2="328" stroke="#ddd" stroke-width="1.5" stroke-dasharray="5,4"/>
 
-  <text x="60" y="352" font-size="11" font-weight="bold" fill="#333">AI 不是风口：三个本质特征</text>
+  <text x="60" y="352" font-size="7" font-weight="bold" fill="#333">AI 不是风口：三个本质特征</text>
 
   <g transform="translate(60, 372)">
     <ellipse cx="6" cy="-5" rx="5" ry="5" fill="#1565C0"/>
-    <text x="20" y="0" font-size="9" font-weight="bold" fill="#333">时效性</text>
-    <text x="20" y="14" font-size="8" fill="#666">连续多年年度关键词，非热点轮换</text>
+    <text x="20" y="0" font-size="6" font-weight="bold" fill="#333">时效性</text>
+    <text x="20" y="14" font-size="5" fill="#666">连续多年年度关键词，非热点轮换</text>
   </g>
 
   <g transform="translate(310, 372)">
     <ellipse cx="6" cy="-5" rx="5" ry="5" fill="#1565C0"/>
-    <text x="20" y="0" font-size="9" font-weight="bold" fill="#333">不可替代性</text>
-    <text x="20" y="14" font-size="8" fill="#666">底层能力持续提升，无替代技术</text>
+    <text x="20" y="0" font-size="6" font-weight="bold" fill="#333">不可替代性</text>
+    <text x="20" y="14" font-size="5" fill="#666">底层能力持续提升，无替代技术</text>
   </g>
 
   <g transform="translate(570, 372)">
     <ellipse cx="6" cy="-5" rx="5" ry="5" fill="#1565C0"/>
-    <text x="20" y="0" font-size="9" font-weight="bold" fill="#333">代际跨越</text>
-    <text x="20" y="14" font-size="8" fill="#666">GPT-5 vs GPT-4 是代际跃升，非线性</text>
+    <text x="20" y="0" font-size="6" font-weight="bold" fill="#333">代际跨越</text>
+    <text x="20" y="14" font-size="5" fill="#666">GPT-5 vs GPT-4 是代际跃升，非线性</text>
   </g>
 
   <rect x="60" y="428" width="680" height="42" rx="6" fill="#FFF8E1" stroke="#FFB300" stroke-width="1.5"/>
-  <text x="80" y="448" font-size="10" font-weight="bold" fill="#E65100">柯达的教训</text>
-  <text x="175" y="448" font-size="9" fill="#555">趋势来时，最大阻力往往不是技术，是</text>
-  <text x="385" y="448" font-size="9" font-weight="bold" fill="#C62828">既得利益</text>
-  <text x="443" y="448" font-size="9" fill="#555">。</text>
-  <text x="80" y="462" font-size="7" fill="#999">1991年数码相机发明 → 管理层拒绝推广 → 2012年柯达破产</text>
+  <text x="80" y="448" font-size="6" font-weight="bold" fill="#E65100">柯达的教训</text>
+  <text x="175" y="448" font-size="6" fill="#555">趋势来时，最大阻力往往不是技术，是</text>
+  <text x="385" y="448" font-size="6" font-weight="bold" fill="#C62828">既得利益</text>
+  <text x="443" y="448" font-size="6" fill="#555">。</text>
+  <text x="80" y="462" font-size="5" fill="#999">1991年数码相机发明 → 管理层拒绝推广 → 2012年柯达破产</text>
 
 </svg>

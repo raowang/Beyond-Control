@@ -4,8 +4,8 @@
   <rect width="800" height="450" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="40" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">跨边界协作：创新的真正发生地</text>
-  <text x="400" y="62" text-anchor="middle" font-size="10" fill="#777">真正的创新，往往发生在边界上——但组织边界正好阻断了这种创新</text>
+  <text x="400" y="40" text-anchor="middle" font-size="10" font-weight="bold" fill="#333">跨边界协作：创新的真正发生地</text>
+  <text x="400" y="62" text-anchor="middle" font-size="6" fill="#777">真正的创新，往往发生在边界上——但组织边界正好阻断了这种创新</text>
 
   <!-- ============================================================ -->
   <!-- 中央：创新发生在边界 -->
@@ -14,34 +14,34 @@
   <!-- 三个圆交叉 -->
   <!-- 职能边界 -->
   <circle cx="300" cy="200" r="100" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="300" y="195" text-anchor="middle" font-size="11" font-weight="bold" fill="#1864ab">职能边界</text>
-  <text x="300" y="215" text-anchor="middle" font-size="8" fill="#666">研发 | 销售 | 生产</text>
+  <text x="300" y="195" text-anchor="middle" font-size="7" font-weight="bold" fill="#1864ab">职能边界</text>
+  <text x="300" y="215" text-anchor="middle" font-size="5" fill="#666">研发 | 销售 | 生产</text>
 
   <!-- 层级边界 -->
   <circle cx="450" cy="280" r="100" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
-  <text x="450" y="275" text-anchor="middle" font-size="11" font-weight="bold" fill="#862e9c">层级边界</text>
-  <text x="450" y="295" text-anchor="middle" font-size="8" fill="#666">高层 | 中层 | 基层</text>
+  <text x="450" y="275" text-anchor="middle" font-size="7" font-weight="bold" fill="#862e9c">层级边界</text>
+  <text x="450" y="295" text-anchor="middle" font-size="5" fill="#666">高层 | 中层 | 基层</text>
 
   <!-- 外部边界 -->
   <circle cx="400" cy="150" r="80" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
-  <text x="400" y="145" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">外部边界</text>
-  <text x="400" y="165" text-anchor="middle" font-size="8" fill="#666">客户 | 供应商 | 生态</text>
+  <text x="400" y="145" text-anchor="middle" font-size="7" font-weight="bold" fill="#e64980">外部边界</text>
+  <text x="400" y="165" text-anchor="middle" font-size="5" fill="#666">客户 | 供应商 | 生态</text>
 
   <!-- 交叉点标注 - 创新发生地 -->
   <circle cx="380" cy="190" r="15" fill="#c92a2a"/>
-  <text x="380" y="195" text-anchor="middle" font-size="8" font-weight="bold" fill="white">创新</text>
+  <text x="380" y="195" text-anchor="middle" font-size="5" font-weight="bold" fill="white">创新</text>
 
   <!-- ============================================================ -->
   <!-- 右侧：问题说明 -->
   <!-- ============================================================ -->
 
   <rect x="580" y="110" width="200" height="150" rx="8" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
-  <text x="680" y="135" text-anchor="middle" font-size="11" font-weight="bold" fill="#d77a00">传统组织的问题</text>
-  <text x="680" y="165" text-anchor="middle" font-size="9" fill="#333">部门之间</text>
-  <text x="680" y="185" text-anchor="middle" font-size="9" fill="#333">各自为战</text>
-  <text x="680" y="205" text-anchor="middle" font-size="9" fill="#333">知识分类清晰</text>
-  <text x="680" y="225" text-anchor="middle" font-size="9" fill="#333">但流动困难</text>
-  <text x="680" y="245" text-anchor="middle" font-size="9" fill="#c92a2a">创新机会在缝隙里</text>
+  <text x="680" y="135" text-anchor="middle" font-size="7" font-weight="bold" fill="#d77a00">传统组织的问题</text>
+  <text x="680" y="165" text-anchor="middle" font-size="6" fill="#333">部门之间</text>
+  <text x="680" y="185" text-anchor="middle" font-size="6" fill="#333">各自为战</text>
+  <text x="680" y="205" text-anchor="middle" font-size="6" fill="#333">知识分类清晰</text>
+  <text x="680" y="225" text-anchor="middle" font-size="6" fill="#333">但流动困难</text>
+  <text x="680" y="245" text-anchor="middle" font-size="6" fill="#c92a2a">创新机会在缝隙里</text>
 
   <!-- ============================================================ -->
   <!-- 底部：跨边界协作案例 -->
@@ -49,13 +49,13 @@
 
   <line x1="50" y1="340" x2="750" y2="340" stroke="#e0e0e0" stroke-width="1"/>
 
-  <text x="400" y="365" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">跨边界协作案例</text>
+  <text x="400" y="365" text-anchor="middle" font-size="7" font-weight="bold" fill="#333">跨边界协作案例</text>
 
   <!-- 制药案例 -->
   <rect x="80" y="380" width="180" height="60" rx="6" fill="#e7f5ff" stroke="#1864ab" stroke-width="1.5"/>
-  <text x="170" y="400" text-anchor="middle" font-size="9" font-weight="bold" fill="#1864ab">AI药物研发</text>
-  <text x="170" y="420" text-anchor="middle" font-size="8" fill="#666">医学 + 数据科学</text>
-  <text x="170" y="435" text-anchor="middle" font-size="8" fill="#666">临床 + 监管合规</text>
+  <text x="170" y="400" text-anchor="middle" font-size="6" font-weight="bold" fill="#1864ab">AI药物研发</text>
+  <text x="170" y="420" text-anchor="middle" font-size="5" fill="#666">医学 + 数据科学</text>
+  <text x="170" y="435" text-anchor="middle" font-size="5" fill="#666">临床 + 监管合规</text>
 
   <!-- 箭头 -->
   <path d="M270 410 L310 410" fill="none" stroke="#868e96" stroke-width="1.5"/>
@@ -63,8 +63,8 @@
 
   <!-- AI辅助 -->
   <ellipse cx="370" cy="410" rx="50" ry="25" fill="#f3f0ff" stroke="#862e9c" stroke-width="1.5"/>
-  <text x="370" y="406" text-anchor="middle" font-size="9" font-weight="bold" fill="#862e9c">AI</text>
-  <text x="370" y="420" text-anchor="middle" font-size="7" fill="#666">辅助整合</text>
+  <text x="370" y="406" text-anchor="middle" font-size="6" font-weight="bold" fill="#862e9c">AI</text>
+  <text x="370" y="420" text-anchor="middle" font-size="5" fill="#666">辅助整合</text>
 
   <!-- 箭头 -->
   <path d="M420 410 L460 410" fill="none" stroke="#868e96" stroke-width="1.5"/>
@@ -72,8 +72,8 @@
 
   <!-- 融合 -->
   <rect x="500" y="380" width="200" height="60" rx="6" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="600" y="400" text-anchor="middle" font-size="9" font-weight="bold" fill="#2b8a3e">融合创新</text>
-  <text x="600" y="420" text-anchor="middle" font-size="8" fill="#666">跨越四个领域的</text>
-  <text x="600" y="435" text-anchor="middle" font-size="8" fill="#666">系统性解决方案</text>
+  <text x="600" y="400" text-anchor="middle" font-size="6" font-weight="bold" fill="#2b8a3e">融合创新</text>
+  <text x="600" y="420" text-anchor="middle" font-size="5" fill="#666">跨越四个领域的</text>
+  <text x="600" y="435" text-anchor="middle" font-size="5" fill="#666">系统性解决方案</text>
 
 </svg>

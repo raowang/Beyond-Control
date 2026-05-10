@@ -4,8 +4,8 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="40" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">三类既得利益者的转型困境</text>
-  <text x="400" y="62" text-anchor="middle" font-size="10" fill="#777">他们不是坏人，只是被时代抛下的人</text>
+  <text x="400" y="40" text-anchor="middle" font-size="10" font-weight="bold" fill="#333">三类既得利益者的转型困境</text>
+  <text x="400" y="62" text-anchor="middle" font-size="6" fill="#777">他们不是坏人，只是被时代抛下的人</text>
 
   <!-- ============================================================ -->
   <!-- 三类既得利益者 -->
@@ -13,39 +13,39 @@
 
   <!-- 第一类：高层管理者 -->
   <rect x="50" y="90" width="230" height="180" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="165" y="120" text-anchor="middle" font-size="11" font-weight="bold" fill="#1864ab">第一类：高层管理者</text>
-  <text x="165" y="145" text-anchor="middle" font-size="8" fill="#666">战略决策权持有者</text>
+  <text x="165" y="120" text-anchor="middle" font-size="7" font-weight="bold" fill="#1864ab">第一类：高层管理者</text>
+  <text x="165" y="145" text-anchor="middle" font-size="5" fill="#666">战略决策权持有者</text>
 
-  <text x="80" y="175" font-size="9" fill="#333">困境：</text>
-  <text x="80" y="195" font-size="8" fill="#333">• 既得利益最丰厚</text>
-  <text x="80" y="215" font-size="8" fill="#333">• 变革失败可推卸责任</text>
-  <text x="80" y="235" font-size="8" fill="#333">• 往往远离一线实际</text>
+  <text x="80" y="175" font-size="6" fill="#333">困境：</text>
+  <text x="80" y="195" font-size="5" fill="#333">• 既得利益最丰厚</text>
+  <text x="80" y="215" font-size="5" fill="#333">• 变革失败可推卸责任</text>
+  <text x="80" y="235" font-size="5" fill="#333">• 往往远离一线实际</text>
 
-  <text x="165" y="260" text-anchor="middle" font-size="8" fill="#c92a2a">威胁：失去决策权</text>
+  <text x="165" y="260" text-anchor="middle" font-size="5" fill="#c92a2a">威胁：失去决策权</text>
 
   <!-- 第二类：中层管理者 -->
   <rect x="285" y="90" width="230" height="180" rx="10" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
-  <text x="400" y="120" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">第二类：中层管理者</text>
-  <text x="400" y="145" text-anchor="middle" font-size="8" fill="#666">信息枢纽 + 指令传达</text>
+  <text x="400" y="120" text-anchor="middle" font-size="7" font-weight="bold" fill="#e64980">第二类：中层管理者</text>
+  <text x="400" y="145" text-anchor="middle" font-size="5" fill="#666">信息枢纽 + 指令传达</text>
 
-  <text x="315" y="175" font-size="9" fill="#333">困境：</text>
-  <text x="315" y="195" font-size="8" fill="#333">• AI替代信息枢纽功能</text>
-  <text x="315" y="215" font-size="8" fill="#333">• 指令传达也可被AI替代</text>
-  <text x="315" y="235" font-size="8" fill="#333">• 往往最后意识到威胁</text>
+  <text x="315" y="175" font-size="6" fill="#333">困境：</text>
+  <text x="315" y="195" font-size="5" fill="#333">• AI替代信息枢纽功能</text>
+  <text x="315" y="215" font-size="5" fill="#333">• 指令传达也可被AI替代</text>
+  <text x="315" y="235" font-size="5" fill="#333">• 往往最后意识到威胁</text>
 
-  <text x="400" y="260" text-anchor="middle" font-size="8" fill="#c92a2a">威胁：角色被取代</text>
+  <text x="400" y="260" text-anchor="middle" font-size="5" fill="#c92a2a">威胁：角色被取代</text>
 
   <!-- 第三类：专家/知识工作者 -->
   <rect x="520" y="90" width="230" height="180" rx="10" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
-  <text x="635" y="120" text-anchor="middle" font-size="11" font-weight="bold" fill="#d77a00">第三类：专家/知识工作者</text>
-  <text x="635" y="145" text-anchor="middle" font-size="8" fill="#666">专业知识和技能</text>
+  <text x="635" y="120" text-anchor="middle" font-size="7" font-weight="bold" fill="#d77a00">第三类：专家/知识工作者</text>
+  <text x="635" y="145" text-anchor="middle" font-size="5" fill="#666">专业知识和技能</text>
 
-  <text x="550" y="175" font-size="9" fill="#333">困境：</text>
-  <text x="550" y="195" font-size="8" fill="#333">• 专业技能可能被AI超越</text>
-  <text x="550" y="215" font-size="8" fill="#333">• "经验"可能变成包袱</text>
-  <text x="550" y="235" font-size="8" fill="#333">• 转型成本最高</text>
+  <text x="550" y="175" font-size="6" fill="#333">困境：</text>
+  <text x="550" y="195" font-size="5" fill="#333">• 专业技能可能被AI超越</text>
+  <text x="550" y="215" font-size="5" fill="#333">• "经验"可能变成包袱</text>
+  <text x="550" y="235" font-size="5" fill="#333">• 转型成本最高</text>
 
-  <text x="635" y="260" text-anchor="middle" font-size="8" fill="#c92a2a">威胁：专业价值稀释</text>
+  <text x="635" y="260" text-anchor="middle" font-size="5" fill="#c92a2a">威胁：专业价值稀释</text>
 
   <!-- ============================================================ -->
   <!-- 底部引言 -->
@@ -54,8 +54,8 @@
   <line x1="50" y1="300" x2="750" y2="300" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="150" y="315" width="500" height="90" rx="10" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
-  <text x="400" y="345" text-anchor="middle" font-size="11" font-weight="bold" fill="#862e9c">马基雅维利的洞见</text>
-  <text x="400" y="375" text-anchor="middle" font-size="9" fill="#333">"创新者会遭到所有在旧秩序下受益的人的反叛，</text>
-  <text x="400" y="395" text-anchor="middle" font-size="9" fill="#333">而新秩序的潜在受益者只会提供冷淡的支持。"</text>
+  <text x="400" y="345" text-anchor="middle" font-size="7" font-weight="bold" fill="#862e9c">马基雅维利的洞见</text>
+  <text x="400" y="375" text-anchor="middle" font-size="6" fill="#333">"创新者会遭到所有在旧秩序下受益的人的反叛，</text>
+  <text x="400" y="395" text-anchor="middle" font-size="6" fill="#333">而新秩序的潜在受益者只会提供冷淡的支持。"</text>
 
 </svg>
