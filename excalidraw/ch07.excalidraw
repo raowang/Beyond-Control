@@ -1,0 +1,214 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "excalidraw-cli",
+  "elements": [
+    {
+      "type": "text",
+      "id": "title",
+      "x": 280,
+      "y": 35,
+      "roughness": 2,
+      "strokeColor": "#2b8a3e",
+      "groupIds": [],
+      "fontSize": 22,
+      "fontFamily": 1,
+      "text": "韧性的三层含义"
+    },
+    {
+      "type": "rectangle",
+      "id": "eff",
+      "x": 100,
+      "y": 380,
+      "width": 600,
+      "height": 80,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "eff_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "eff_label",
+      "x": 110,
+      "y": 390,
+      "width": 580,
+      "height": 60,
+      "text": "效率",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "eff",
+      "strokeColor": "#1864ab"
+    },
+    {
+      "type": "text",
+      "id": "effsub",
+      "x": 180,
+      "y": 435,
+      "roughness": 2,
+      "strokeColor": "#1864ab",
+      "groupIds": [],
+      "fontSize": 14,
+      "fontFamily": 1,
+      "text": "做事的速度和质量"
+    },
+    {
+      "type": "rectangle",
+      "id": "opt",
+      "x": 150,
+      "y": 260,
+      "width": 500,
+      "height": 80,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#862e9c",
+      "backgroundColor": "#f3f0ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "opt_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "opt_label",
+      "x": 160,
+      "y": 270,
+      "width": 480,
+      "height": 60,
+      "text": "优化",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "opt",
+      "strokeColor": "#862e9c"
+    },
+    {
+      "type": "text",
+      "id": "optsub",
+      "x": 230,
+      "y": 315,
+      "roughness": 2,
+      "strokeColor": "#862e9c",
+      "groupIds": [],
+      "fontSize": 14,
+      "fontFamily": 1,
+      "text": "在给定条件下找最优解"
+    },
+    {
+      "type": "rectangle",
+      "id": "res",
+      "x": 200,
+      "y": 140,
+      "width": 400,
+      "height": 80,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fff5f5",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "boundElements": [
+        {
+          "id": "res_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "res_label",
+      "x": 210,
+      "y": 150,
+      "width": 380,
+      "height": 60,
+      "text": "韧性",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "res",
+      "strokeColor": "#c92a2a"
+    },
+    {
+      "type": "text",
+      "id": "ressub",
+      "x": 260,
+      "y": 195,
+      "roughness": 2,
+      "strokeColor": "#c92a2a",
+      "groupIds": [],
+      "fontSize": 14,
+      "fontFamily": 1,
+      "text": "部分失效时继续运转"
+    },
+    {
+      "type": "line",
+      "id": "arrow",
+      "x": 650,
+      "y": 400,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -240
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#e64980",
+      "strokeWidth": 3
+    },
+    {
+      "type": "text",
+      "id": "arrowlab",
+      "x": 665,
+      "y": 270,
+      "roughness": 2,
+      "strokeColor": "#e64980",
+      "groupIds": [],
+      "fontSize": 12,
+      "fontFamily": 1,
+      "text": "优先级\n上升"
+    },
+    {
+      "type": "text",
+      "id": "note",
+      "x": 200,
+      "y": 530,
+      "roughness": 2,
+      "strokeColor": "#495057",
+      "groupIds": [],
+      "fontSize": 13,
+      "fontFamily": 1,
+      "text": "AI时代：核心基础设施失效时，影响范围和深度远超过去"
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": null
+  },
+  "files": {}
+}
