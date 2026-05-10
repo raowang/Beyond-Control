@@ -3,91 +3,93 @@
 
   <rect width="800" height="420" fill="white"/>
 
+  <!-- 标题 -->
+  <text x="400" y="35" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">控制逻辑的失效</text>
+
   <!-- ============================================================ -->
   <!-- 左侧：工业时代 - 可控输入 -->
   <!-- ============================================================ -->
 
-  <text x="150" y="40" text-anchor="middle" font-size="18" font-weight="bold" fill="#666">工业时代逻辑</text>
-  <text x="150" y="62" text-anchor="middle" font-size="12" fill="#999">可控输入 → 可预测输出</text>
+  <text x="150" y="65" text-anchor="middle" font-size="16" font-weight="bold" fill="#666">工业时代逻辑</text>
+  <text x="150" y="82" text-anchor="middle" font-size="10" fill="#999">可控输入 → 可预测输出</text>
 
   <!-- 工厂流水线示意 -->
-  <rect x="50" y="100" width="200" height="250" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="2"/>
+  <rect x="50" y="95" width="200" height="230" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="2"/>
 
   <!-- 输入 -->
-  <rect x="70" y="120" width="160" height="50" rx="6" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="150" y="150" text-anchor="middle" font-size="14" font-weight="bold" fill="#1864ab">输入</text>
-  <text x="150" y="168" text-anchor="middle" font-size="10" fill="#666">原材料 | 规格标准</text>
+  <rect x="70" y="115" width="160" height="45" rx="6" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
+  <text x="150" y="143" text-anchor="middle" font-size="13" font-weight="bold" fill="#1864ab">输入</text>
+  <text x="150" y="158" text-anchor="middle" font-size="9" fill="#666">原材料 | 规格标准</text>
 
   <!-- 箭头 -->
-  <path d="M150 175 L150 210" fill="none" stroke="#868e96" stroke-width="2"/>
-  <polygon points="150,215 145,205 155,205" fill="#868e96"/>
+  <path d="M150 165 L150 195" fill="none" stroke="#868e96" stroke-width="2"/>
+  <polygon points="150,200 145,190 155,190" fill="#868e96"/>
 
   <!-- 过程 (齿轮) -->
-  <circle cx="150" cy="240" r="30" fill="#fff" stroke="#666" stroke-width="2"/>
-  <circle cx="150" cy="240" r="15" fill="none" stroke="#666" stroke-width="1.5"/>
-  <!-- 齿轮齿 -->
-  <line x1="150" y1="205" x2="150" y2="215" stroke="#666" stroke-width="3"/>
-  <line x1="150" y1="265" x2="150" y2="275" stroke="#666" stroke-width="3"/>
-  <line x1="115" y1="240" x2="125" y2="240" stroke="#666" stroke-width="3"/>
-  <line x1="175" y1="240" x2="185" y2="240" stroke="#666" stroke-width="3"/>
+  <circle cx="150" cy="220" r="28" fill="#fff" stroke="#666" stroke-width="2"/>
+  <circle cx="150" cy="220" r="14" fill="none" stroke="#666" stroke-width="1.5"/>
+  <line x1="150" y="188" x2="150" y2="196" stroke="#666" stroke-width="3"/>
+  <line x1="150" y="244" x2="150" y2="252" stroke="#666" stroke-width="3"/>
+  <line x1="118" y="220" x2="126" y2="220" stroke="#666" stroke-width="3"/>
+  <line x1="174" y="220" x2="182" y2="220" stroke="#666" stroke-width="3"/>
 
   <!-- 箭头 -->
-  <path d="M150 275 L150 310" fill="none" stroke="#868e96" stroke-width="2"/>
-  <polygon points="150,315 145,305 155,305" fill="#868e96"/>
+  <path d="M150 253 L150 280" fill="none" stroke="#868e96" stroke-width="2"/>
+  <polygon points="150,285 145,275 155,275" fill="#868e96"/>
 
   <!-- 输出 -->
-  <rect x="70" y="320" width="160" height="50" rx="6" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="150" y="350" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b8a3e">输出</text>
-  <text x="150" y="368" text-anchor="middle" font-size="10" fill="#666">可预测的质量</text>
+  <rect x="70" y="290" width="160" height="45" rx="6" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
+  <text x="150" y="318" text-anchor="middle" font-size="13" font-weight="bold" fill="#2b8a3e">输出</text>
+  <text x="150" y="333" text-anchor="middle" font-size="9" fill="#666">可预测的质量</text>
 
   <!-- ============================================================ -->
   <!-- 中间：失效标记 -->
   <!-- ============================================================ -->
 
-  <text x="400" y="200" text-anchor="middle" font-size="60" fill="#c92a2a" opacity="0.8">X</text>
+  <text x="400" y="195" text-anchor="middle" font-size="50" fill="#c92a2a" opacity="0.7">X</text>
 
   <!-- ============================================================ -->
   <!-- 右侧：AI时代 - 不可控输入 -->
   <!-- ============================================================ -->
 
-  <text x="650" y="40" text-anchor="middle" font-size="18" font-weight="bold" fill="#2b8a3e">AI时代逻辑</text>
-  <text x="650" y="62" text-anchor="middle" font-size="12" fill="#999">输入不可控 → 输出不可预测</text>
+  <text x="650" y="65" text-anchor="middle" font-size="16" font-weight="bold" fill="#2b8a3e">AI时代逻辑</text>
+  <text x="650" y="82" text-anchor="middle" font-size="10" fill="#999">输入不可控 → 输出不可预测</text>
 
   <!-- 混乱输入 -->
-  <rect x="530" y="100" width="240" height="250" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="2"/>
+  <rect x="530" y="95" width="240" height="230" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="2"/>
 
   <!-- 多个数据源 -->
-  <rect x="550" y="120" width="80" height="40" rx="4" fill="#e7f5ff" stroke="#1864ab" stroke-width="1.5"/>
-  <text x="590" y="145" text-anchor="middle" font-size="11" fill="#1864ab">数据源1</text>
+  <rect x="550" y="115" width="75" height="38" rx="4" fill="#e7f5ff" stroke="#1864ab" stroke-width="1.5"/>
+  <text x="587" y="138" text-anchor="middle" font-size="10" fill="#1864ab">数据源1</text>
 
-  <rect x="650" y="120" width="80" height="40" rx="4" fill="#f3f0ff" stroke="#862e9c" stroke-width="1.5"/>
-  <text x="690" y="145" text-anchor="middle" font-size="11" fill="#862e9c">数据源2</text>
+  <rect x="640" y="115" width="75" height="38" rx="4" fill="#f3f0ff" stroke="#862e9c" stroke-width="1.5"/>
+  <text x="677" y="138" text-anchor="middle" font-size="10" fill="#862e9c">数据源2</text>
 
-  <rect x="550" y="175" width="80" height="40" rx="4" fill="#fff9db" stroke="#d77a00" stroke-width="1.5"/>
-  <text x="590" y="200" text-anchor="middle" font-size="11" fill="#d77a00">数据源3</text>
+  <rect x="550" y="165" width="75" height="38" rx="4" fill="#fff9db" stroke="#d77a00" stroke-width="1.5"/>
+  <text x="587" y="188" text-anchor="middle" font-size="10" fill="#d77a00">数据源3</text>
 
-  <rect x="650" y="175" width="80" height="40" rx="4" fill="#fff5f7" stroke="#e64980" stroke-width="1.5"/>
-  <text x="690" y="200" text-anchor="middle" font-size="11" fill="#e64980">数据源4</text>
+  <rect x="640" y="165" width="75" height="38" rx="4" fill="#fff5f7" stroke="#e64980" stroke-width="1.5"/>
+  <text x="677" y="188" text-anchor="middle" font-size="10" fill="#e64980">数据源4</text>
 
   <!-- 问号 -->
-  <text x="650" y="260" text-anchor="middle" font-size="48" fill="#c92a2a" opacity="0.6">?</text>
+  <text x="650" y="245" text-anchor="middle" font-size="42" fill="#c92a2a" opacity="0.6">?</text>
 
   <!-- AI 盒子 -->
-  <ellipse cx="650" cy="290" rx="60" ry="30" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
-  <text x="650" y="295" text-anchor="middle" font-size="16" font-weight="bold" fill="#862e9c">AI</text>
+  <ellipse cx="650" cy="275" rx="55" ry="28" fill="#f3f0ff" stroke="#862e9c" stroke-width="2"/>
+  <text x="650" y="280" text-anchor="middle" font-size="14" font-weight="bold" fill="#862e9c">AI</text>
 
   <!-- 问号输出 -->
-  <rect x="570" y="330" width="160" height="45" rx="6" fill="#fff" stroke="#c92a2a" stroke-width="2" stroke-dasharray="5,3"/>
-  <text x="650" y="358" text-anchor="middle" font-size="14" font-weight="bold" fill="#c92a2a">???</text>
+  <rect x="575" y="310" width="150" height="40" rx="6" fill="#fff" stroke="#c92a2a" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="650" y="335" text-anchor="middle" font-size="13" font-weight="bold" fill="#c92a2a">???</text>
 
   <!-- ============================================================ -->
   <!-- 底部引言 -->
   <!-- ============================================================ -->
 
-  <line x1="50" y1="400" x2="750" y2="400" stroke="#e0e0e0" stroke-width="1"/>
+  <line x1="50" y1="380" x2="750" y2="380" stroke="#e0e0e0" stroke-width="1"/>
 
-  <rect x="180" y="90" width="440" height="45" rx="8" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
-  <text x="400" y="115" text-anchor="middle" font-size="15" font-weight="bold" fill="#d77a00">道可道，非常道</text>
-  <text x="400" y="135" text-anchor="middle" font-size="11" fill="#666">控制得了格式，控制不了语义</text>
+  <rect x="200" y="390" width="400" height="40" rx="6" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
+  <text x="400" y="410" text-anchor="middle" font-size="12" font-weight="bold" fill="#d77a00">道可道，非常道</text>
+  <text x="400" y="425" text-anchor="middle" font-size="10" fill="#666">控制得了格式，控制不了语义</text>
 
 </svg>

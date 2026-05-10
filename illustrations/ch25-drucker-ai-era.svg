@@ -4,64 +4,64 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold" fill="#333">如果德鲁克今天写《动荡时代的管理》</text>
-  <text x="400" y="62" text-anchor="middle" font-size="12" fill="#777">一个思想实验：1980年的框架在AI时代如何演进</text>
+  <text x="400" y="35" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">如果德鲁克今天写《动荡时代的管理》</text>
+  <text x="400" y="55" text-anchor="middle" font-size="11" fill="#777">一个思想实验：1980年的框架在AI时代如何演进</text>
 
   <!-- ============================================================ -->
   <!-- 左侧：德鲁克1980年的核心观点 -->
   <!-- ============================================================ -->
 
-  <rect x="50" y="90" width="340" height="220" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="220" y="120" text-anchor="middle" font-size="15" font-weight="bold" fill="#1864ab">德鲁克1980年的核心观点</text>
-  <text x="220" y="145" text-anchor="middle" font-size="10" fill="#666">《动荡时代的管理》</text>
+  <rect x="50" y="75" width="320" height="200" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
+  <text x="210" y="102" text-anchor="middle" font-size="14" font-weight="bold" fill="#1864ab">德鲁克1980年的核心观点</text>
+  <text x="210" y="122" text-anchor="middle" font-size="9" fill="#666">《动荡时代的管理》</text>
 
-  <circle cx="80" cy="175" r="5" fill="#1864ab"/>
-  <text x="95" y="180" font-size="11" fill="#333">动荡是常态，而非异常</text>
+  <circle cx="80" cy="152" r="5" fill="#1864ab"/>
+  <text x="95" y="157" font-size="10" fill="#333">动荡是常态，而非异常</text>
 
-  <circle cx="80" cy="205" r="5" fill="#1864ab"/>
-  <text x="95" y="210" font-size="11" fill="#333">效果比效率重要</text>
+  <circle cx="80" cy="180" r="5" fill="#1864ab"/>
+  <text x="95" y="185" font-size="10" fill="#333">效果比效率重要</text>
 
-  <circle cx="80" cy="235" r="5" fill="#1864ab"/>
-  <text x="95" y="240" font-size="11" fill="#333">组织的目的是让人发挥优势</text>
+  <circle cx="80" cy="208" r="5" fill="#1864ab"/>
+  <text x="95" y="213" font-size="10" fill="#333">组织的目的是让人发挥优势</text>
 
-  <circle cx="80" cy="265" r="5" fill="#1864ab"/>
-  <text x="95" y="270" font-size="11" fill="#333">动荡时代最大的危险</text>
-  <text x="95" y="285" font-size="11" fill="#333">是沿用过去的逻辑做事</text>
+  <circle cx="80" cy="236" r="5" fill="#1864ab"/>
+  <text x="95" y="241" font-size="10" fill="#333">动荡时代最大的危险</text>
+  <text x="95" y="256" font-size="10" fill="#333">是沿用过去的逻辑做事</text>
 
   <!-- ============================================================ -->
   <!-- 中间箭头 -->
   <!-- ============================================================ -->
 
-  <text x="400" y="180" text-anchor="middle" font-size="30" fill="#862e9c">→</text>
-  <text x="400" y="210" text-anchor="middle" font-size="12" fill="#862e9c">AI时代</text>
+  <text x="400" y="160" text-anchor="middle" font-size="28" fill="#862e9c">→</text>
+  <text x="400" y="185" text-anchor="middle" font-size="11" fill="#862e9c">AI时代</text>
 
   <!-- ============================================================ -->
   <!-- 右侧：AI时代的新维度 -->
   <!-- ============================================================ -->
 
-  <rect x="450" y="90" width="300" height="220" rx="10" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="600" y="120" text-anchor="middle" font-size="15" font-weight="bold" fill="#2b8a3e">AI时代的新维度</text>
+  <rect x="430" y="75" width="320" height="200" rx="10" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
+  <text x="590" y="102" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b8a3e">AI时代的新维度</text>
 
-  <circle cx="480" cy="175" r="5" fill="#2b8a3e"/>
-  <text x="495" y="180" font-size="11" fill="#333">判断力比知识更稀缺</text>
+  <circle cx="460" cy="152" r="5" fill="#2b8a3e"/>
+  <text x="475" y="157" font-size="10" fill="#333">判断力比知识更稀缺</text>
 
-  <circle cx="480" cy="205" r="5" fill="#2b8a3e"/>
-  <text x="495" y="210" font-size="11" fill="#333">韧性比优化更重要</text>
+  <circle cx="460" cy="180" r="5" fill="#2b8a3e"/>
+  <text x="475" y="185" font-size="10" fill="#333">韧性比优化更重要</text>
 
-  <circle cx="480" cy="235" r="5" fill="#2b8a3e"/>
-  <text x="495" y="240" font-size="11" fill="#333">整合深度成为核心竞争力</text>
+  <circle cx="460" cy="208" r="5" fill="#2b8a3e"/>
+  <text x="475" y="213" font-size="10" fill="#333">整合深度成为核心竞争力</text>
 
-  <circle cx="480" cy="265" r="5" fill="#2b8a3e"/>
-  <text x="495" y="270" font-size="11" fill="#333">人机协作能力成为基本功</text>
+  <circle cx="460" cy="236" r="5" fill="#2b8a3e"/>
+  <text x="475" y="241" font-size="10" fill="#333">人机协作能力成为基本功</text>
 
   <!-- ============================================================ -->
   <!-- 底部：德鲁克精神 -->
   <!-- ============================================================ -->
 
-  <line x1="50" y1="340" x2="750" y2="340" stroke="#e0e0e0" stroke-width="1"/>
+  <line x1="50" y1="310" x2="750" y2="310" stroke="#e0e0e0" stroke-width="1"/>
 
-  <rect x="150" y="355" width="500" height="55" rx="10" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
-  <text x="400" y="380" text-anchor="middle" font-size="14" font-weight="bold" fill="#e64980">德鲁克精神</text>
-  <text x="400" y="400" text-anchor="middle" font-size="11" fill="#333">思想家的任务不是给出答案，而是提出正确的问题</text>
+  <rect x="150" y="325" width="500" height="50" rx="10" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
+  <text x="400" y="348" text-anchor="middle" font-size="13" font-weight="bold" fill="#e64980">德鲁克精神</text>
+  <text x="400" y="368" text-anchor="middle" font-size="10" fill="#333">思想家的任务不是给出答案，而是提出正确的问题</text>
 
 </svg>
