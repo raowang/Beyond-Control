@@ -1,0 +1,426 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "excalidraw-cli",
+  "elements": [
+    {
+      "type": "text",
+      "id": "title",
+      "x": 250,
+      "y": 35,
+      "roughness": 2,
+      "strokeColor": "#1864ab",
+      "groupIds": [],
+      "fontSize": 22,
+      "fontFamily": 1,
+      "text": "质量的五个决定点"
+    },
+    {
+      "type": "rectangle",
+      "id": "p1",
+      "x": 80,
+      "y": 100,
+      "width": 130,
+      "height": 80,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "p1_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "p1_label",
+      "x": 90,
+      "y": 110,
+      "width": 110,
+      "height": 60,
+      "text": "1. 设计",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "p1",
+      "strokeColor": "#1864ab"
+    },
+    {
+      "type": "text",
+      "id": "p1sub",
+      "x": 95,
+      "y": 155,
+      "roughness": 2,
+      "strokeColor": "#1864ab",
+      "groupIds": [],
+      "fontSize": 12,
+      "fontFamily": 1,
+      "text": "模型选择架构"
+    },
+    {
+      "type": "rectangle",
+      "id": "p2",
+      "x": 240,
+      "y": 100,
+      "width": 130,
+      "height": 80,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#862e9c",
+      "backgroundColor": "#f3f0ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "p2_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "p2_label",
+      "x": 250,
+      "y": 110,
+      "width": 110,
+      "height": 60,
+      "text": "2. 数据",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "p2",
+      "strokeColor": "#862e9c"
+    },
+    {
+      "type": "text",
+      "id": "p2sub",
+      "x": 255,
+      "y": 155,
+      "roughness": 2,
+      "strokeColor": "#862e9c",
+      "groupIds": [],
+      "fontSize": 12,
+      "fontFamily": 1,
+      "text": "训练数据质量"
+    },
+    {
+      "type": "rectangle",
+      "id": "p3",
+      "x": 400,
+      "y": 100,
+      "width": 130,
+      "height": 80,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#2b8a3e",
+      "backgroundColor": "#ebfbee",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "p3_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "p3_label",
+      "x": 410,
+      "y": 110,
+      "width": 110,
+      "height": 60,
+      "text": "3. 提示词",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "p3",
+      "strokeColor": "#2b8a3e"
+    },
+    {
+      "type": "text",
+      "id": "p3sub",
+      "x": 415,
+      "y": 155,
+      "roughness": 2,
+      "strokeColor": "#2b8a3e",
+      "groupIds": [],
+      "fontSize": 12,
+      "fontFamily": 1,
+      "text": "指令设计质量"
+    },
+    {
+      "type": "rectangle",
+      "id": "p4",
+      "x": 560,
+      "y": 100,
+      "width": 130,
+      "height": 80,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#d77a00",
+      "backgroundColor": "#fff9db",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "p4_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "p4_label",
+      "x": 570,
+      "y": 110,
+      "width": 110,
+      "height": 60,
+      "text": "4. 执行",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "p4",
+      "strokeColor": "#d77a00"
+    },
+    {
+      "type": "text",
+      "id": "p4sub",
+      "x": 575,
+      "y": 155,
+      "roughness": 2,
+      "strokeColor": "#d77a00",
+      "groupIds": [],
+      "fontSize": 12,
+      "fontFamily": 1,
+      "text": "推理过程监控"
+    },
+    {
+      "type": "line",
+      "id": "arr1",
+      "x": 210,
+      "y": 140,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 2
+    },
+    {
+      "type": "line",
+      "id": "arr2",
+      "x": 370,
+      "y": 140,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 2
+    },
+    {
+      "type": "line",
+      "id": "arr3",
+      "x": 530,
+      "y": 140,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 2
+    },
+    {
+      "type": "rectangle",
+      "id": "p5",
+      "x": 310,
+      "y": 280,
+      "width": 180,
+      "height": 80,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#e64980",
+      "backgroundColor": "#fff5f7",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "p5_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "p5_label",
+      "x": 320,
+      "y": 290,
+      "width": 160,
+      "height": 60,
+      "text": "5. 反馈",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "p5",
+      "strokeColor": "#e64980"
+    },
+    {
+      "type": "text",
+      "id": "p5sub",
+      "x": 330,
+      "y": 335,
+      "roughness": 2,
+      "strokeColor": "#e64980",
+      "groupIds": [],
+      "fontSize": 12,
+      "fontFamily": 1,
+      "text": "持续优化闭环"
+    },
+    {
+      "type": "line",
+      "id": "l1",
+      "x": 145,
+      "y": 180,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          100
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    },
+    {
+      "type": "line",
+      "id": "l2",
+      "x": 305,
+      "y": 180,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          40,
+          100
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    },
+    {
+      "type": "line",
+      "id": "l3",
+      "x": 465,
+      "y": 180,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -30,
+          100
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    },
+    {
+      "type": "line",
+      "id": "l4",
+      "x": 625,
+      "y": 180,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -110,
+          100
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    },
+    {
+      "type": "text",
+      "id": "quote",
+      "x": 150,
+      "y": 450,
+      "roughness": 2,
+      "strokeColor": "#495057",
+      "groupIds": [],
+      "fontSize": 14,
+      "fontFamily": 1,
+      "text": "质量不是检验出来的，是构建出来的"
+    },
+    {
+      "type": "text",
+      "id": "author",
+      "x": 150,
+      "y": 490,
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "groupIds": [],
+      "fontSize": 12,
+      "fontFamily": 1,
+      "text": "—— 戴明"
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": null
+  },
+  "files": {}
+}
