@@ -121,7 +121,7 @@ def md_to_latex(md_content):
             path = path.strip()
             if path.lower().endswith('.svg'):
                 svg_path = path[:-4]
-                result.append('\\begin{figure}[htbp]\\centering\\includesvg[width=\\linewidth]{' + svg_path + '.svg}\\caption{' + alt + '}\\end{figure}')
+                result.append('\\begin{figure}[htbp]\\centering\\includesvg[width=0.5\\linewidth,height=0.3\\textheight]{' + svg_path + '.svg}\\caption{' + alt + '}\\end{figure}')
             else:
                 for ext in ('.png', '.pdf', '.jpg', '.jpeg'):
                     if path.lower().endswith(ext):
