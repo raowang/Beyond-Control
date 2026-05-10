@@ -119,17 +119,15 @@ def md_to_latex(md_content):
         if img_match:
             alt, path = img_match.groups()
             path = path.strip()
-            is_svg = False
-            for ext in ('.svg', '.png', '.pdf', '.jpg', '.jpeg'):
-                if path.lower().endswith(ext):
-                    path = path[:-len(ext)]
-                    if ext == '.svg':
-                        is_svg = True
-                    break
-            if is_svg:
-                result.append(f'\\begin{{figure}}[htbp]\\centering\\includesvg[width=\\linewidth]{{{path}.svg}}\\caption{{{alt}}}\\end{{figure}}')
+            if path.lower().endswith('.svg'):
+                svg_path = path[:-4]
+                result.append('\\begin{figure}[htbp]\\centering\\includesvg[width=\\linewidth]{' + svg_path + '.svg}\\caption{' + alt + '}\\end{figure}')
             else:
-                result.append(f'\\begin{{figure}}[htbp]\\centering\\includegraphics[width=\\linewidth]{{{path}}}\\caption{{{alt}}}\\end{{figure}}')
+                for ext in ('.png', '.pdf', '.jpg', '.jpeg'):
+                    if path.lower().endswith(ext):
+                        path = path[:-len(ext)]
+                        break
+                result.append('\\begin{figure}[htbp]\\centering\\includegraphics[width=\\linewidth]{' + path + '}\\caption{' + alt + '}\\end{figure}')
             continue
 
         # Regular text
