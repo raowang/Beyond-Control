@@ -1,0 +1,23 @@
+[     312ms] [WARNING] Error with Feature-Policy header: Unrecognized feature: '*'. @ :0
+[    2399ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://excalidraw.com/:0
+[   34087ms] [WARNING] Error with Feature-Policy header: Unrecognized feature: '*'. @ :0
+[   34325ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://excalidraw.com/:0
+[   79305ms] Uncaught TypeError: Cannot read properties of undefined (reading '__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED')
+    at eval (webpack-internal:///../../../node_modules/react/cjs/react-jsx-runtime.development.js:51:33)
+    at eval (webpack-internal:///../../../node_modules/react/cjs/react-jsx-runtime.development.js:1312:4)
+    at ../../../node_modules/react/cjs/react-jsx-runtime.development.js (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:846:0)
+    at __webpack_require__ (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:5624:41)
+    at eval (webpack-internal:///../../../node_modules/react/jsx-runtime.js:3:19)
+    at ../../../node_modules/react/jsx-runtime.js (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:857:0)
+    at __webpack_require__ (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:5624:41)
+    at eval (webpack-internal:///./index.tsx:50:74)
+    at ./index.tsx (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:4357:0)
+    at __webpack_require__ (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:5624:41)
+    at eval (webpack-internal:///./entry.js:53:63)
+    at ./entry.js (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:4346:0)
+    at __webpack_require__ (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:5624:41)
+    at <anonymous> (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:5888:36)
+    at <anonymous> (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:5891:11)
+    at webpackUniversalModuleDefinition (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:16:26)
+    at <anonymous> (https://unpkg.com/@excalidraw/excalidraw@0.17.3/dist/excalidraw.development.js:17:2)
+[   79306ms] [WARNING] File chooser dialog can only be shown with a user activation. @ file:///tmp/excalidraw_exporter.html:31

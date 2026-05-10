@@ -1,0 +1,401 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "excalidraw-cli",
+  "elements": [
+    {
+      "type": "diamond",
+      "id": "center",
+      "x": 340,
+      "y": 250,
+      "width": 120,
+      "height": 100,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fff5f5",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "center_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "center_label",
+      "x": 350,
+      "y": 260,
+      "width": 100,
+      "height": 80,
+      "text": "旧逻辑\n失灵",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "center",
+      "strokeColor": "#c92a2a"
+    },
+    {
+      "type": "rectangle",
+      "id": "s1",
+      "x": 60,
+      "y": 80,
+      "width": 180,
+      "height": 70,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "s1_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "s1_label",
+      "x": 70,
+      "y": 90,
+      "width": 160,
+      "height": 50,
+      "text": "信号一",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "s1",
+      "strokeColor": "#1864ab"
+    },
+    {
+      "type": "text",
+      "id": "s1t",
+      "x": 75,
+      "y": 115,
+      "roughness": 2,
+      "strokeColor": "#1864ab",
+      "groupIds": [],
+      "fontSize": 13,
+      "fontFamily": 1,
+      "text": "战略规划赶不上变化"
+    },
+    {
+      "type": "rectangle",
+      "id": "s2",
+      "x": 560,
+      "y": 80,
+      "width": 180,
+      "height": 70,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#862e9c",
+      "backgroundColor": "#f3f0ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "s2_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "s2_label",
+      "x": 570,
+      "y": 90,
+      "width": 160,
+      "height": 50,
+      "text": "信号二",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "s2",
+      "strokeColor": "#862e9c"
+    },
+    {
+      "type": "text",
+      "id": "s2t",
+      "x": 575,
+      "y": 115,
+      "roughness": 2,
+      "strokeColor": "#862e9c",
+      "groupIds": [],
+      "fontSize": 13,
+      "fontFamily": 1,
+      "text": "最佳实践变成最佳诅咒"
+    },
+    {
+      "type": "rectangle",
+      "id": "s3",
+      "x": 40,
+      "y": 260,
+      "width": 180,
+      "height": 70,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#e64980",
+      "backgroundColor": "#fff5f7",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "s3_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "s3_label",
+      "x": 50,
+      "y": 270,
+      "width": 160,
+      "height": 50,
+      "text": "信号三",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "s3",
+      "strokeColor": "#e64980"
+    },
+    {
+      "type": "text",
+      "id": "s3t",
+      "x": 55,
+      "y": 295,
+      "roughness": 2,
+      "strokeColor": "#e64980",
+      "groupIds": [],
+      "fontSize": 13,
+      "fontFamily": 1,
+      "text": "绩效考核越来越难"
+    },
+    {
+      "type": "rectangle",
+      "id": "s4",
+      "x": 580,
+      "y": 260,
+      "width": 180,
+      "height": 70,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#d77a00",
+      "backgroundColor": "#fff9db",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "s4_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "s4_label",
+      "x": 590,
+      "y": 270,
+      "width": 160,
+      "height": 50,
+      "text": "信号四",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "s4",
+      "strokeColor": "#d77a00"
+    },
+    {
+      "type": "text",
+      "id": "s4t",
+      "x": 595,
+      "y": 295,
+      "roughness": 2,
+      "strokeColor": "#d77a00",
+      "groupIds": [],
+      "fontSize": 13,
+      "fontFamily": 1,
+      "text": "组织边界模糊，内耗大"
+    },
+    {
+      "type": "rectangle",
+      "id": "s5",
+      "x": 310,
+      "y": 450,
+      "width": 180,
+      "height": 70,
+      "roundness": {
+        "type": 3
+      },
+      "roughness": 2,
+      "strokeColor": "#2b8a3e",
+      "backgroundColor": "#ebfbee",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "boundElements": [
+        {
+          "id": "s5_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "s5_label",
+      "x": 320,
+      "y": 460,
+      "width": 160,
+      "height": 50,
+      "text": "信号五",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "s5",
+      "strokeColor": "#2b8a3e"
+    },
+    {
+      "type": "text",
+      "id": "s5t",
+      "x": 325,
+      "y": 485,
+      "roughness": 2,
+      "strokeColor": "#2b8a3e",
+      "groupIds": [],
+      "fontSize": 13,
+      "fontFamily": 1,
+      "text": "人才培养跟不上折旧"
+    },
+    {
+      "type": "line",
+      "id": "l1",
+      "x": 340,
+      "y": 280,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -100,
+          -120
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    },
+    {
+      "type": "line",
+      "id": "l2",
+      "x": 460,
+      "y": 280,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          100,
+          -120
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    },
+    {
+      "type": "line",
+      "id": "l3",
+      "x": 300,
+      "y": 300,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -120,
+          50
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    },
+    {
+      "type": "line",
+      "id": "l4",
+      "x": 500,
+      "y": 300,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          120,
+          50
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    },
+    {
+      "type": "line",
+      "id": "l5",
+      "x": 400,
+      "y": 350,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          100
+        ]
+      ],
+      "roughness": 2,
+      "strokeColor": "#868e96",
+      "strokeWidth": 1.5
+    },
+    {
+      "type": "text",
+      "id": "footer",
+      "x": 240,
+      "y": 545,
+      "roughness": 2,
+      "strokeColor": "#495057",
+      "groupIds": [],
+      "fontSize": 14,
+      "fontFamily": 1,
+      "text": "共同逻辑：环境持续快速变化"
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": null
+  },
+  "files": {}
+}

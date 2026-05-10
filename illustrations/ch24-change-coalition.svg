@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" style="font-family: 'Noto Serif CJK SC', serif; background: #fefefe;">
+  <title>变革联盟与软着陆路径</title>
+
+  <rect width="800" height="420" fill="white"/>
+
+  <!-- 标题 -->
+  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold" fill="#333">变革联盟的建立与软着陆路径</text>
+  <text x="400" y="62" text-anchor="middle" font-size="12" fill="#777">改革如果没有同盟军，就只能孤军奋战</text>
+
+  <!-- ============================================================ -->
+  <!-- 左侧：变革联盟三步法 -->
+  <!-- ============================================================ -->
+
+  <rect x="50" y="90" width="350" height="200" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
+  <text x="225" y="120" text-anchor="middle" font-size="15" font-weight="bold" fill="#1864ab">变革联盟三步法</text>
+
+  <!-- 步骤1 -->
+  <circle cx="100" cy="160" r="20" fill="#1864ab"/>
+  <text x="100" y="167" text-anchor="middle" font-size="16" font-weight="bold" fill="white">1</text>
+  <text x="130" y="162" font-size="12" font-weight="bold" fill="#1864ab">识别关键位置的人</text>
+  <text x="130" y="182" font-size="10" fill="#666">跨部门联系者、信息持有者、</text>
+  <text x="130" y="197" font-size="10" fill="#666">资源控制者、非正式领导者</text>
+
+  <!-- 步骤2 -->
+  <circle cx="100" cy="230" r="20" fill="#1864ab"/>
+  <text x="100" y="237" text-anchor="middle" font-size="16" font-weight="bold" fill="white">2</text>
+  <text x="130" y="232" font-size="12" font-weight="bold" fill="#1864ab">找到共同愿景</text>
+  <text x="130" y="252" font-size="10" fill="#666">为什么聚在一起做这件事</text>
+  <text x="130" y="267" font-size="10" fill="#666">维持凝聚力的粘合剂</text>
+
+  <!-- 步骤3 -->
+  <circle cx="100" cy="300" r="20" fill="#1864ab"/>
+  <text x="100" y="307" text-anchor="middle" font-size="16" font-weight="bold" fill="white">3</text>
+  <text x="130" y="302" font-size="12" font-weight="bold" fill="#1864ab">让联盟成员有"拥有感"</text>
+  <text x="130" y="322" font-size="10" fill="#666">不是被"要求"支持</text>
+  <text x="130" y="337" font-size="10" fill="#666">而是真正"想要"支持</text>
+
+  <!-- ============================================================ -->
+  <!-- 右侧：软着陆路径 -->
+  <!-- ============================================================ -->
+
+  <rect x="420" y="90" width="330" height="200" rx="10" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
+  <text x="585" y="120" text-anchor="middle" font-size="15" font-weight="bold" fill="#2b8a3e">软着陆路径</text>
+
+  <!-- 路径步骤 -->
+  <rect x="450" y="145" width="270" height="35" rx="6" fill="#fff"/>
+  <text x="465" y="168" font-size="11" font-weight="bold" fill="#2b8a3e">1. 先试点后推广</text>
+
+  <path d="M470 185 L470 205" fill="none" stroke="#2b8a3e" stroke-width="2"/>
+  <polygon points="470,205 466,197 474,197" fill="#2b8a3e"/>
+
+  <rect x="450" y="210" width="270" height="35" rx="6" fill="#fff"/>
+  <text x="465" y="233" font-size="11" font-weight="bold" fill="#2b8a3e">2. 赋能而非裁员</text>
+
+  <path d="M470 250 L470 270" fill="none" stroke="#2b8a3e" stroke-width="2"/>
+  <polygon points="470,270 466,262 474,262" fill="#2b8a3e"/>
+
+  <rect x="450" y="275" width="270" height="35" rx="6" fill="#fff"/>
+  <text x="465" y="298" font-size="11" font-weight="bold" fill="#2b8a3e">3. 渐进而非激进</text>
+
+  <!-- ============================================================ -->
+  <!-- 底部：核心洞察 -->
+  <!-- ============================================================ -->
+
+  <line x1="50" y1="380" x2="750" y2="380" stroke="#e0e0e0" stroke-width="1"/>
+
+  <rect x="150" y="340" width="500" height="35" rx="6" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
+  <text x="400" y="363" text-anchor="middle" font-size="13" font-weight="bold" fill="#d77a00">任何变革，表面上是改事，实际上是改人</text>
+
+</svg>
