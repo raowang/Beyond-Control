@@ -4,59 +4,59 @@
   <rect width="800" height="420" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="35" text-anchor="middle" font-size="5" font-weight="bold" fill="#333">变革联盟的建立与软着陆路径</text>
-  <text x="400" y="55" text-anchor="middle" font-size="3" fill="#777">改革如果没有同盟军，就只能孤军奋战</text>
+  <text x="400" y="35" text-anchor="middle" font-size="13" font-weight="bold" fill="#333">变革联盟的建立与软着陆路径</text>
+  <text x="400" y="55" text-anchor="middle" font-size="10" fill="#777">改革如果没有同盟军，就只能孤军奋战</text>
 
   <!-- ============================================================ -->
   <!-- 左侧：变革联盟三步法 -->
   <!-- ============================================================ -->
 
   <rect x="50" y="75" width="340" height="190" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="220" y="102" text-anchor="middle" font-size="4" font-weight="bold" fill="#1864ab">变革联盟三步法</text>
+  <text x="220" y="102" text-anchor="middle" font-size="11" font-weight="bold" fill="#1864ab">变革联盟三步法</text>
 
   <!-- 步骤1 -->
   <circle cx="100" cy="140" r="18" fill="#1864ab"/>
-  <text x="100" y="146" text-anchor="middle" font-size="4" font-weight="bold" fill="white">1</text>
-  <text x="130" y="138" font-size="3" font-weight="bold" fill="#1864ab">识别关键位置的人</text>
-  <text x="130" y="158" font-size="3" fill="#666">跨部门联系者、信息持有者、</text>
-  <text x="130" y="172" font-size="3" fill="#666">资源控制者、非正式领导者</text>
+  <text x="100" y="146" text-anchor="middle" font-size="11" font-weight="bold" fill="white">1</text>
+  <text x="130" y="138" font-size="10" font-weight="bold" fill="#1864ab">识别关键位置的人</text>
+  <text x="130" y="158" font-size="10" fill="#666">跨部门联系者、信息持有者、</text>
+  <text x="130" y="172" font-size="10" fill="#666">资源控制者、非正式领导者</text>
 
   <!-- 步骤2 -->
   <circle cx="100" cy="205" r="18" fill="#1864ab"/>
-  <text x="100" y="211" text-anchor="middle" font-size="4" font-weight="bold" fill="white">2</text>
-  <text x="130" y="203" font-size="3" font-weight="bold" fill="#1864ab">找到共同愿景</text>
-  <text x="130" y="223" font-size="3" fill="#666">为什么聚在一起做这件事</text>
-  <text x="130" y="237" font-size="3" fill="#666">维持凝聚力的粘合剂</text>
+  <text x="100" y="211" text-anchor="middle" font-size="11" font-weight="bold" fill="white">2</text>
+  <text x="130" y="203" font-size="10" font-weight="bold" fill="#1864ab">找到共同愿景</text>
+  <text x="130" y="223" font-size="10" fill="#666">为什么聚在一起做这件事</text>
+  <text x="130" y="237" font-size="10" fill="#666">维持凝聚力的粘合剂</text>
 
   <!-- 步骤3 -->
   <circle cx="100" cy="270" r="18" fill="#1864ab"/>
-  <text x="100" y="276" text-anchor="middle" font-size="4" font-weight="bold" fill="white">3</text>
-  <text x="130" y="268" font-size="3" font-weight="bold" fill="#1864ab">让联盟成员有"拥有感"</text>
-  <text x="130" y="288" font-size="3" fill="#666">不是被"要求"支持</text>
-  <text x="130" y="302" font-size="3" fill="#666">而是真正"想要"支持</text>
+  <text x="100" y="276" text-anchor="middle" font-size="11" font-weight="bold" fill="white">3</text>
+  <text x="130" y="268" font-size="10" font-weight="bold" fill="#1864ab">让联盟成员有"拥有感"</text>
+  <text x="130" y="288" font-size="10" fill="#666">不是被"要求"支持</text>
+  <text x="130" y="302" font-size="10" fill="#666">而是真正"想要"支持</text>
 
   <!-- ============================================================ -->
   <!-- 右侧：软着陆路径 -->
   <!-- ============================================================ -->
 
   <rect x="420" y="75" width="330" height="190" rx="10" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="585" y="102" text-anchor="middle" font-size="4" font-weight="bold" fill="#2b8a3e">软着陆路径</text>
+  <text x="585" y="102" text-anchor="middle" font-size="11" font-weight="bold" fill="#2b8a3e">软着陆路径</text>
 
   <!-- 路径步骤 -->
   <rect x="450" y="125" width="260" height="32" rx="5" fill="#fff"/>
-  <text x="465" y="147" font-size="3" font-weight="bold" fill="#2b8a3e">1. 先试点后推广</text>
+  <text x="465" y="147" font-size="10" font-weight="bold" fill="#2b8a3e">1. 先试点后推广</text>
 
   <path d="M470 162 L470 180" fill="none" stroke="#2b8a3e" stroke-width="2"/>
   <polygon points="470,180 466,172 474,172" fill="#2b8a3e"/>
 
   <rect x="450" y="185" width="260" height="32" rx="5" fill="#fff"/>
-  <text x="465" y="207" font-size="3" font-weight="bold" fill="#2b8a3e">2. 赋能而非裁员</text>
+  <text x="465" y="207" font-size="10" font-weight="bold" fill="#2b8a3e">2. 赋能而非裁员</text>
 
   <path d="M470 222 L470 240" fill="none" stroke="#2b8a3e" stroke-width="2"/>
   <polygon points="470,240 466,232 474,232" fill="#2b8a3e"/>
 
   <rect x="450" y="245" width="260" height="32" rx="5" fill="#fff"/>
-  <text x="465" y="267" font-size="3" font-weight="bold" fill="#2b8a3e">3. 渐进而非激进</text>
+  <text x="465" y="267" font-size="10" font-weight="bold" fill="#2b8a3e">3. 渐进而非激进</text>
 
   <!-- ============================================================ -->
   <!-- 底部：核心洞察 -->
@@ -65,6 +65,6 @@
   <line x1="50" y1="330" x2="750" y2="330" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="150" y="345" width="500" height="35" rx="6" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
-  <text x="400" y="368" text-anchor="middle" font-size="3" font-weight="bold" fill="#d77a00">任何变革，表面上是改事，实际上是改人</text>
+  <text x="400" y="368" text-anchor="middle" font-size="10" font-weight="bold" fill="#d77a00">任何变革，表面上是改事，实际上是改人</text>
 
 </svg>

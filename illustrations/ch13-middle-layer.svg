@@ -4,48 +4,48 @@
   <rect width="800" height="450" fill="white"/>
 
   <!-- 标题 -->
-  <text x="400" y="40" text-anchor="middle" font-size="6" font-weight="bold" fill="#333">中间层之死</text>
-  <text x="400" y="62" text-anchor="middle" font-size="3" fill="#777">AI时代的信息传递：从层层汇总到直接连接</text>
+  <text x="400" y="40" text-anchor="middle" font-size="14" font-weight="bold" fill="#333">中间层之死</text>
+  <text x="400" y="62" text-anchor="middle" font-size="10" fill="#777">AI时代的信息传递：从层层汇总到直接连接</text>
 
   <!-- ============================================================ -->
   <!-- 左侧：传统组织 - 层层传递 -->
   <!-- ============================================================ -->
 
-  <text x="150" y="95" text-anchor="middle" font-size="5" font-weight="bold" fill="#666">传统组织</text>
+  <text x="150" y="95" text-anchor="middle" font-size="13" font-weight="bold" fill="#666">传统组织</text>
 
   <!-- CEO -->
   <circle cx="150" cy="130" r="25" fill="#e9ecef" stroke="#495057" stroke-width="2"/>
-  <text x="150" y="135" text-anchor="middle" font-size="3" font-weight="bold" fill="#333">CEO</text>
+  <text x="150" y="135" text-anchor="middle" font-size="10" font-weight="bold" fill="#333">CEO</text>
 
   <!-- 连接线 -->
   <line x1="150" y1="155" x2="150" y2="175" stroke="#868e96" stroke-width="1.5"/>
 
   <!-- 中间层 L1 -->
   <circle cx="150" cy="195" r="22" fill="#e9ecef" stroke="#495057" stroke-width="1.5"/>
-  <text x="150" y="200" text-anchor="middle" font-size="3" font-weight="bold" fill="#333">VP</text>
+  <text x="150" y="200" text-anchor="middle" font-size="10" font-weight="bold" fill="#333">VP</text>
 
   <!-- 连接线 -->
   <line x1="150" y1="217" x2="150" y2="237" stroke="#868e96" stroke-width="1.5"/>
 
   <!-- 中间层 L2 -->
   <circle cx="150" cy="257" r="20" fill="#e9ecef" stroke="#495057" stroke-width="1.5"/>
-  <text x="150" y="262" text-anchor="middle" font-size="3" font-weight="bold" fill="#333">总监</text>
+  <text x="150" y="262" text-anchor="middle" font-size="10" font-weight="bold" fill="#333">总监</text>
 
   <!-- 连接线 -->
   <line x1="150" y1="277" x2="150" y2="297" stroke="#868e96" stroke-width="1.5"/>
 
   <!-- 一线 -->
   <circle cx="150" cy="320" r="18" fill="#e9ecef" stroke="#495057" stroke-width="1.5"/>
-  <text x="150" y="325" text-anchor="middle" font-size="3" font-weight="bold" fill="#333">一线</text>
+  <text x="150" y="325" text-anchor="middle" font-size="10" font-weight="bold" fill="#333">一线</text>
 
   <!-- 信息流标注 -->
-  <text x="80" y="200" text-anchor="middle" font-size="3" fill="#c92a2a">信息</text>
-  <text x="80" y="215" text-anchor="middle" font-size="3" fill="#c92a2a">层层</text>
-  <text x="80" y="230" text-anchor="middle" font-size="3" fill="#c92a2a">汇总</text>
+  <text x="80" y="200" text-anchor="middle" font-size="10" fill="#c92a2a">信息</text>
+  <text x="80" y="215" text-anchor="middle" font-size="10" fill="#c92a2a">层层</text>
+  <text x="80" y="230" text-anchor="middle" font-size="10" fill="#c92a2a">汇总</text>
 
-  <text x="220" y="200" text-anchor="middle" font-size="3" fill="#c92a2a">指令</text>
-  <text x="220" y="215" text-anchor="middle" font-size="3" fill="#c92a2a">层层</text>
-  <text x="220" y="230" text-anchor="middle" font-size="3" fill="#c92a2a">传达</text>
+  <text x="220" y="200" text-anchor="middle" font-size="10" fill="#c92a2a">指令</text>
+  <text x="220" y="215" text-anchor="middle" font-size="10" fill="#c92a2a">层层</text>
+  <text x="220" y="230" text-anchor="middle" font-size="10" fill="#c92a2a">传达</text>
 
   <!-- ============================================================ -->
   <!-- 中间：转变箭头 -->
@@ -54,39 +54,39 @@
   <path d="M280 220 L340 220" fill="none" stroke="#c92a2a" stroke-width="3" stroke-linecap="round"/>
   <polygon points="340,220 328,215 328,225" fill="#c92a2a"/>
 
-  <text x="310" y="200" text-anchor="middle" font-size="3" fill="#c92a2a">AI</text>
-  <text x="310" y="215" text-anchor="middle" font-size="3" fill="#c92a2a">替代</text>
+  <text x="310" y="200" text-anchor="middle" font-size="10" fill="#c92a2a">AI</text>
+  <text x="310" y="215" text-anchor="middle" font-size="10" fill="#c92a2a">替代</text>
 
   <!-- ============================================================ -->
   <!-- 右侧：AI时代组织 - 扁平化 -->
   <!-- ============================================================ -->
 
-  <text x="580" y="95" text-anchor="middle" font-size="5" font-weight="bold" fill="#2b8a3e">AI时代组织</text>
+  <text x="580" y="95" text-anchor="middle" font-size="13" font-weight="bold" fill="#2b8a3e">AI时代组织</text>
 
   <!-- CEO -->
   <circle cx="580" cy="130" r="25" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="580" y="135" text-anchor="middle" font-size="3" font-weight="bold" fill="#2b8a3e">CEO</text>
+  <text x="580" y="135" text-anchor="middle" font-size="10" font-weight="bold" fill="#2b8a3e">CEO</text>
 
   <!-- AI层 -->
   <ellipse cx="580" cy="200" rx="50" ry="25" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <text x="580" y="195" text-anchor="middle" font-size="3" font-weight="bold" fill="#1864ab">AI</text>
-  <text x="580" y="210" text-anchor="middle" font-size="3" fill="#1864ab">信息汇总 + 指令转化</text>
+  <text x="580" y="195" text-anchor="middle" font-size="10" font-weight="bold" fill="#1864ab">AI</text>
+  <text x="580" y="210" text-anchor="middle" font-size="10" fill="#1864ab">信息汇总 + 指令转化</text>
 
   <!-- 连接线 -->
   <line x1="580" y1="225" x2="580" y2="245" stroke="#2b8a3e" stroke-width="2"/>
 
   <!-- 一线团队 (多个小圆) -->
   <circle cx="500" cy="300" r="20" fill="#ebfbee" stroke="#2b8a3e" stroke-width="1.5"/>
-  <text x="500" y="305" text-anchor="middle" font-size="3" fill="#2b8a3e">团队1</text>
+  <text x="500" y="305" text-anchor="middle" font-size="10" fill="#2b8a3e">团队1</text>
 
   <circle cx="560" cy="300" r="20" fill="#ebfbee" stroke="#2b8a3e" stroke-width="1.5"/>
-  <text x="560" y="305" text-anchor="middle" font-size="3" fill="#2b8a3e">团队2</text>
+  <text x="560" y="305" text-anchor="middle" font-size="10" fill="#2b8a3e">团队2</text>
 
   <circle cx="620" cy="300" r="20" fill="#ebfbee" stroke="#2b8a3e" stroke-width="1.5"/>
-  <text x="620" y="305" text-anchor="middle" font-size="3" fill="#2b8a3e">团队3</text>
+  <text x="620" y="305" text-anchor="middle" font-size="10" fill="#2b8a3e">团队3</text>
 
   <circle cx="680" cy="300" r="20" fill="#ebfbee" stroke="#2b8a3e" stroke-width="1.5"/>
-  <text x="680" y="305" text-anchor="middle" font-size="3" fill="#2b8a3e">团队4</text>
+  <text x="680" y="305" text-anchor="middle" font-size="10" fill="#2b8a3e">团队4</text>
 
   <!-- 扁平连接线 -->
   <line x1="580" y1="245" x2="500" y2="280" stroke="#2b8a3e" stroke-width="1.5"/>
@@ -101,13 +101,13 @@
   <line x1="50" y1="360" x2="750" y2="360" stroke="#e0e0e0" stroke-width="1"/>
 
   <rect x="80" y="375" width="300" height="65" rx="8" fill="#fff5f5" stroke="#e64980" stroke-width="2"/>
-  <text x="230" y="395" text-anchor="middle" font-size="4" font-weight="bold" fill="#e64980">中间层的两个功能</text>
-  <text x="230" y="418" text-anchor="middle" font-size="3" fill="#333">1. 信息汇总 → AI可完成</text>
-  <text x="230" y="435" text-anchor="middle" font-size="3" fill="#333">2. 指令传达 → AI可替代</text>
+  <text x="230" y="395" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">中间层的两个功能</text>
+  <text x="230" y="418" text-anchor="middle" font-size="10" fill="#333">1. 信息汇总 → AI可完成</text>
+  <text x="230" y="435" text-anchor="middle" font-size="10" fill="#333">2. 指令传达 → AI可替代</text>
 
   <rect x="420" y="375" width="300" height="65" rx="8" fill="#ebfbee" stroke="#2b8a3e" stroke-width="2"/>
-  <text x="570" y="395" text-anchor="middle" font-size="4" font-weight="bold" fill="#2b8a3e">扁平化的结果</text>
-  <text x="570" y="418" text-anchor="middle" font-size="3" fill="#333">管理幅度不再受限</text>
-  <text x="570" y="435" text-anchor="middle" font-size="3" fill="#333">一线可直接与高层对话</text>
+  <text x="570" y="395" text-anchor="middle" font-size="11" font-weight="bold" fill="#2b8a3e">扁平化的结果</text>
+  <text x="570" y="418" text-anchor="middle" font-size="10" fill="#333">管理幅度不再受限</text>
+  <text x="570" y="435" text-anchor="middle" font-size="10" fill="#333">一线可直接与高层对话</text>
 
 </svg>

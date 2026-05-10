@@ -17,7 +17,7 @@
 
 ---
 
-![T型能力的进化](illustrations/ch18-t-shaped.svg)
+![T型能力的进化](illustrations/ch18-t-shaped.pdf)
 
 先说T型人。
 
