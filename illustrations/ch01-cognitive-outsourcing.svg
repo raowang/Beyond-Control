@@ -77,10 +77,10 @@
   </g>
 
   <rect x="60" y="375" width="680" height="42" rx="6" fill="#FFF8E1" stroke="#FFB300" stroke-width="1.5"/>
-  <text x="80" y="395" font-size="10" font-weight="bold" fill="#E65100">柯达的教训</text>
-  <text x="175" y="395" font-size="10" fill="#555">趋势来时，最大阻力往往不是技术，是</text>
-  <text x="385" y="395" font-size="10" font-weight="bold" fill="#C62828">既得利益</text>
-  <text x="443" y="395" font-size="10" fill="#555">。</text>
+  <text x="80" y="395" font-size="10" font-weight="bold" fill="#E65100">柯达的教训：</text>
+  <text x="140" y="395" font-size="10" fill="#555">趋势来时，最大阻力往往不是技术，是</text>
+  <text x="310" y="395" font-size="10" font-weight="bold" fill="#C62828">既得利益</text>
+  <text x="351" y="395" font-size="10" fill="#555">。</text>
   <text x="80" y="409" font-size="10" fill="#999">1991年数码相机发明 → 管理层拒绝推广 → 2012年柯达破产</text>
 
 </svg>

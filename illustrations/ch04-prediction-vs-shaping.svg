@@ -12,46 +12,46 @@
   <text x="195" y="38" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a1a1a">预测型世界观</text>
   <text x="195" y="58" text-anchor="middle" font-size="10" fill="#777">未来是可以被分析和预测的</text>
 
-  <!-- 水晶球 + 人物（居中在左侧） -->
+  <!-- 水晶球 + 人物（居中在左侧）- 向左移40px -->
   <!-- 水晶球 -->
-  <circle cx="195" cy="165" r="36" fill="#e8e8ff" stroke="#333" stroke-width="1.8"/>
+  <circle cx="155" cy="165" r="36" fill="#e8e8ff" stroke="#333" stroke-width="1.8"/>
   <!-- 高光 -->
-  <ellipse cx="182" cy="150" rx="11" ry="7" fill="white" opacity="0.7"/>
+  <ellipse cx="142" cy="150" rx="11" ry="7" fill="white" opacity="0.7"/>
   <!-- 光芒线 -->
-  <line x1="168" y1="132" x2="162" y2="124" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
-  <line x1="222" y1="132" x2="228" y2="124" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
-  <line x1="195" y1="122" x2="195" y2="114" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="128" y1="132" x2="122" y2="124" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="182" y1="132" x2="188" y2="124" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="155" y1="122" x2="155" y2="114" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
 
   <!-- 人物剪影（简化小人） -->
-  <ellipse cx="118" cy="148" rx="17" ry="20" fill="none" stroke="#333" stroke-width="1.8"/>
+  <ellipse cx="78" cy="148" rx="17" ry="20" fill="none" stroke="#333" stroke-width="1.8"/>
   <!-- 眼睛 -->
-  <circle cx="113" cy="144" r="2.5" fill="#333"/>
-  <circle cx="123" cy="144" r="2.5" fill="#333"/>
+  <circle cx="73" cy="144" r="2.5" fill="#333"/>
+  <circle cx="83" cy="144" r="2.5" fill="#333"/>
   <!-- 身体 -->
-  <line x1="118" y1="168" x2="108" y2="205" stroke="#333" stroke-width="1.8" stroke-linecap="round"/>
-  <line x1="118" y1="168" x2="128" y2="205" stroke="#333" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="78" y1="168" x2="68" y2="205" stroke="#333" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="78" y1="168" x2="88" y2="205" stroke="#333" stroke-width="1.8" stroke-linecap="round"/>
   <!-- 手（摸下巴思考） -->
-  <path d="M128 178 Q138 168 132 158" fill="none" stroke="#333" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M88 178 Q98 168 92 158" fill="none" stroke="#333" stroke-width="1.8" stroke-linecap="round"/>
 
   <!-- 虚线箭头：水球 -> 预测盒子 -->
-  <line x1="235" y1="165" x2="272" y2="165" stroke="#999" stroke-width="1.5" stroke-dasharray="5,4"/>
-  <polygon points="280,165 272,161 272,169" fill="#999"/>
+  <line x1="195" y1="165" x2="232" y2="165" stroke="#999" stroke-width="1.5" stroke-dasharray="5,4"/>
+  <polygon points="240,165 232,161 232,169" fill="#999"/>
 
   <!-- 预测的未来盒子 -->
-  <rect x="285" y="130" width="110" height="70" rx="4" fill="#fff8e0" stroke="#333" stroke-width="1.5"/>
-  <text x="340" y="153" text-anchor="middle" font-size="10" font-weight="bold" fill="#333">预测的未来</text>
-  <text x="340" y="172" text-anchor="middle" font-size="10" fill="#666">"我知道会怎样"</text>
-  <text x="340" y="188" text-anchor="middle" font-size="10" fill="#999">— 但实际？</text>
+  <rect x="245" y="130" width="110" height="70" rx="4" fill="#fff8e0" stroke="#333" stroke-width="1.5"/>
+  <text x="300" y="153" text-anchor="middle" font-size="10" font-weight="bold" fill="#333">预测的未来</text>
+  <text x="300" y="172" text-anchor="middle" font-size="10" fill="#666">"我知道会怎样"</text>
+  <text x="300" y="188" text-anchor="middle" font-size="10" fill="#999">— 但实际？</text>
 
   <!-- 问号（预测失误） -->
-  <text x="375" y="150" font-size="36" fill="#cc2222" opacity="0.7">?</text>
+  <text x="96" y="136" font-size="28" fill="#cc2222" opacity="0.8">?</text>
 
   <!-- 实际未来盒子（错位，表示失误） -->
-  <rect x="285" y="210" width="110" height="55" rx="4" fill="#fff0f0" stroke="#cc2222" stroke-width="1.5" stroke-dasharray="3,3"/>
-  <text x="340" y="233" text-anchor="middle" font-size="10" font-weight="bold" fill="#cc2222">实际未来</text>
-  <text x="340" y="252" text-anchor="middle" font-size="10" fill="#cc2222">出乎意料！</text>
+  <rect x="245" y="210" width="110" height="55" rx="4" fill="#fff0f0" stroke="#cc2222" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="300" y="233" text-anchor="middle" font-size="10" font-weight="bold" fill="#cc2222">实际未来</text>
+  <text x="300" y="252" text-anchor="middle" font-size="10" fill="#cc2222">出乎意料！</text>
 
-  <!-- 特点（左侧下方） -->
+  <!-- 特点（左侧下方）- 分隔线和文字不动 -->
   <line x1="30" y1="300" x2="360" y2="300" stroke="#e0e0e0" stroke-width="1"/>
   <text x="30" y="322" font-size="11" font-weight="bold" fill="#333">特点</text>
   <circle cx="42" cy="343" r="4" fill="#555"/>
@@ -127,7 +127,7 @@
   <!-- ============================================================ -->
   <!-- 底部总结 -->
   <!-- ============================================================ -->
-  <rect x="30" y="415" width="740" height="35" rx="5" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
+  <rect x="30" y="419" width="740" height="35" rx="5" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
   <!-- 第一行：预测 -->
   <text x="60" y="433" font-size="11" fill="#888"><tspan font-weight="bold">预测：</tspan>把未来当已知 → 适应它</text>
   <!-- 第二行：塑造 -->

@@ -10,18 +10,15 @@
   <text x="130" y="40" text-anchor="middle" font-size="13" font-weight="bold" fill="#1864ab">效率思维</text>
   <text x="130" y="62" text-anchor="middle" font-size="10" fill="#777">把事做对</text>
 
-  <!-- 齿轮图标 -->
-  <circle cx="130" cy="150" r="45" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
-  <circle cx="130" cy="150" r="20" fill="#fff" stroke="#1864ab" stroke-width="2"/>
-  <!-- 齿轮齿 -->
-  <path d="M130 100 L125 115 L135 115 Z" fill="#1864ab"/>
-  <path d="M130 200 L125 185 L135 185 Z" fill="#1864ab"/>
-  <path d="M80 150 L95 145 L95 155 Z" fill="#1864ab"/>
-  <path d="M180 150 L165 145 L165 155 Z" fill="#1864ab"/>
-  <path d="M95 115 L107 127 L100 133 Z" fill="#1864ab"/>
-  <path d="M165 185 L153 173 L160 167 Z" fill="#1864ab"/>
-  <path d="M95 185 L107 173 L100 167 Z" fill="#1864ab"/>
-  <path d="M165 115 L153 127 L160 133 Z" fill="#1864ab"/>
+  <!-- 齿轮图标（简洁机械风格） -->
+  <g transform="translate(130, 150)">
+    <!-- 齿轮齿 (6个) -->
+    <path d="M0 -42 L8 -42 L12 -30 L18 -32 L24 -24 L20 -18 L30 -14 L28 -8 L40 0 L32 8 L36 14 L24 20 L18 14 L12 30 L8 42 L0 42 L-8 42 L-12 30 L-18 32 L-24 24 L-20 18 L-30 14 L-28 8 L-40 0 L-32 -8 L-36 -14 L-24 -20 L-18 -14 L-12 -30 L-8 -42 Z" fill="#1864ab"/>
+    <!-- 齿轮内圆 -->
+    <circle cx="0" cy="0" r="22" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
+    <!-- 中心孔 -->
+    <circle cx="0" cy="0" r="8" fill="#1864ab"/>
+  </g>
 
   <!-- 效率公式 -->
   <rect x="50" y="230" width="160" height="50" rx="6" fill="#e7f5ff" stroke="#1864ab" stroke-width="1.5"/>
@@ -45,24 +42,41 @@
   <!-- 中间：陷阱 -->
   <!-- ============================================================ -->
 
-  <!-- 大陷阱 -->
-  <ellipse cx="400" cy="220" rx="100" ry="80" fill="#fff5f5" stroke="#c92a2a" stroke-width="3"/>
-  <text x="400" y="210" text-anchor="middle" font-size="14" font-weight="bold" fill="#c92a2a">效率陷阱</text>
-  <text x="400" y="235" text-anchor="middle" font-size="10" fill="#c92a2a">做对了事</text>
-  <text x="400" y="255" text-anchor="middle" font-size="10" fill="#c92a2a">但未必做对的事</text>
+  <!-- 深坑 - 简洁椭圆洞 -->
+  <ellipse cx="400" cy="240" rx="85" ry="28" fill="#495057"/>
+  <ellipse cx="400" cy="238" rx="75" ry="22" fill="#343a40"/>
 
-  <!-- 陷阱图案 (格纹) -->
-  <path d="M330 280 L340 300 L320 300 Z" fill="#c92a2a" opacity="0.3"/>
-  <path d="M360 290 L370 310 L350 310 Z" fill="#c92a2a" opacity="0.3"/>
-  <path d="M390 295 L400 315 L380 315 Z" fill="#c92a2a" opacity="0.3"/>
-  <path d="M420 290 L430 310 L410 310 Z" fill="#c92a2a" opacity="0.3"/>
-  <path d="M450 280 L460 300 L440 300 Z" fill="#c92a2a" opacity="0.3"/>
+  <!-- 地面边缘 -->
+  <path d="M300 240 Q350 225 400 230 Q450 225 500 240" fill="none" stroke="#c92a2a" stroke-width="3" stroke-linecap="round"/>
 
-  <!-- 人掉入陷阱 -->
-  <circle cx="400" cy="180" r="12" fill="#e9ecef" stroke="#495057" stroke-width="1.5"/>
-  <circle cx="396" cy="177" r="2" fill="#495057"/>
-  <circle cx="404" cy="177" r="2" fill="#495057"/>
-  <path d="M395 183 Q400 180 405 183" fill="none" stroke="#495057" stroke-width="1.5"/>
+  <!-- 人正在掉入 -->
+  <g transform="translate(400, 175)">
+    <!-- 头 -->
+    <circle cx="0" cy="0" r="14" fill="#e9ecef" stroke="#495057" stroke-width="2"/>
+    <!-- 眼睛 (惊讶) -->
+    <circle cx="-5" cy="-2" r="3" fill="#495057"/>
+    <circle cx="5" cy="-2" r="3" fill="#495057"/>
+    <!-- 嘴巴 (O形惊讶) -->
+    <ellipse cx="0" cy="6" rx="4" ry="5" fill="#495057"/>
+    <!-- 身体 -->
+    <line x1="0" y1="14" x2="0" y2="45" stroke="#495057" stroke-width="2.5"/>
+    <!-- 张开的手臂 -->
+    <line x1="-20" y1="25" x2="20" y2="25" stroke="#495057" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- 腿 -->
+    <line x1="0" y1="45" x2="-10" y2="60" stroke="#495057" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="0" y1="45" x2="10" y2="60" stroke="#495057" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- 文字标签 -->
+  <text x="400" y="290" text-anchor="middle" font-size="14" font-weight="bold" fill="#c92a2a">效率陷阱</text>
+  <text x="400" y="308" text-anchor="middle" font-size="10" fill="#c92a2a">做对了事</text>
+  <text x="400" y="325" text-anchor="middle" font-size="10" fill="#e03131">但未必做对的事</text>
+
+  <!-- 警告三角 -->
+  <g transform="translate(485, 165)">
+    <polygon points="0,-25 22,15 -22,15" fill="#ffc107" stroke="#e65100" stroke-width="2"/>
+    <text x="0" y="8" text-anchor="middle" font-size="20" font-weight="bold" fill="#e65100">!</text>
+  </g>
 
   <!-- ============================================================ -->
   <!-- 右侧：效果思维 (做对的事) -->
