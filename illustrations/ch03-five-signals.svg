@@ -57,10 +57,6 @@
 
   <!-- 底部总结 -->
   <rect x="150" y="43" width="500" height="35" rx="6" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
-  <text x="400" y="66" text-anchor="middle" font-size="10" fill="#666">
-    工业时代和知识经济时代的管理逻辑建立在
-    <tspan fill="#c92a2a" font-weight="bold">"环境稳定"</tspan>
-    假设之上
-  </text>
+  <text x="400" y="66" text-anchor="middle" font-size="10" fill="#666">工业时代和知识经济时代的管理逻辑建立在"环境稳定"假设之上</text>
 
 </svg>
