@@ -33,7 +33,7 @@
   <text x="490" y="400" text-anchor="middle" font-size="10" fill="#862e9c">年</text>
 
   <!-- AI最佳实践 - ? (最短) -->
-  <rect x="590" y="350" width="140" height="10" rx="3" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
+  <rect x="590" y="345" width="140" height="15" rx="3" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
   <text x="660" y="335" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">AI最佳实践</text>
   <text x="660" y="355" text-anchor="middle" font-size="10" fill="#666">GPT-4: 2023.3</text>
   <text x="660" y="395" text-anchor="middle" font-size="15" font-weight="bold" fill="#e64980">?</text>
