@@ -5,7 +5,7 @@
 
   <!-- 标题 -->
   <text x="400" y="40" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">扳道岔悖论</text>
-  <text x="400" y="62" text-anchor="middle" font-size="10" fill="#777">自动驾驶汽车面临的伦理困境</text>
+  <text x="400" y="62" text-anchor="middle" font-size="10" fill="#777">伦理学的经典思想实验</text>
 
   <!-- ============================================================ -->
   <!-- 主轨道 -->
