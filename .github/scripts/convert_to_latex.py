@@ -163,7 +163,7 @@ files = [
     ('第八章-控制逻辑的失效.md', 'latex/chapter08.tex'),
     ('第九章-质量管理的新逻辑.md', 'latex/chapter09.tex'),
     ('第十章-决策的人机分工.md', 'latex/chapter10.tex'),
-    ('第十一章-创新需要制度化.md', 'latex/chapter11.tex'),
+    ('第十一章-渐进创新与颠覆创新.md', 'latex/chapter11.tex'),
     ('PART-IV-组织重构.md', 'latex/part-iv.tex'),
     ('第十二章-组织架构的哲学.md', 'latex/chapter12.tex'),
     ('第十三章-中间层之死.md', 'latex/chapter13.tex'),
