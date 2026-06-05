@@ -51,11 +51,11 @@
   <!-- 中间：转变箭头 -->
   <!-- ============================================================ -->
 
-  <path d="M280 220 L340 220" fill="none" stroke="#c92a2a" stroke-width="3" stroke-linecap="round"/>
-  <polygon points="340,220 328,215 328,225" fill="#c92a2a"/>
+  <path d="M290 220 L420 220" fill="none" stroke="#c92a2a" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="440,220 398,215 398,225" fill="#c92a2a"/>
 
-  <text x="310" y="200" text-anchor="middle" font-size="10" fill="#c92a2a">AI</text>
-  <text x="310" y="215" text-anchor="middle" font-size="10" fill="#c92a2a">替代</text>
+  <text x="350" y="200" text-anchor="middle" font-size="10" fill="#c92a2a">AI</text>
+  <text x="350" y="215" text-anchor="middle" font-size="10" fill="#c92a2a">替代</text>
 
   <!-- ============================================================ -->
   <!-- 右侧：AI时代组织 - 扁平化 -->
