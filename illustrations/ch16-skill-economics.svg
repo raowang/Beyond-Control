@@ -29,8 +29,8 @@
   <!-- 价值下降箭头 -->
   <path d="M160 260 L110 260" fill="none" stroke="#c92a2a" stroke-width="3"/>
   <polygon points="110,260 125,255 125,265" fill="#c92a2a"/>
-  <text x="135" y="250" font-size="10" fill="#c92a2a">价值</text>
-  <text x="135" y="262" font-size="10" fill="#c92a2a">下降</text>
+  <text x="135" y="243" font-size="10" fill="#c92a2a">价值</text>
+  <text x="135" y="255" font-size="10" fill="#c92a2a">下降</text>
 
   <!-- ============================================================ -->
   <!-- 右侧：不可编码技能 -->
@@ -49,8 +49,8 @@
   <!-- 价值上升箭头 -->
   <path d="M660 260 L710 260" fill="none" stroke="#2b8a3e" stroke-width="3"/>
   <polygon points="710,260 695,255 695,265" fill="#2b8a3e"/>
-  <text x="685" y="250" font-size="10" fill="#2b8a3e">价值</text>
-  <text x="685" y="262" font-size="10" fill="#2b8a3e">上升</text>
+  <text x="685" y="243" font-size="10" fill="#2b8a3e">价值</text>
+  <text x="685" y="255" font-size="10" fill="#2b8a3e">上升</text>
 
   <!-- ============================================================ -->
   <!-- 中间：价值悖论 -->
