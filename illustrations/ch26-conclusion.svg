@@ -19,7 +19,7 @@
   <!-- 左侧：AI是什么 -->
   <!-- ============================================================ -->
 
-  <rect x="50" y="85" width="270" height="180" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
+  <rect x="50" y="85" width="270" height="210" rx="10" fill="#e7f5ff" stroke="#1864ab" stroke-width="2"/>
   <text x="185" y="112" text-anchor="middle" font-size="11" font-weight="bold" fill="#1864ab">AI是什么</text>
 
   <text x="80" y="145" font-size="10" font-weight="bold" fill="#1864ab">认知升维的载体</text>
@@ -42,7 +42,7 @@
   <!-- 右侧：为什么人更重要 -->
   <!-- ============================================================ -->
 
-  <rect x="480" y="85" width="270" height="180" rx="10" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
+  <rect x="480" y="85" width="270" height="210" rx="10" fill="#fff5f7" stroke="#e64980" stroke-width="2"/>
   <text x="615" y="112" text-anchor="middle" font-size="11" font-weight="bold" fill="#e64980">为什么人更重要</text>
 
   <text x="510" y="145" font-size="10" font-weight="bold" fill="#e64980">目的由人定</text>
@@ -60,7 +60,7 @@
 
   <line x1="50" y1="310" x2="750" y2="310" stroke="#e0e0e0" stroke-width="1"/>
 
-  <rect x="120" y="325" width="560" height="50" rx="10" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
+  <rect x="120" y="325" width="560" height="60" rx="10" fill="#fff9db" stroke="#d77a00" stroke-width="2"/>
   <text x="400" y="352" text-anchor="middle" font-size="11" font-weight="bold" fill="#d77a00">AI来了，你别忘了你是谁</text>
   <text x="400" y="372" text-anchor="middle" font-size="10" fill="#333">技术只是放大镜，放大的，是你选择放大的东西</text>
 
